@@ -547,5 +547,16 @@ restoreInputs();
 renderScn();
 render();
 </script>
+
+<!-- 后台使用量统计：每次打开静默上报一次，不在页面展示，仅用于监控 -->
+<script>
+(function(){
+  try {
+    var img = new Image();
+    img.referrerPolicy = 'no-referrer';
+    img.src = 'https://hits.dwyl.com/jiejin903/roi-calculator.svg';
+  } catch (e) {}
+})();
+</script>
 </body>
 </html>
