@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>客户广告ROI盈亏计算器</title>
+<style>
+  :root{
+    --bg:#f4f6fb; --card:#ffffff; --ink:#1f2937; --muted:#6b7280;
+    --line:#e5e7eb; --brand:#2563eb; --brand-soft:#eff4ff;
+    --profit:#16a34a; --loss:#dc2626; --warn:#d97706;
+    --shadow:0 1px 3px rgba(16,24,40,.06),0 6px 18px rgba(16,24,40,.05);
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;padding:0}
+  body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    background:var(--bg); color:var(--ink); font-size:16px; line-height:1.5;
+    padding:16px; max-width:760px; margin:0 auto;
+  }
+  h1{font-size:20px;margin:4px 0 2px}
+  .sub{color:var(--muted);font-size:13px;margin:0 0 14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:16px;margin-bottom:14px;box-shadow:var(--shadow)}
+  .card h2{font-size:15px;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+  .card h2 .dot{width:8px;height:8px;border-radius:50%;background:var(--brand)}
+  .field{margin-bottom:12px}
+  .field:last-child{margin-bottom:0}
+  label{display:block;font-size:13px;color:var(--muted);margin-bottom:6px}
+  .inputwrap{display:flex;align-items:center;background:#f9fafb;border:1px solid var(--line);
+    border-radius:10px;overflow:hidden}
+  .inputwrap:focus-within{border-color:var(--brand);background:#fff}
+  .inputwrap .unit{padding:0 12px;color:var(--muted);font-size:14px;background:#f3f4f6;
+    align-self:stretch;display:flex;align-items:center;border-right:1px solid var(--line)}
+  .inputwrap input{flex:1;border:0;outline:0;background:transparent;padding:13px 12px;
+    font-size:16px;width:100%;color:var(--ink)}
+  .inputwrap.percent .unit{border-right:0;border-left:1px solid var(--line);order:2}
+  .inputwrap.percent input{order:1;text-align:right}
+  select{width:100%;padding:12px;border:1px solid var(--line);border-radius:10px;
+    font-size:15px;background:#f9fafb;color:var(--ink);outline:0;-webkit-appearance:none;appearance:none}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .hint{font-size:12px;color:var(--muted);margin-top:6px}
+
+  /* result hero */
+  .hero{text-align:center;padding:8px 0 4px}
+  .hero .big{font-size:42px;font-weight:800;line-height:1.1;letter-spacing:-1px}
+  .hero .lbl{font-size:13px;color:var(--muted);margin-top:2px}
+  .verdict{display:inline-block;margin-top:8px;padding:4px 12px;border-radius:999px;
+    font-size:13px;font-weight:600}
+  .stats{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
+  .stat{background:#f9fafb;border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+  .stat .k{font-size:12px;color:var(--muted)}
+  .stat .v{font-size:18px;font-weight:700;margin-top:2px}
+
+  /* sensitivity */
+  .seg{display:flex;background:#eef1f6;border-radius:10px;padding:3px;margin-bottom:12px}
+  .seg button{flex:1;border:0;background:transparent;padding:9px 4px;border-radius:8px;
+    font-size:13px;color:var(--muted);font-weight:600;cursor:pointer}
+  .seg button.on{background:#fff;color:var(--brand);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+  .chartbox{width:100%;overflow:hidden}
+  .chartbox svg{width:100%;height:auto;display:block}
+  .note{font-size:12px;color:var(--muted);margin-top:8px;line-height:1.6}
+
+  /* scenarios */
+  .scn-bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+  .btn{flex:1;min-width:84px;border:1px solid var(--line);background:#fff;border-radius:10px;
+    padding:11px 6px;font-size:13px;font-weight:600;color:var(--ink);cursor:pointer}
+  .btn.save{border-color:var(--brand);color:var(--brand)}
+  .btn.ghost{color:var(--muted)}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{padding:9px 8px;text-align:center;border-bottom:1px solid var(--line)}
+  th{color:var(--muted);font-weight:600;background:#f9fafb}
+  td.name{font-weight:700}
+  .empty{color:var(--muted);text-align:center;padding:14px;font-size:13px}
+  .formula{font-size:12px;color:var(--muted);line-height:1.7;background:#f9fafb;
+    border-radius:10px;padding:12px;margin-top:6px}
+  details summary{cursor:pointer;font-size:13px;color:var(--brand);font-weight:600;
+    list-style:none;padding:4px 0}
+  details summary::-webkit-details-marker{display:none}
+  .copy{width:100%;margin-top:10px;border:1px solid var(--brand);color:var(--brand);
+    background:var(--brand-soft);border-radius:10px;padding:12px;font-size:14px;font-weight:600;cursor:pointer}
+  .toast{position:fixed;left:50%;bottom:28px;transform:translateX(-50%);background:#111827;
+    color:#fff;padding:10px 18px;border-radius:10px;font-size:14px;opacity:0;pointer-events:none;
+    transition:opacity .25s;z-index:50}
+  .toast.show{opacity:1}
+
+  @media(max-width:420px){
+    .grid2,.stats{grid-template-columns:1fr 1fr}
+  }
+</style>
+</head>
+<body>
+  <h1>客户广告ROI盈亏计算器</h1>
+  <p class="sub">投放前帮客户算清生意账 · 算清盈亏线（保本ROI）在哪</p>
+
+  <!-- ========== 生意参数 ========== -->
+  <div class="card">
+    <h2><span class="dot"></span>① 生意参数</h2>
+    <div class="field">
+      <label>单价（客户到手价）</label>
+      <div class="inputwrap"><span class="unit">¥</span><input id="price" type="number" inputmode="decimal" value="99" min="0"></div>
+    </div>
+    <div class="grid2">
+      <div class="field">
+        <label>货品成本（单件）</label>
+        <div class="inputwrap"><span class="unit">¥</span><input id="cost" type="number" inputmode="decimal" value="35" min="0"></div>
+      </div>
+      <div class="field">
+        <label>单笔运费/物流</label>
+        <div class="inputwrap"><span class="unit">¥</span><input id="ship" type="number" inputmode="decimal" value="5" min="0"></div>
+      </div>
+    </div>
+    <div class="grid2">
+      <div class="field">
+        <label>平台佣金率</label>
+        <div class="inputwrap percent"><input id="comm" type="number" inputmode="decimal" value="5" min="0"><span class="unit">%</span></div>
+      </div>
+      <div class="field">
+        <label>退货率</label>
+        <div class="inputwrap percent"><input id="ret" type="number" inputmode="decimal" value="15" min="0" max="100"><span class="unit">%</span></div>
+      </div>
+    </div>
+    <div class="grid2">
+      <div class="field">
+        <label>目标ROI（选填）</label>
+        <div class="inputwrap percent"><input id="targetROI" type="number" inputmode="decimal" value="" placeholder="如 3"><span class="unit">ROI</span></div>
+      </div>
+      <div class="field">
+        <label>退货损失假设</label>
+        <select id="lossType">
+          <option value="all">全部成本（货损/报废，最保守）</option>
+          <option value="ship">仅运费（商品可二次销售）</option>
+          <option value="custom">自定义损失比例</option>
+        </select>
+      </div>
+    </div>
+    <div class="field" id="lossCustomWrap" style="display:none">
+      <label>自定义：退货损失占单笔总成本的比例</label>
+      <div class="inputwrap percent"><input id="lossCustom" type="number" inputmode="decimal" value="50" min="0" max="100"><span class="unit">%</span></div>
+    </div>
+  </div>
+
+  <!-- ========== 核心结论 ========== -->
+  <div class="card">
+    <h2><span class="dot"></span>② 核心结论</h2>
+    <div class="hero">
+      <div class="big" id="roiHero">—</div>
+      <div class="lbl">保本ROI（广告投产比盈亏线）</div>
+      <div class="verdict" id="verdict">—</div>
+    </div>
+
+    <div class="stats">
+      <div class="stat"><div class="k">有效毛利率</div><div class="v" id="effRate">—</div></div>
+      <div class="stat"><div class="k">可承受广告费率</div><div class="v" id="adRate">—</div></div>
+      <div class="stat"><div class="k">单笔有效毛利</div><div class="v" id="profit">—</div></div>
+      <div class="stat"><div class="k">每¥1 GMV最多投广告费</div><div class="v" id="adPerGmv">—</div></div>
+    </div>
+
+    <!-- 目标ROI测算 -->
+    <div id="targetBox" style="display:none;margin-top:12px">
+      <div class="stats">
+        <div class="stat"><div class="k">目标ROI下·单笔广告费</div><div class="v" id="adSpend">—</div></div>
+        <div class="stat"><div class="k">目标ROI下·单笔净利</div><div class="v" id="netProfit">—</div></div>
+      </div>
+      <div class="note" id="targetNote"></div>
+    </div>
+
+    <button class="copy" id="copyBtn">📋 复制结论给客户</button>
+  </div>
+
+  <!-- ========== 敏感性分析 ========== -->
+  <div class="card">
+    <h2><span class="dot"></span>③ 敏感性分析</h2>
+    <div class="seg" id="seg">
+      <button data-x="ret" class="on">退货率</button>
+      <button data-x="cost">货品成本</button>
+      <button data-x="price">单价</button>
+    </div>
+    <div class="chartbox" id="chart"></div>
+    <div class="note" id="chartNote"></div>
+  </div>
+
+  <!-- ========== 情景对比 ========== -->
+  <div class="card">
+    <h2><span class="dot"></span>④ 情景对比</h2>
+    <div class="scn-bar">
+      <button class="btn save" data-scn="A">存为情景A</button>
+      <button class="btn save" data-scn="B">存为情景B</button>
+      <button class="btn save" data-scn="C">存为情景C</button>
+      <button class="btn ghost" id="scnClear">清空</button>
+    </div>
+    <table id="scnTable">
+      <thead><tr><th>情景</th><th>保本ROI</th><th>有效毛利率</th><th>单笔毛利</th></tr></thead>
+      <tbody id="scnBody"></tbody>
+    </table>
+  </div>
+
+  <!-- ========== 公式说明 ========== -->
+  <div class="card">
+    <details>
+      <summary>📐 计算逻辑说明（点开查看）</summary>
+      <div class="formula">
+        <b>基础模型：</b><br>
+        单笔总成本 = 货品成本 + 运费 + 单价 × 平台佣金率<br>
+        单笔有效毛利 EV = (1−退货率)×(单价−单笔总成本) − 退货率×单笔总成本×退货损失率<br>
+        保本ROI = 单价 ÷ 单笔有效毛利（EV为负即无法保本）<br><br>
+        <b>关键指标：</b><br>
+        • 有效毛利率 = 可承受广告费率 = 单笔有效毛利 ÷ 单价<br>
+        • 每 ¥1 GMV 最多投广告费 = 有效毛利率（元）<br>
+        • 目标ROI下：单笔广告费 = 单价 ÷ 目标ROI；单笔净利 = EV − 单笔广告费<br><br>
+        <b>退货损失假设：</b><br>
+        • 全部成本：退货即货损/报废，损失最严重（最保守）<br>
+        • 仅运费：商品可二次销售，仅损失来回运费<br>
+        • 自定义：按退货损失占单笔总成本的比例折算
+      </div>
+    </details>
+  </div>
+
+  <div class="toast" id="toast">已复制</div>
+
+<script>
+"use strict";
+const $ = id => document.getElementById(id);
+const clamp = (v,a,b)=>Math.max(a,Math.min(b,v));
+const fnum = id => { const el=$(id); if(!el)return 0; const v=parseFloat(el.value); return isNaN(v)?0:v; };
+const fmt = (n,d=2)=>{ if(n==null||!isFinite(n)) return "—"; return n.toFixed(d); };
+
+/* ========== 工具函数 ========== */
+
+/** 从所有输入框读取当前值 */
+function readInputs(){
+  return {
+    price:fnum('price'), cost:fnum('cost'), ship:fnum('ship'),
+    comm:fnum('comm'), ret:fnum('ret'),
+    lossType:($('lossType')||{}).value||'all',
+    lossCustom:fnum('lossCustom'),
+    targetROI:fnum('targetROI')
+  };
+}
+
+/** 计算退货损失率（0~1）——只依赖 lossType 和基础成本结构 */
+function getLossFrac(lossType, cost, ship, price, commPct, lossCustom){
+  const Ctot = cost + ship + price * (commPct/100);
+  if(lossType==='all') return 1;
+  if(lossType==='ship') return Ctot > 0 ? Math.max(0, Math.min(1, ship/Ctot)) : 0;
+  return clamp((lossCustom||50)/100, 0, 1);
+}
+
+/** 核心模型：给定一组参数，返回单笔有效毛利EV与保本ROI */
+function computeResult(inp){
+  const P = inp.price || 99;
+  const C = inp.cost || 35;
+  const F = inp.ship || 5;
+  const k = (inp.comm || 5) / 100;       // 平台佣金
+  const r = clamp((inp.ret || 15) / 100, 0, 1);  // 退货率（小数）
+  const LF = getLossFrac(inp.lossType, C, F, P, inp.comm || 5, inp.lossCustom);
+  const Ctot = C + F + P * k;
+  const EV = (1 - r) * (P - Ctot) - r * Ctot * LF;
+  const roi = EV > 0 ? P / EV : Infinity;
+  const eff = EV > 0 ? EV / P : null;     // 有效毛利率
+  return { P, Ctot, EV, roi, eff };
+}
+
+/* ========== 渲染 ========== */
+function render(){
+  try {
+    const inp = readInputs();
+    const res = computeResult(inp);
+    const P = res.P;
+
+    // hero
+    const roi = res.roi, eff = res.eff;
+    $('roiHero').textContent = isFinite(roi) ? fmt(roi,2) : "无法保本";
+    $('roiHero').style.color = isFinite(roi) ? "var(--brand)" : "var(--loss)";
+    const v = $('verdict');
+    if(P <= res.Ctot){
+      v.textContent = "⚠️ 单价已低于成本，必亏";
+      v.style.background = "#fee2e2"; v.style.color = "var(--loss)";
+    } else if(!isFinite(roi)){
+      v.textContent = "⚠️ 当前参数无法保本（毛利为负）";
+      v.style.background = "#fee2e2"; v.style.color = "var(--loss)";
+    } else if(inp.targetROI > 0){
+      v.textContent = inp.targetROI >= roi ? "✅ 目标ROI可盈利" : "⚠️ 目标ROI高于保本线，会亏损";
+      v.style.background = inp.targetROI >= roi ? "#dcfce7" : "#fef3c7";
+      v.style.color = inp.targetROI >= roi ? "var(--profit)" : "var(--warn)";
+    } else {
+      v.textContent = "✅ 高于此线即盈利";
+      v.style.background = "#dcfce7"; v.style.color = "var(--profit)";
+    }
+
+    // stats
+    $('effRate').textContent   = eff != null ? (eff*100).toFixed(1)+"%" : "—";
+    $('adRate').textContent     = eff != null ? (eff*100).toFixed(1)+"%" : "—";
+    $('profit').textContent     = "¥" + fmt(res.EV,2);
+    $('adPerGmv').textContent   = eff != null ? "¥"+fmt(eff,3) : "—";
+
+    // 目标ROI
+    const tb = $('targetBox');
+    if(inp.targetROI > 0 && isFinite(roi)){
+      tb.style.display = 'block';
+      const ad = P / inp.targetROI;
+      const net = res.EV - ad;
+      $('adSpend').textContent = "¥" + fmt(ad,2);
+      $('netProfit').textContent = "¥" + fmt(net,2);
+      $('netProfit').style.color = net >= 0 ? "var(--profit)" : "var(--loss)";
+      $('targetNote').innerHTML =
+        "目标 ROI <b>" + fmt(inp.targetROI,2) + "</b> 下：每单广告费 ¥" + fmt(ad,2) +
+        "，扣广告后单笔净" + (net>=0?"赚":"亏") + " <b>¥" + fmt(Math.abs(net),2) +
+        "</b>（净利率 " + (net/P*100).toFixed(1) + "%）";
+    } else {
+      tb.style.display = 'none';
+    }
+
+    drawChart(inp, res);
+    saveInputs(inp);
+
+  } catch(err) {
+    console.error("render error:", err);
+    $('roiHero').textContent = "出错";
+    $('verdict').textContent = "⚠️ " + err.message;
+    $('verdict').style.background = "#fee2e2"; $('verdict').style.color = "var(--loss)";
+  }
+}
+
+/* ========== 敏感性图表（单线） ========== */
+let curX = 'ret';
+
+function drawChart(inp, res){
+  try {
+    const W=340, H=200, mL=44, mR=14, mT=18, mB=30;
+    const pw=W-mL-mR, pH=H-mT-mB;
+    const baseP = inp.price || 99;
+    const baseC = inp.cost || 35;
+    const baseF = inp.ship || 5;
+    const baseComm = inp.comm || 5;
+    const baseRet = inp.ret || 15;
+    const LF = getLossFrac(inp.lossType, baseC, baseF, baseP, baseComm, inp.lossCustom);
+
+    let pts=[], xMin, xMax, xLabel;
+
+    if(curX === 'ret'){
+      xMin = 0; xMax = clamp(baseRet * 2, 10, 80) / 100; xLabel = "退货率";
+      for(let i=0; i<=24; i++){
+        const rv = xMin + (xMax-xMin) * i/24;
+        const m = calcAt(baseP, baseC, baseF, baseComm, rv, LF);
+        pts.push({x:rv, y: m.EV>0 ? baseP/m.EV : null});
+      }
+    } else if(curX === 'cost'){
+      xMin = 0; xMax = clamp(baseC * 2, 1, Math.max(1, baseP * 0.9)); xLabel = "货品成本 ¥";
+      for(let i=0; i<=24; i++){
+        const xv = xMin + (xMax-xMin) * i/24;
+        const LF2 = getLossFrac(inp.lossType, xv, baseF, baseP, baseComm, inp.lossCustom);
+        const m = calcAt(baseP, xv, baseF, baseComm, clamp(baseRet/100,0,1), LF2);
+        pts.push({x:xv, y: m.EV>0 ? baseP/m.EV : null});
+      }
+    } else {
+      xMin = baseP * 0.5; xMax = baseP * 1.5; xLabel = "单价 ¥";
+      for(let i=0; i<=24; i++){
+        const xv = xMin + (xMax-xMin) * i/24;
+        const m = calcAt(xv, baseC, baseF, baseComm, clamp(baseRet/100,0,1), LF);
+        pts.push({x:xv, y: m.EV>0 ? xv/m.EV : null});
+      }
+    }
+
+    const allY = pts.filter(p=>p.y!==null).map(p=>p.y);
+    let yMax = allY.length ? Math.max(...allY) * 1.12 : 1;
+    if(!isFinite(yMax) || yMax <= 0) yMax = 1;
+    yMax = Math.min(yMax, 30);
+    const yMin = 0;
+
+    const X = x => mL + (x - xMin) / ((xMax-xMin)||1) * pw;
+    const Y = y => mT + (1 - (y - yMin) / (yMax||1)) * pH;
+
+    let svg = '';
+    for(let i=0; i<=3; i++){
+      const yy = mT + pH * i/3;
+      const val = yMax * (1 - i/3);
+      svg += '<line x1="'+mL+'" y1="'+yy+'" x2="'+(W-mR)+'" y2="'+yy+'" stroke="#eef1f6"/>';
+      svg += '<text x="'+(mL-5)+'" y="'+(yy+3)+'" font-size="9" fill="#9ca3af" text-anchor="end">'+val.toFixed(1)+'</text>';
+    }
+    for(let i=0; i<=3; i++){
+      const xx = mL + pw * i/3;
+      const val = xMin + (xMax-xMin) * i/3;
+      const lab = curX==='ret' ? (val*100).toFixed(0)+"%" : val.toFixed(curX==='price'?0:1);
+      svg += '<text x="'+xx+'" y="'+(H-8)+'" font-size="9" fill="#9ca3af" text-anchor="middle">'+lab+'</text>';
+    }
+
+    function makePath(pts, color, w){
+      let d='', on=false;
+      pts.forEach(p => {
+        if(p.y === null){ on=false; return; }
+        const cx = X(p.x), cy = Y(Math.min(p.y, yMax));
+        d += (on?'L':'M') + cx.toFixed(1) + ' ' + cy.toFixed(1) + ' ';
+        on = true;
+      });
+      return '<path d="'+d+'" fill="none" stroke="'+color+'" stroke-width="'+w+'" stroke-linejoin="round"/>';
+    }
+    svg += makePath(pts, '#2563eb', 2.5);
+
+    // current point marker
+    const curXVal = curX==='ret' ? clamp(baseRet/100,0,1) : curX==='cost' ? baseC : baseP;
+    if(isFinite(res.roi)){
+      const cy = Y(Math.min(res.roi, yMax));
+      svg += '<circle cx="'+X(curXVal)+'" cy="'+cy+'" r="4.5" fill="#2563eb" stroke="#fff" stroke-width="2"/>';
+    }
+
+    $('chart').innerHTML = '<svg viewBox="0 0 '+W+' '+H+'" role="img">' +
+      '<text x="'+mL+'" y="12" font-size="10" fill="#6b7280">保本ROI vs '+xLabel+'</text>' + svg + '</svg>';
+
+    var rt = isFinite(res.roi) ? fmt(res.roi,2) : "无法保本";
+    var eff = res.eff != null ? (res.eff*100).toFixed(1)+"%" : "—";
+    $('chartNote').innerHTML =
+      '当前保本ROI = <b style="color:#2563eb">'+rt+'</b>（有效毛利率 '+eff+'）。<br>' +
+      '曲线越往右上方走，说明该因素越推高盈亏线——' +
+      (curX==='ret'?'退货率越高，保本ROI越陡升；':curX==='cost'?'货品成本越高，保本ROI越高；':'在不伤转化的前提下，单价越高，保本ROI越低（越容易盈利）；') +
+      '销售可据此跟客户讲清优化方向。';
+
+  } catch(err) {
+    console.error("drawChart error:", err);
+    $('chart').innerHTML = '<div style="padding:20px;text-align:center;color:var(--muted)">图表渲染异常</div>';
+  }
+}
+
+/** 单点计算（图表用） */
+function calcAt(price, cost, ship, commPct, retRate, lossFrac){
+  const P=price, C=cost, F=ship;
+  const k = commPct / 100;
+  const r = clamp(retRate, 0, 1);
+  const L = lossFrac;
+  const Ctot = C + F + P * k;
+  const EV = (1 - r) * (P - Ctot) - r * Ctot * L;
+  return { Ctot, EV };
+}
+
+/* ========== 情景对比 ========== */
+function saveScenario(key){
+  try {
+    var inp = readInputs(), res = computeResult(inp);
+    var data = JSON.parse(localStorage.getItem('roi_scenarios')||'{}');
+    data[key] = {
+      roi: isFinite(res.roi) ? res.roi : null,
+      eff: res.eff,
+      profit: res.EV
+    };
+    localStorage.setItem('roi_scenarios', JSON.stringify(data));
+    renderScn();
+    toast('已存为情景'+key);
+  } catch(e){ toast('保存失败'); }
+}
+function renderScn(){
+  try {
+    var data = JSON.parse(localStorage.getItem('roi_scenarios')||'{}');
+    var body = $('scnBody'); body.innerHTML = '';
+    ['A','B','C'].forEach(function(k){
+      if(data[k]){
+        var d = data[k], tr = document.createElement('tr');
+        tr.innerHTML = '<td class="name">'+k+'</td>' +
+          '<td>'+(d.roi?fmt(d.roi,2):'—')+'</td>' +
+          '<td>'+(d.eff!=null?(d.eff*100).toFixed(1)+'%':'—')+'</td>' +
+          '<td>'+(d.profit!=null?'¥'+fmt(d.profit,2):'—')+'</td>';
+        body.appendChild(tr);
+      }
+    });
+    if(!body.children.length)
+      body.innerHTML = '<tr><td colspan="4" class="empty">暂无保存的情景，调好参数后点上方按钮保存</td></tr>';
+  } catch(e){ /* silent */ }
+}
+
+/* ========== 持久化 ========== */
+function saveInputs(inp){
+  try{ localStorage.setItem('roi_inputs', JSON.stringify(inp)); }catch(e){}
+}
+function restoreInputs(){
+  try{
+    var s = localStorage.getItem('roi_inputs'); if(!s) return;
+    var inp = JSON.parse(s);
+    var fields = ['price','cost','ship','comm','ret','lossCustom','targetROI'];
+    fields.forEach(function(k){
+      if(inp[k] !== undefined && $(k)) $(k).value = inp[k];
+    });
+    if(inp.lossType && $('lossType')) $('lossType').value = inp.lossType;
+  }catch(e){}
+}
+function toast(msg){
+  var t = $('toast'); t.textContent = msg; t.classList.add('show');
+  setTimeout(function(){ t.classList.remove('show'); }, 1400);
+}
+
+/* ========== 事件绑定 ========== */
+(function bindEvents(){
+  var inputFields = ['price','cost','ship','comm','ret','lossCustom','targetROI'];
+  inputFields.forEach(function(id){
+    var el = $(id);
+    if(el) el.addEventListener('input', render);
+  });
+
+  var ltEl = $('lossType');
+  if(ltEl) ltEl.addEventListener('change', function(){
+    var w = $('lossCustomWrap');
+    if(w) w.style.display = ltEl.value === 'custom' ? 'block' : 'none';
+    render();
+  });
+
+  document.querySelectorAll('#seg button').forEach(function(b){
+    b.addEventListener('click', function(){
+      document.querySelectorAll('#seg button').forEach(function(x){ x.classList.remove('on'); });
+      b.classList.add('on');
+      curX = b.dataset.x;
+      render();
+    });
+  });
+
+  document.querySelectorAll('[data-scn]').forEach(function(b){
+    b.addEventListener('click', function(){ saveScenario(b.dataset.scn); });
+  });
+  var clEl = $('scnClear');
+  if(clEl) clEl.addEventListener('click', function(){
+    localStorage.removeItem('roi_scenarios'); renderScn(); toast('已清空');
+  });
+
+  var cpEl = $('copyBtn');
+  if(cpEl) cpEl.addEventListener('click', function(){
+    try{
+      var inp = readInputs(), res = computeResult(inp);
+      var s = "【客户广告ROI盈亏账】\n";
+      s += "\n【基础参数】\n";
+      s += "单价 ¥"+fmt(inp.price,2)+"｜货品成本 ¥"+fmt(inp.cost,2)+"｜运费 ¥"+fmt(inp.ship,2)+
+           "｜平台佣金 "+fmt(inp.comm,1)+"%｜退货率 "+fmt(inp.ret,1)+"%\n";
+      s += "\n【结论】\n";
+      s += "保本ROI = "+(isFinite(res.roi)?fmt(res.roi,2)+'（广告投产比盈亏线）':'无法保本')+"\n";
+      s += "有效毛利率 = "+(res.eff!=null?(res.eff*100).toFixed(1)+"%":'—')+"\n";
+      s += "单笔有效毛利 = ¥"+fmt(res.EV,2)+"\n";
+      s += "每¥1 GMV最多投广告费 = ¥"+(res.eff!=null?fmt(res.eff,3):'—')+"\n";
+      if(inp.targetROI > 0 && isFinite(res.roi)){
+        var net = res.EV - res.P/inp.targetROI;
+        s += "\n【目标ROI "+fmt(inp.targetROI,2)+" 测算】\n";
+        s += "单笔广告费 ¥"+fmt(res.P/inp.targetROI,2)+"，扣广告后每单净"+(net>=0?'赚':'亏')+" ¥"+fmt(Math.abs(net),2)+
+             "（净利率 "+(net/res.P*100).toFixed(1)+"%）\n";
+      }
+      navigator.clipboard.writeText(s).then(function(){ toast('已复制结论'); }).catch(function(){ toast('复制失败'); });
+    }catch(e){ toast('复制异常'); }
+  });
+})();
+
+/* ========== 启动 ========== */
+restoreInputs();
+renderScn();
+render();
+</script>
+</body>
+</html>
