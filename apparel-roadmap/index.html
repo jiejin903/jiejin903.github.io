@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=1500" />
+<title>服饰行业营销节点 Roadmap · 26H2–27H1</title>
+<style>
+  :root{
+    --bg:#F7FBFF;
+    --ink:#0F2540;
+    --ink-2:#4B5B76;
+    --ink-3:#8695AC;
+    --line:#E4ECF6;
+
+    --pink:#FF6F9A;      --pink-bg:#FFEAF1;
+    --coral:#FF8352;     --coral-bg:#FFEBE0;
+    --mint:#22C39F;      --mint-bg:#DBF6EC;
+    --sky:#3AA0FF;       --sky-bg:#E1EFFF;
+    --lemon:#F1B300;     --lemon-bg:#FFF3D2;
+    --violet:#8869FF;    --violet-bg:#EAE1FF;
+
+    --hero:#5A3FE0;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; padding:28px 40px 44px;
+    background:
+      radial-gradient(1000px 400px at 5% -10%, #FFE1EC 0%, transparent 60%),
+      radial-gradient(900px 420px at 100% -10%, #DDEBFF 0%, transparent 60%),
+      radial-gradient(900px 500px at 55% 105%, #DDF7EC 0%, transparent 60%),
+      var(--bg);
+    color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:13px; line-height:1.55;
+  }
+
+  /* ========== Header ========== */
+  header{
+    display:flex; align-items:center; justify-content:space-between;
+    margin-bottom:14px;
+  }
+  header .l{display:flex; align-items:center; gap:14px}
+  header .dot{
+    width:46px; height:46px; border-radius:14px;
+    background:linear-gradient(135deg,#FF6F9A,#8869FF 55%,#3AA0FF);
+    box-shadow:0 10px 26px rgba(136,105,255,.32);
+  }
+  header h1{
+    margin:0; font-size:26px; font-weight:600; letter-spacing:.3px;
+    background:linear-gradient(90deg,#0F2540,#3D5BB0 55%,#8869FF);
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  header .sub{color:var(--ink-2); font-size:13px; margin-top:3px}
+  header .meta{text-align:right; color:var(--ink-3); font-size:12px; line-height:1.7}
+  header .meta b{color:var(--ink-2); font-weight:500}
+
+  /* ========== 一眼看重点：Hero 三大场 ========== */
+  .hero{
+    display:grid; grid-template-columns:repeat(3,1fr); gap:14px;
+    margin:6px 0 18px;
+  }
+  .peak{
+    position:relative; overflow:hidden;
+    background:#fff; border-radius:16px;
+    border:1px solid var(--line);
+    padding:14px 18px 14px 20px;
+    display:flex; align-items:center; gap:14px;
+  }
+  .peak::before{
+    content:""; position:absolute; left:0; top:0; bottom:0; width:6px;
+  }
+  .peak.p1::before{background:linear-gradient(180deg,#FF6F9A,#F1B300)}
+  .peak.p2::before{background:linear-gradient(180deg,#3AA0FF,#8869FF)}
+  .peak.p3::before{background:linear-gradient(180deg,#22C39F,#FF6F9A)}
+  .peak .num{
+    font-size:34px; font-weight:600; line-height:1;
+    background:linear-gradient(135deg,#FF6F9A,#8869FF);
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+    flex:0 0 auto;
+  }
+  .peak.p2 .num{background:linear-gradient(135deg,#3AA0FF,#5A3FE0);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .peak.p3 .num{background:linear-gradient(135deg,#22C39F,#F1B300);-webkit-background-clip:text;background-clip:text;color:transparent}
+  .peak .tt{font-size:15px; font-weight:600}
+  .peak .ds{font-size:12px; color:var(--ink-2); margin-top:3px; line-height:1.5}
+  .peak .tks{display:flex; gap:4px; margin-top:6px; flex-wrap:wrap}
+
+  /* ========== 一句话说明条 ========== */
+  .banner{
+    background:linear-gradient(90deg,#FFF3F8 0%,#EFF5FF 55%,#E9FBF3 100%);
+    border:1px solid #EEE5FF; border-radius:14px;
+    padding:11px 16px; margin-bottom:16px;
+    font-size:12.5px; color:var(--ink-2);
+  }
+  .banner b{color:#5A3FE0; font-weight:500}
+
+  /* ========== 时间轴段落 ========== */
+  .stage{
+    display:flex; align-items:center; gap:10px;
+    margin:16px 0 8px 2px;
+  }
+  .stage .bar{
+    height:16px; width:5px; border-radius:3px;
+    background:linear-gradient(180deg,#FF6F9A,#8869FF);
+  }
+  .stage.h2 .bar{background:linear-gradient(180deg,#3AA0FF,#22C39F)}
+  .stage .t{font-size:14px; font-weight:600}
+  .stage .s{font-size:12px; color:var(--ink-3)}
+
+  /* ========== 主体 grid ========== */
+  .row{
+    display:grid; grid-template-columns:repeat(12,minmax(0,1fr));
+    gap:12px;
+  }
+  .node{
+    background:#fff; border:1px solid var(--line); border-radius:14px;
+    padding:12px 14px 12px;
+    display:flex; flex-direction:column; gap:8px;
+    position:relative; overflow:hidden;
+    min-height:170px;
+  }
+  .node .when{
+    display:flex; align-items:center; gap:8px;
+  }
+  .node .when .badge{
+    display:inline-flex; align-items:center; gap:5px;
+    padding:3px 10px; border-radius:999px;
+    background:#F1F5FB; color:var(--ink-2);
+    font-size:11.5px; font-weight:500;
+  }
+  .node .when .badge .d{width:6px; height:6px; border-radius:50%}
+  .node h3{
+    margin:0; font-size:15px; font-weight:600; letter-spacing:.2px;
+  }
+  .node .theme{
+    font-size:12px; color:var(--ink-2); line-height:1.5;
+  }
+  .node .theme b{color:var(--ink); font-weight:500}
+  .node .lines{display:flex; flex-direction:column; gap:4px}
+  .node .k{
+    font-size:11.5px; color:var(--ink-3); line-height:1.5;
+  }
+  .node .k b{color:var(--ink); font-weight:500}
+  .node .tracks{
+    display:flex; gap:5px; flex-wrap:wrap; margin-top:auto;
+    padding-top:6px; border-top:1px dashed var(--line);
+  }
+  .tt{
+    display:inline-flex; align-items:center; gap:5px;
+    font-size:11px; padding:3px 8px; border-radius:999px;
+    background:#F5F8FC; color:var(--ink-2);
+    border:1px solid var(--line);
+  }
+  .tt .dt{width:6px; height:6px; border-radius:50%}
+  .tt.women .dt{background:var(--pink)}
+  .tt.men   .dt{background:var(--sky)}
+  .tt.inner .dt{background:var(--mint)}
+  .tt.bag   .dt{background:var(--coral)}
+  .tt.gem   .dt{background:var(--violet)}
+  .tt.out   .dt{background:var(--lemon)}
+
+  /* 关键大场 */
+  .node.peak-big{
+    background:
+      radial-gradient(600px 200px at 100% 0%, #FFECF3 0%, transparent 60%),
+      radial-gradient(500px 200px at 0% 100%, #E8EEFF 0%, transparent 60%),
+      #fff;
+    border:1px solid #F0DAE7;
+  }
+  .node.peak-big::after{
+    content:"关键大场"; position:absolute; top:10px; right:12px;
+    font-size:10.5px; padding:2px 8px; border-radius:999px;
+    background:linear-gradient(90deg,#FF6F9A,#8869FF); color:#fff; font-weight:500;
+  }
+  .node.peak-big h3{font-size:17px}
+  .node.mid{
+    background:linear-gradient(180deg,#F6FAFF 0%,#FFFFFF 55%);
+  }
+
+  /* 平台节奏条 */
+  .plat-strip{
+    margin-top:14px;
+    background:#fff; border:1px solid var(--line); border-radius:14px;
+    padding:12px 14px;
+  }
+  .plat-title{
+    font-size:12.5px; color:var(--ink-2);
+    margin-bottom:8px; display:flex; align-items:center; gap:8px;
+  }
+  .plat-title b{color:var(--ink); font-weight:500; font-size:13px}
+  .plat-row{
+    display:grid; grid-template-columns:repeat(12,minmax(0,1fr));
+    gap:8px;
+  }
+  .plat{
+    padding:7px 10px; border-radius:9px; font-size:11.5px;
+    background:#F5F8FC; color:var(--ink-2);
+    border-left:3px solid var(--sky);
+    display:flex; flex-direction:column; gap:1px;
+  }
+  .plat b{color:var(--ink); font-weight:500; font-size:12px}
+  .plat.big{border-left-color:#FF6F9A; background:#FFF4F8}
+  .plat.mid{border-left-color:#22C39F; background:#F0FBF5}
+
+  /* 底部图例 & 说明 */
+  .foot{
+    margin-top:16px;
+    display:grid; grid-template-columns:1.4fr 1fr;
+    gap:12px;
+  }
+  .box{
+    background:#fff; border:1px solid var(--line); border-radius:14px;
+    padding:12px 16px;
+  }
+  .box h4{
+    margin:0 0 6px; font-size:13px; font-weight:600;
+    display:flex; align-items:center; gap:6px;
+  }
+  .box h4::before{
+    content:""; width:5px; height:14px; border-radius:2.5px;
+    background:linear-gradient(180deg,#FF6F9A,#8869FF);
+  }
+  .legend{
+    display:flex; flex-wrap:wrap; gap:10px 14px;
+    font-size:12px; color:var(--ink-2);
+  }
+  .legend .g{display:flex; align-items:center; gap:6px}
+  .legend .sw{width:10px; height:10px; border-radius:3px}
+  .rules{
+    font-size:12px; color:var(--ink-2); line-height:1.7;
+  }
+  .rules b{color:var(--ink); font-weight:500}
+  footer{
+    margin-top:12px; text-align:right; font-size:11.5px; color:var(--ink-3);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="l">
+    <div class="dot"></div>
+    <div>
+      <h1>服饰行业营销节点 Roadmap · 26H2 – 27H1</h1>
+      <div class="sub">一页看懂全年节奏 · 现阶段为行业侧初步规划，具体形式与档期<b style="color:#5A3FE0">待与微信小店行业侧共创对齐</b></div>
+    </div>
+  </div>
+  <div class="meta">
+    营销 · 服饰珠宝行业中心 / 拓客组<br/>
+    v2 · 内部横向沟通稿<br/>
+    <b>26.08 → 27.07</b>
+  </div>
+</header>
+
+<!-- 三个关键大场 -->
+<div class="hero">
+  <div class="peak p1">
+    <div class="num">09</div>
+    <div>
+      <div class="tt-w"><span class="tt" style="background:#FFF4E4;border-color:#FBE3B7;color:#8A5300">秋上新 · 国庆出游</span></div>
+      <div class="ds">全品类换季首波 · 女装 / 男装 / 贴身衣物 / 户外 <b>同时启动</b><br/>叠加小店"平台大促（双11玩法验证）+ 秋冬上新"</div>
+    </div>
+  </div>
+  <div class="peak p2">
+    <div class="num">11</div>
+    <div>
+      <div class="tt-w"><span class="tt" style="background:#EAE1FF;border-color:#DACAFB;color:#5A3FE0">双11 · 保暖季</span></div>
+      <div class="ds">年度大场 · 保暖季承接<br/>女装 / 男装 / 贴身衣物 / 珠宝 / 户外 全线冲量</div>
+    </div>
+  </div>
+  <div class="peak p3">
+    <div class="num">06</div>
+    <div>
+      <div class="tt-w"><span class="tt" style="background:#DBF6EC;border-color:#B7E9D6;color:#0F6E56">618 · 年中大促 + 父亲节</span></div>
+      <div class="ds">上半年最大窗口 · 女装承接 618，男装叠加父亲节送礼</div>
+    </div>
+  </div>
+</div>
+
+<div class="banner">
+  <b>阅读说明</b>：本图按"同期同主题合并"逻辑呈现，一列代表一个跨赛道节点。所有节点均属行业侧建议节奏，是否上线、大场保护 / 视觉氛围 / 返点激励等形式，<b>拟与小店行业侧拉手共创</b>后再确定，避免形成行业单方面造节的预期。
+</div>
+
+<!-- ========== 26 下半年 ========== -->
+<div class="stage">
+  <span class="bar"></span>
+  <span class="t">26 年下半年</span>
+  <span class="s">秋上新 → 双11 → 年末冲量</span>
+</div>
+<div class="row">
+
+  <div class="node" style="grid-column:span 2">
+    <div class="when"><span class="badge"><span class="d" style="background:#FF6F9A"></span>08 底 – 09 初</span></div>
+    <h3>七夕 & 秋上新启动</h3>
+    <div class="theme">情感送礼 + 内衣秋上新首发</div>
+    <div class="lines">
+      <div class="k"><b>箱包</b> · 七夕送礼场景</div>
+      <div class="k"><b>贴身衣物</b> · 文胸 / 内裤 / 塑身裤 / 保暖裤</div>
+    </div>
+    <div class="tracks">
+      <span class="tt bag"><span class="dt"></span>箱包鞋靴</span>
+      <span class="tt inner"><span class="dt"></span>贴身衣物</span>
+    </div>
+  </div>
+
+  <div class="node peak-big" style="grid-column:span 3">
+    <div class="when"><span class="badge"><span class="d" style="background:#FF6F9A"></span>09 月</span></div>
+    <h3>秋上新 · 国庆出游</h3>
+    <div class="theme"><b>全品类换季</b>，叠加国庆出游穿搭</div>
+    <div class="lines">
+      <div class="k"><b>女装</b>（9.15–9.30）T恤 · 打底衫 · 针织衫 · 休闲裤 · 中老年</div>
+      <div class="k"><b>男装</b> T恤 · 打底衫 · 卫衣 · 夹克</div>
+      <div class="k"><b>户外</b> 帐篷 · 露营装备 · 运动包</div>
+      <div class="k"><b>鞋靴</b>（9中–10）秋冬换新</div>
+    </div>
+    <div class="tracks">
+      <span class="tt women"><span class="dt"></span>女装</span>
+      <span class="tt men"><span class="dt"></span>男装</span>
+      <span class="tt bag"><span class="dt"></span>箱包鞋靴</span>
+      <span class="tt out"><span class="dt"></span>户外</span>
+    </div>
+  </div>
+
+  <div class="node mid" style="grid-column:span 2">
+    <div class="when"><span class="badge"><span class="d" style="background:#8869FF"></span>10 月</span></div>
+    <h3>秋冬延续 & 珠宝 IP</h3>
+    <div class="theme">换季承接 + <b>寻宝中国</b> IP专场</div>
+    <div class="lines">
+      <div class="k"><b>珠宝</b> 翡翠 / 和田玉 · 达人建联</div>
+      <div class="k"><b>户外</b> 出游季延续</div>
+    </div>
+    <div class="tracks">
+      <span class="tt gem"><span class="dt"></span>珠宝配饰</span>
+      <span class="tt out"><span class="dt"></span>户外</span>
+    </div>
+  </div>
+
+  <div class="node peak-big" style="grid-column:span 3">
+    <div class="when"><span class="badge"><span class="d" style="background:#8869FF"></span>11 月</span></div>
+    <h3>双11 · 保暖大场</h3>
+    <div class="theme"><b>年度最大窗口</b> · 保暖季全线冲量</div>
+    <div class="lines">
+      <div class="k"><b>女装</b> 保暖季</div>
+      <div class="k"><b>男装</b> 羽绒 · 棉服 · 羊毛衫 · 加绒裤</div>
+      <div class="k"><b>贴身衣物</b> 保暖上衣 · 打底袜 · 保暖套装</div>
+      <div class="k"><b>珠宝</b> 翡翠 / 和田玉 &nbsp;·&nbsp; <b>户外</b> 健身器械 / 露营</div>
+    </div>
+    <div class="tracks">
+      <span class="tt women"><span class="dt"></span>女装</span>
+      <span class="tt men"><span class="dt"></span>男装</span>
+      <span class="tt inner"><span class="dt"></span>贴身衣物</span>
+      <span class="tt gem"><span class="dt"></span>珠宝</span>
+      <span class="tt out"><span class="dt"></span>户外</span>
+    </div>
+  </div>
+
+  <div class="node mid" style="grid-column:span 2">
+    <div class="when"><span class="badge"><span class="d" style="background:#22C39F"></span>12 月</span></div>
+    <h3>双12 · 年末冲量</h3>
+    <div class="theme">承接双11势能，年末最后一波</div>
+    <div class="lines">
+      <div class="k"><b>女装</b> 冬装持续</div>
+      <div class="k"><b>珠宝</b> 翡翠 / 和田玉</div>
+    </div>
+    <div class="tracks">
+      <span class="tt women"><span class="dt"></span>女装</span>
+      <span class="tt gem"><span class="dt"></span>珠宝</span>
+    </div>
+  </div>
+
+</div>
+
+<!-- ========== 27 上半年 ========== -->
+<div class="stage h2">
+  <span class="bar"></span>
+  <span class="t">27 年上半年</span>
+  <span class="s">年货 → 3.8 春上新 → 618 大促</span>
+</div>
+<div class="row">
+
+  <div class="node" style="grid-column:span 2">
+    <div class="when"><span class="badge"><span class="d" style="background:#3AA0FF"></span>01 月</span></div>
+    <h3>年货节 · 春节心智</h3>
+    <div class="theme">节前上新 · 承接春节送礼</div>
+    <div class="lines">
+      <div class="k"><b>女装</b> 承接小店年货节节奏</div>
+    </div>
+    <div class="tracks"><span class="tt women"><span class="dt"></span>女装</span></div>
+  </div>
+
+  <div class="node" style="grid-column:span 1">
+    <div class="when"><span class="badge"><span class="d" style="background:#3AA0FF"></span>02 月</span></div>
+    <h3>2·14 情人节</h3>
+    <div class="theme">银饰送礼</div>
+    <div class="lines">
+      <div class="k"><b>珠宝</b> 银饰 · 送礼饰品客户拓展</div>
+    </div>
+    <div class="tracks"><span class="tt gem"><span class="dt"></span>珠宝</span></div>
+  </div>
+
+  <div class="node mid" style="grid-column:span 2">
+    <div class="when"><span class="badge"><span class="d" style="background:#FF6F9A"></span>03 月</span></div>
+    <h3>3.8 女神礼遇 & 春上新</h3>
+    <div class="theme">女性心智 + 男装春季启动</div>
+    <div class="lines">
+      <div class="k"><b>女装</b> 3.8 礼遇</div>
+      <div class="k"><b>男装</b> T恤 · Polo衫 · 休闲裤</div>
+    </div>
+    <div class="tracks">
+      <span class="tt women"><span class="dt"></span>女装</span>
+      <span class="tt men"><span class="dt"></span>男装</span>
+    </div>
+  </div>
+
+  <div class="node" style="grid-column:span 2">
+    <div class="when"><span class="badge"><span class="d" style="background:#22C39F"></span>04 月</span></div>
+    <h3>春日好物 & 七夕布局</h3>
+    <div class="theme">春装承接 + 箱包七夕提前布局</div>
+    <div class="lines">
+      <div class="k"><b>女装</b> 春日好物</div>
+      <div class="k"><b>箱包</b> 七夕类目建联</div>
+    </div>
+    <div class="tracks">
+      <span class="tt women"><span class="dt"></span>女装</span>
+      <span class="tt bag"><span class="dt"></span>箱包鞋靴</span>
+    </div>
+  </div>
+
+  <div class="node" style="grid-column:span 1">
+    <div class="when"><span class="badge"><span class="d" style="background:#F1B300"></span>05 月</span></div>
+    <h3>特价好物</h3>
+    <div class="theme">价格心智</div>
+    <div class="lines">
+      <div class="k"><b>女装</b> 承接小店节奏</div>
+    </div>
+    <div class="tracks"><span class="tt women"><span class="dt"></span>女装</span></div>
+  </div>
+
+  <div class="node peak-big" style="grid-column:span 2">
+    <div class="when"><span class="badge"><span class="d" style="background:#22C39F"></span>06 月</span></div>
+    <h3>618 & 父亲节</h3>
+    <div class="theme"><b>上半年最大窗口</b> · 女装承接 618，男装叠加父亲节送礼</div>
+    <div class="lines">
+      <div class="k"><b>女装</b> 618 大促</div>
+      <div class="k"><b>男装</b> 休闲套装 · 西服西裤 · Polo衫</div>
+    </div>
+    <div class="tracks">
+      <span class="tt women"><span class="dt"></span>女装</span>
+      <span class="tt men"><span class="dt"></span>男装</span>
+    </div>
+  </div>
+
+  <div class="node" style="grid-column:span 2">
+    <div class="when"><span class="badge"><span class="d" style="background:#3AA0FF"></span>07 月</span></div>
+    <h3>入夏好物</h3>
+    <div class="theme">承接小店入夏节奏</div>
+    <div class="lines">
+      <div class="k"><b>女装</b> 夏装心智延续</div>
+    </div>
+    <div class="tracks"><span class="tt women"><span class="dt"></span>女装</span></div>
+  </div>
+
+</div>
+
+<!-- 小店平台参考带 -->
+<div class="plat-strip">
+  <div class="plat-title"><b>微信小店 · 全年活动参考带</b>（来源：小店行业侧信息，行业中心节奏据此对齐）</div>
+  <div class="plat-row">
+    <div class="plat"><b>08</b>—</div>
+    <div class="plat mid"><b>09</b>平台大促 + 秋冬上新</div>
+    <div class="plat"><b>10</b>—</div>
+    <div class="plat big"><b>11</b>双11</div>
+    <div class="plat big"><b>12</b>双12</div>
+    <div class="plat"><b>01</b>年货节</div>
+    <div class="plat"><b>02</b>—</div>
+    <div class="plat"><b>03</b>3.8 礼遇</div>
+    <div class="plat"><b>04</b>春日好物</div>
+    <div class="plat"><b>05</b>特价好物</div>
+    <div class="plat big"><b>06</b>618</div>
+    <div class="plat"><b>07</b>入夏好物</div>
+  </div>
+</div>
+
+<!-- 图例 + 统一支持说明 -->
+<div class="foot">
+  <div class="box">
+    <h4>参与赛道</h4>
+    <div class="legend">
+      <div class="g"><span class="sw" style="background:var(--pink)"></span>女装</div>
+      <div class="g"><span class="sw" style="background:var(--sky)"></span>男装</div>
+      <div class="g"><span class="sw" style="background:var(--mint)"></span>贴身衣物</div>
+      <div class="g"><span class="sw" style="background:var(--coral)"></span>箱包鞋靴</div>
+      <div class="g"><span class="sw" style="background:var(--violet)"></span>珠宝配饰</div>
+      <div class="g"><span class="sw" style="background:var(--lemon)"></span>运动户外</div>
+    </div>
+  </div>
+  <div class="box">
+    <h4>统一支持能力（所有节点通用，不再逐卡标注）</h4>
+    <div class="rules">
+      <b>广告侧</b>：腾飞主投 &nbsp;·&nbsp; <b>市场部</b>：腾讯营销IP授权（贴身衣物 / 珠宝已排期）<br/>
+      <b>渠道</b>：宣发 + 返点激励 &nbsp;·&nbsp; <b>小店拟共创</b>：大场保护 / 视觉氛围 / GMV梯度激励
+    </div>
+  </div>
+</div>
+
+<footer>* 措辞遵循「拟 / 建议 / 待共创」原则，本图仅代表行业侧初步节奏，最终活动形式与档期以双方共创结论为准。</footer>
+
+</body>
+</html>
