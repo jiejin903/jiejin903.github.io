@@ -78,6 +78,10 @@
     -webkit-background-clip:text; background-clip:text; color:transparent;
     flex:0 0 auto;
   }
+  .peak .num .unit{
+    font-size:16px; font-weight:600; margin-left:1px;
+    -webkit-background-clip:text; background-clip:text;
+  }
   .peak.p2 .num{background:linear-gradient(135deg,#3AA0FF,#5A3FE0);-webkit-background-clip:text;background-clip:text;color:transparent}
   .peak.p3 .num{background:linear-gradient(135deg,#22C39F,#F1B300);-webkit-background-clip:text;background-clip:text;color:transparent}
   .peak .tt{font-size:15px; font-weight:600}
@@ -95,16 +99,62 @@
 
   /* ========== 时间轴段落 ========== */
   .stage{
-    display:flex; align-items:center; gap:10px;
-    margin:16px 0 8px 2px;
+    display:flex; align-items:center; gap:12px;
+    margin:22px 0 10px 2px;
   }
   .stage .bar{
-    height:16px; width:5px; border-radius:3px;
+    height:26px; width:6px; border-radius:3px;
     background:linear-gradient(180deg,#FF6F9A,#8869FF);
   }
   .stage.h2 .bar{background:linear-gradient(180deg,#3AA0FF,#22C39F)}
-  .stage .t{font-size:14px; font-weight:600}
-  .stage .s{font-size:12px; color:var(--ink-3)}
+  .stage .t{
+    font-size:20px; font-weight:700; letter-spacing:.4px;
+    background:linear-gradient(90deg,#FF6F9A,#8869FF);
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  .stage.h2 .t{
+    background:linear-gradient(90deg,#3AA0FF,#22C39F);
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  .stage .s{
+    font-size:13px; color:var(--ink-2);
+    padding:3px 12px; border-radius:999px;
+    background:#F5F8FC; border:1px solid var(--line);
+  }
+
+  /* 月份时间轴横线 */
+  .months{
+    display:grid; grid-template-columns:repeat(12,minmax(0,1fr));
+    gap:12px; margin:0 0 10px;
+    position:relative;
+  }
+  .months::before{
+    content:""; position:absolute; left:12px; right:12px; top:14px;
+    height:2px; border-radius:1px;
+    background:linear-gradient(90deg,#FFD9E5 0%,#DAE8FF 50%,#D6F3E5 100%);
+  }
+  .months .m{
+    display:flex; align-items:center; justify-content:center;
+    gap:6px; font-size:12px; color:var(--ink-2);
+    padding:5px 0; position:relative; z-index:1;
+    background:#F7FBFF; border-radius:999px;
+    border:1px solid var(--line); font-weight:500;
+    min-height:28px;
+  }
+  .months .m.peak{
+    background:linear-gradient(90deg,#FFEEF4,#EFEAFF);
+    border-color:#F0D9E7; color:#5A3FE0; font-weight:600;
+  }
+  .months.h2 .m.peak{
+    background:linear-gradient(90deg,#E5F1FF,#DFF6EC);
+    border-color:#C9E2F7; color:#0F6E56;
+  }
+  .months .m::before{
+    content:""; width:7px; height:7px; border-radius:50%;
+    background:#B7C3D6;
+  }
+  .months .m.peak::before{background:#FF6F9A}
+  .months.h2 .m.peak::before{background:#22C39F}
 
   /* ========== 主体 grid ========== */
   .row{
@@ -253,21 +303,21 @@
 <!-- 三个关键大场 -->
 <div class="hero">
   <div class="peak p1">
-    <div class="num">09</div>
+    <div class="num">09<span class="unit">月</span></div>
     <div>
       <div class="tt-w"><span class="tt" style="background:#FFF4E4;border-color:#FBE3B7;color:#8A5300">秋上新 · 国庆出游</span></div>
       <div class="ds">全品类换季首波 · 女装 / 男装 / 贴身衣物 / 户外 <b>同时启动</b><br/>叠加小店"平台大促（双11玩法验证）+ 秋冬上新"</div>
     </div>
   </div>
   <div class="peak p2">
-    <div class="num">11</div>
+    <div class="num">11<span class="unit">月</span></div>
     <div>
       <div class="tt-w"><span class="tt" style="background:#EAE1FF;border-color:#DACAFB;color:#5A3FE0">双11 · 保暖季</span></div>
       <div class="ds">年度大场 · 保暖季承接<br/>女装 / 男装 / 贴身衣物 / 珠宝 / 户外 全线冲量</div>
     </div>
   </div>
   <div class="peak p3">
-    <div class="num">06</div>
+    <div class="num">06<span class="unit">月</span></div>
     <div>
       <div class="tt-w"><span class="tt" style="background:#DBF6EC;border-color:#B7E9D6;color:#0F6E56">618 · 年中大促 + 父亲节</span></div>
       <div class="ds">上半年最大窗口 · 女装承接 618，男装叠加父亲节送礼</div>
@@ -284,6 +334,13 @@
   <span class="bar"></span>
   <span class="t">26 年下半年</span>
   <span class="s">秋上新 → 双11 → 年末冲量</span>
+</div>
+<div class="months">
+  <div class="m" style="grid-column:span 2">08 底 – 09 初</div>
+  <div class="m peak" style="grid-column:span 3">09 月 · 秋上新</div>
+  <div class="m" style="grid-column:span 2">10 月</div>
+  <div class="m peak" style="grid-column:span 3">11 月 · 双11</div>
+  <div class="m" style="grid-column:span 2">12 月</div>
 </div>
 <div class="row">
 
@@ -373,6 +430,15 @@
   <span class="bar"></span>
   <span class="t">27 年上半年</span>
   <span class="s">年货 → 3.8 春上新 → 618 大促</span>
+</div>
+<div class="months h2">
+  <div class="m" style="grid-column:span 2">01 月 · 年货</div>
+  <div class="m" style="grid-column:span 1">02 月</div>
+  <div class="m peak" style="grid-column:span 2">03 月 · 3.8 春上新</div>
+  <div class="m" style="grid-column:span 2">04 月</div>
+  <div class="m" style="grid-column:span 1">05 月</div>
+  <div class="m peak" style="grid-column:span 2">06 月 · 618</div>
+  <div class="m" style="grid-column:span 2">07 月</div>
 </div>
 <div class="row">
 
