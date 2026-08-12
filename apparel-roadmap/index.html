@@ -109,45 +109,24 @@
   .rlabel.time .badge{width:6px; height:14px}
   .rlabel.time .sub{display:none}
   .rrow.time-row + .rrow{margin-top:8px}
+  .rrow.time-row{gap:0}
+  .rrow.time-row .rlabel{margin-right:var(--colgap)}
+  .rrow.time-row .tcell:first-of-type{border-top-left-radius:8px; border-bottom-left-radius:8px}
+  .rrow.time-row .tcell:last-of-type{border-top-right-radius:8px; border-bottom-right-radius:8px}
   .rlabel .txt{display:flex; flex-direction:column}
 
-  /* ========== 时间轴行（细窄标尺） ========== */
+  /* ========== 时间轴行（统一灰色标尺） ========== */
   .tcell{
-    background:transparent;
-    padding:6px 8px;
+    background:#F3F5F9;
+    padding:8px 0;
     text-align:center;
-    font-size:14px; font-weight:700;
+    font-size:15px; font-weight:700;
     color:var(--ink-2);
-    position:relative;
-    border-bottom:2px solid var(--line);
-    display:flex; align-items:center; justify-content:center; gap:6px;
-    min-height:32px;
+    border-right:1px solid #E6EAF2;
+    min-height:34px;
+    display:flex; align-items:center; justify-content:center;
   }
-  .tcell .quarter{
-    font-size:11px; color:var(--ink-3);
-    font-weight:600; letter-spacing:.3px;
-    padding:2px 6px; border-radius:4px;
-    background:#F5F8FD;
-  }
-  .tcell.peak{
-    color:#fff;
-    border-bottom:none;
-    border-radius:6px;
-    box-shadow:0 3px 8px rgba(255,111,154,.22);
-  }
-  .tcell.peak .quarter{
-    color:#fff;
-    background:rgba(255,255,255,.22);
-  }
-  .tcell.peak .stars{
-    font-size:10px; letter-spacing:1px; line-height:1;
-    font-weight:600; opacity:.9;
-  }
-  .tcell:not(.peak) .stars{display:none}
-  .tcell.p-orange{background:linear-gradient(135deg,#FF8A50,#FF5E7A)}
-  .tcell.p-pink  {background:linear-gradient(135deg,#FF6F9A,#8869FF)}
-  .tcell.p-red   {background:linear-gradient(135deg,#F44E7B,#C0294D)}
-  .tcell.p-blue  {background:linear-gradient(135deg,#3AA0FF,#5A3FE0)}
+  .tcell:last-child{border-right:none}
 
   /* ========== 大节点行（第二条） ========== */
   .big{
@@ -352,12 +331,12 @@
         <span class="sub">6 个月 · Q3–Q1</span>
       </div>
     </div>
-    <div class="tcell"><span class="quarter">Q3 尾</span>8 月</div>
-    <div class="tcell peak p-orange"><span class="quarter">Q3 大场</span>9 月<span class="stars">★ ★</span></div>
-    <div class="tcell"><span class="quarter">Q4 起</span>10 月</div>
-    <div class="tcell peak p-pink"><span class="quarter">年度最大</span>11 月<span class="stars">★ ★ ★</span></div>
-    <div class="tcell peak p-red"><span class="quarter">年底冲量</span>12 月<span class="stars">★ ★</span></div>
-    <div class="tcell peak p-blue"><span class="quarter">新年开门红</span>1 月<span class="stars">★</span></div>
+    <div class="tcell">8 月</div>
+    <div class="tcell">9 月</div>
+    <div class="tcell">10 月</div>
+    <div class="tcell">11 月</div>
+    <div class="tcell">12 月</div>
+    <div class="tcell">1 月</div>
   </div>
 
   <!-- Row 2 · 大节点 -->
