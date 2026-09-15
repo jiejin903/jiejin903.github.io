@@ -424,9 +424,10 @@ function renderCmp(c){
         <div class="mini"><div class="mini__l">待推动</div><div class="mini__v">${fmt(d.todo)}</div></div>
         <div class="mini"><div class="mini__l">日均消耗</div><div class="mini__v">${wan(d.cost)}<small> 万</small></div></div>
       </div>
-      <div class="mini-grid" style="grid-template-columns:repeat(2,1fr);border-top:none;padding-top:10px">
+      <div class="mini-grid" style="border-top:none;padding-top:10px">
         <div class="mini"><div class="mini__l">日均 GMV</div><div class="mini__v">${wan(d.gmv)}<small> 万</small></div></div>
         <div class="mini"><div class="mini__l">户均日耗</div><div class="mini__v">${fmt(d.avg)}<small> 元</small></div></div>
+        <div class="mini"><div class="mini__l">投广率</div><div class="mini__v">${d.rate.toFixed(1)}<small> %</small></div></div>
       </div>
       <div class="progress ${bar}"><i style="width:${d.rate.toFixed(1)}%"></i></div>
       <div class="progress__lbl"><span>投广率 ${d.rate.toFixed(1)}%</span><span>户均日耗 ${fmt(d.avg)} 元</span></div>
