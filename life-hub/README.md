@@ -13,7 +13,7 @@
 Project URL 和 publishable key 都写进页面了（2026-09-13 验证通过）：
 
 - Project URL：`https://xcsyowhmkumycyxhcgrw.supabase.co`
-- 14 张表已建，RLS 已开，15 个 RSS 源已预置，新闻已抓到 279 条
+- 16 张表已建，RLS 已开，15 个 RSS 源已预置，新闻已抓到 518 条（GitHub Actions 美国 IP 抓取，PsyPost 也正常）
 
 **手机端**打开同一个网址就能同步，不用再填任何东西。
 
@@ -87,8 +87,9 @@ data/news.json             抓取快照兜底（无数据库时页面可读）
 | 工作台页面 | ✅ GitHub Pages：https://jiejin903.github.io/life-hub/ ｜ 备用：https://workbuddy.link/p/cS5BFCRNKydVUSvPT73ldp |
 | Supabase 云端同步 | ✅ 已打通并端到端验证（新增 201 / 读回 200 / 完成 204 / 软删 204 / 恢复 204 / 打卡重复写入 409 被唯一约束拦住） |
 | 数据库 | ✅ 14 张表（12 业务表 + rss_sources / rss_runs），RLS 已开 |
-| 新闻数据 | ✅ 已真实抓取 279 条入库（14/15 源成功，仅 PsyPost 403） |
-| GitHub Pages | ⏸ 阻塞：本机钥匙串存的是**账号密码**，GitHub 已禁用密码推送。需一个 PAT（repo 权限），脚本已备好 |
-| GitHub Actions 定时任务 | ⏸ 同上；Secrets 加 `SUPABASE_URL` / `SUPABASE_KEY` 即可跑 |
+| 新闻数据 | ✅ 已真实抓取 518 条入库（2026-10-13 Actions 首跑新增 239 条，15/15 源全通） |
+| GitHub Pages | ✅ 已上线：https://jiejin903.github.io/life-hub/（2026-10-13 部署，仓库 `jiejin903/jiejin903.github.io` 子目录） |
+| GitHub Actions 定时任务 | ✅ 已启用：每天北京时间 07:00 抓 RSS；Secrets `SUPABASE_URL` / `SUPABASE_KEY` 已配好 |
+| 保活 | ✅ Actions 每日请求 Supabase，天然防止免费项目 7 天无活动被暂停 |
 
 **PsyPost 源**在当前网络被 Cloudflare 拦 403（UA 已带），已按「单源失败不影响其他源」隔离，页面顶部会提示失败源数量。
