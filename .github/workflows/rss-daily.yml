@@ -1,0 +1,47 @@
+name: RSS 每日抓取
+
+# 说明：本文件按「life-hub 作为 jiejin903.github.io 仓库的子目录」部署。
+# 若 life-hub 单独成一个仓库，把下面所有 life-hub/ 前缀去掉即可。
+
+on:
+  schedule:
+    # 每天 UTC 23:00 = 北京时间次日 07:00
+    - cron: '0 23 * * *'
+  workflow_dispatch:   # 允许在 Actions 页面手动触发
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    defaults:
+      run:
+        working-directory: life-hub
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取 RSS 并写入 Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: node scripts/fetch-rss.mjs
+
+      - name: 提交本地兜底快照
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain life-hub/data/news.json)" ]; then
+            git add life-hub/data/news.json
+            git commit -m "chore(news): update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin ${{ github.ref_name }}
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "新闻快照无变化，跳过提交"
+          fi
