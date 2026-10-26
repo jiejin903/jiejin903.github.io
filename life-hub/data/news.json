@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T00:53:12.350Z",
+ "updated_at": "2026-10-26T01:01:18.739Z",
  "ok": 14,
  "fail": 1,
  "items": [
@@ -148,6 +148,15 @@
    "is_read": false
   },
   {
+   "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+   "link": "https://www.leiphone.com/category/industrynews/sf7R7WgzGyvZwKLa.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。 面向AI for Work数万亿美元级蓝海市场，全球领先的AI营销科技公司钛动科技，在会上正式发布行业首个 Pro Agent ——Navos Pro。Navos Pro以 Professional、Proactive、Profitable 三大核心属性构建产品内核，让结果导向（Result-Driven）的 AI for Work成为现实，持续推动 AI 成为企业全球增长与生产力变革的核心引擎。 【Kevin Knight博士开场演讲】 本次大会由国际AI泰斗 Kevin Knight 博士领衔开场演讲，发言嘉宾汇聚 OpenAI、Google、阿里、字节、腾讯等全球 AI 科技公司，凝聚一个核心共识：“科技创造增长”产业新周期开启，AI 商业价值必须由真实业务指标验证",
+   "pub_date": "2026-10-23T12:20:00.000Z",
+   "is_read": false
+  },
+  {
    "title": "宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投",
    "link": "https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html",
    "source": "雷峰网",
@@ -265,12 +274,21 @@
    "is_read": false
   },
   {
-   "title": "iPhone Duo开售，美团闪购：最早一单20分钟送达",
-   "link": "https://www.leiphone.com/category/industrynews/JaLr33yTu2JXaEb7.html",
-   "source": "雷峰网",
+   "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+   "link": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "北京时间今日早晨八点，iPhone Duo正式发售。作为Apple推出的首款折叠屏产品，消费者的热情使眼下的iPhone Duo可谓“一机难求”：早在一周前开启预售时，多个渠道就迅速售罄，苹果官网也因为流量过大一度卡顿。当前官网显示，iPhone Duo的预计交付时间已排至明年1月，二手市场溢价更令人望而却步。 在这一情况下，不少消费者开始尝试通过各类新渠道“打新”。记者在社交平台注意到，随着各大平台深入布局新品首发，即时零售在今年意外成为不少消费者抢购新品的新渠道。有消费者晒出自己在美团闪购成功抢到iPhone Duo的经历，称“闪购是今年抢到首发的惊喜”。记者从美团闪购方面获悉，本次iPhone新品通过平台上300多个城市的Apple授权专营店首发，预售销量创下新高。今日iPhone Duo正式发售后，最快一单仅用时20分钟，即由美团骑手送至南通市崇川区的一位消费者手中。 ▲美团骑手在",
-   "pub_date": "2026-10-23T02:45:00.000Z",
+   "summary": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-26T00:16:16.000Z",
+   "is_read": false
+  },
+  {
+   "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
+   "link": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "还没捂热呢 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-25T04:10:44.000Z",
    "is_read": false
   },
   {
@@ -433,24 +451,6 @@
    "category": "ai",
    "summary": "奇瑞想做一家创新技术企业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
    "pub_date": "2026-10-21T01:31:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
-   "link": "https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯 · Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提 · 9 月 BBA 主力车型无一零售破万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-21T00:21:51.000Z",
-   "is_read": false
-  },
-  {
-   "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
-   "link": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "规则归交互系统，画面归模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-20T14:13:34.000Z",
    "is_read": false
   },
   {
@@ -814,6 +814,33 @@
    "is_read": false
   },
   {
+   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+   "pub_date": "2026-10-25T21:31:16.000Z",
+   "is_read": false
+  },
+  {
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+   "pub_date": "2026-10-25T16:57:32.000Z",
+   "is_read": false
+  },
+  {
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+   "pub_date": "2026-10-25T14:10:00.000Z",
+   "is_read": false
+  },
+  {
    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "source": "TechCrunch AI",
@@ -913,20 +940,20 @@
    "is_read": false
   },
   {
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-   "pub_date": "2026-10-22T19:00:00.000Z",
-   "is_read": false
-  },
-  {
    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
    "source": "TechCrunch AI",
    "category": "ai",
    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "pub_date": "2026-10-22T19:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
    "pub_date": "2026-10-22T19:00:00.000Z",
    "is_read": false
   },
@@ -964,33 +991,6 @@
    "category": "ai",
    "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
    "pub_date": "2026-10-22T15:03:58.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Claude Duet app is Anthropic’s bet on agents",
-   "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-   "pub_date": "2026-10-22T13:53:26.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Nirva raises $33M for a pendant that only listens to you",
-   "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-   "pub_date": "2026-10-22T13:26:52.000Z",
-   "is_read": false
-  },
-  {
-   "title": "DeepSeek reportedly raises $15B days after US restrictions",
-   "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-   "pub_date": "2026-10-22T13:11:13.000Z",
    "is_read": false
   },
   {
@@ -1354,183 +1354,246 @@
    "is_read": false
   },
   {
-   "title": "Why Gopher in 2026?",
-   "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+   "title": "Lula wins election after final votes tallied",
+   "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 12 # Comments: 3",
-   "pub_date": "2026-10-24T23:33:19.000Z",
+   "summary": "Article URL: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50237485 Points: 20 # Comments: 1",
+   "pub_date": "2026-10-26T00:31:07.000Z",
    "is_read": false
   },
   {
-   "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-   "link": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+   "title": "Lula Wins Brazilian Election",
+   "link": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombinator.com/item?id=50226434 Points: 25 # Comments: 14",
-   "pub_date": "2026-10-24T23:14:30.000Z",
+   "summary": "Article URL: https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados Comments URL: https://news.ycombinator.com/item?id=50237426 Points: 45 # Comments: 10",
+   "pub_date": "2026-10-26T00:23:29.000Z",
    "is_read": false
   },
   {
-   "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-   "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "title": "F-Zero X on Nintendo 3DS",
+   "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 77 # Comments: 45",
-   "pub_date": "2026-10-24T23:11:54.000Z",
+   "summary": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 24 # Comments: 5",
+   "pub_date": "2026-10-25T23:27:30.000Z",
    "is_read": false
   },
   {
-   "title": "We should be more ambitious with the software we build",
-   "link": "https://danluu.com/ambitious/",
+   "title": "Proton Flock Camera Map",
+   "link": "https://proton.me/flock-camera-map",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 126 # Comments: 85",
-   "pub_date": "2026-10-24T21:47:31.000Z",
+   "summary": "Article URL: https://proton.me/flock-camera-map Comments URL: https://news.ycombinator.com/item?id=50236748 Points: 42 # Comments: 3",
+   "pub_date": "2026-10-25T22:39:42.000Z",
    "is_read": false
   },
   {
-   "title": "Small Programs and Languages",
-   "link": "https://ratfactor.com/cards/pl-small",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "link": "https://minimaxir.com/2026/10/cheap-llms/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 24 # Comments: 1",
-   "pub_date": "2026-10-24T21:44:23.000Z",
+   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 114 # Comments: 135",
+   "pub_date": "2026-10-25T21:11:31.000Z",
    "is_read": false
   },
   {
-   "title": "The Importance of Limitations for Creativity and Learning",
-   "link": "https://ratfactor.com/cards/limitations",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 16 # Comments: 3",
-   "pub_date": "2026-10-24T21:42:47.000Z",
+   "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 206 # Comments: 113",
+   "pub_date": "2026-10-25T21:08:28.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: Steal My Bitcoin",
-   "link": "https://stealmybitcoin.com/",
+   "title": "The State of Context Engineering",
+   "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 380 # Comments: 224",
-   "pub_date": "2026-10-24T20:30:31.000Z",
+   "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 64 # Comments: 16",
+   "pub_date": "2026-10-25T20:32:31.000Z",
    "is_read": false
   },
   {
-   "title": "No signs of AI payoff outside the tech sector",
-   "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "title": "What goes into making an animated film?",
+   "link": "https://www.disneyanimation.com/process/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 461 # Comments: 445",
-   "pub_date": "2026-10-24T19:47:19.000Z",
+   "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 79 # Comments: 33",
+   "pub_date": "2026-10-25T20:27:09.000Z",
    "is_read": false
   },
   {
-   "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-   "link": "https://missileer.watch",
+   "title": "Focused Company Operating Principles",
+   "link": "https://focused.io/operating-principles",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 106 # Comments: 71",
-   "pub_date": "2026-10-24T19:43:27.000Z",
+   "summary": "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=50235639 Points: 18 # Comments: 5",
+   "pub_date": "2026-10-25T20:16:51.000Z",
    "is_read": false
   },
   {
-   "title": "SpeedCrunch 1.1",
-   "link": "https://www.speedcrunch.org/",
+   "title": "Eunice is almost here",
+   "link": "https://armincat.com/articles/eunice-is-almost-here",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 66 # Comments: 10",
-   "pub_date": "2026-10-24T19:19:43.000Z",
+   "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 56 # Comments: 48",
+   "pub_date": "2026-10-25T19:40:27.000Z",
    "is_read": false
   },
   {
-   "title": "The Goose Programming Language",
-   "link": "https://aardappel.github.io/goose/",
+   "title": "Why I Am a Programmer",
+   "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 219 # Comments: 152",
-   "pub_date": "2026-10-24T19:06:55.000Z",
+   "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 117 # Comments: 36",
+   "pub_date": "2026-10-25T19:11:31.000Z",
    "is_read": false
   },
   {
-   "title": "Bbtree: Fastest Ordered Map",
-   "link": "https://bbtree.xiangpeng.systems/post/",
+   "title": "Where the Romans Fought (interactive map)",
+   "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 42 # Comments: 3",
-   "pub_date": "2026-10-24T18:22:14.000Z",
+   "summary": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 42 # Comments: 12",
+   "pub_date": "2026-10-25T18:58:14.000Z",
    "is_read": false
   },
   {
-   "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-   "link": "https://de.numista.com/9866",
+   "title": "Dolly Parton's Imagination Library",
+   "link": "https://imaginationlibrary.com/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 91 # Comments: 28",
-   "pub_date": "2026-10-24T16:41:55.000Z",
+   "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer. The seeds of these dreams are often found",
+   "pub_date": "2026-10-25T18:23:54.000Z",
    "is_read": false
   },
   {
-   "title": "Roku developer repositories moved from GitHub to GitLab",
-   "link": "https://blog.roku.com/developer/gitlab-move",
+   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 251 # Comments: 166",
-   "pub_date": "2026-10-24T16:06:26.000Z",
+   "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 366 # Comments: 90",
+   "pub_date": "2026-10-25T18:04:11.000Z",
    "is_read": false
   },
   {
-   "title": "Neural chip decodes interactions between brain regions",
-   "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "link": "https://talkweb.eu/openweb/4558/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 86 # Comments: 29",
-   "pub_date": "2026-10-24T15:57:17.000Z",
+   "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 376 # Comments: 185",
+   "pub_date": "2026-10-25T17:30:55.000Z",
    "is_read": false
   },
   {
-   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-   "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "link": "https://lynchlab.net/llm-skin-cancer",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 33 # Comments: 22",
-   "pub_date": "2026-10-24T15:35:17.000Z",
+   "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 409 # Comments: 198",
+   "pub_date": "2026-10-25T17:15:38.000Z",
    "is_read": false
   },
   {
-   "title": "FreeDNS",
-   "link": "https://freedns.afraid.org/",
+   "title": "UTS #39: Unicode Security Mechanisms",
+   "link": "https://unicode.org/reports/tr39/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 245 # Comments: 61",
-   "pub_date": "2026-10-24T15:20:01.000Z",
+   "summary": "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 32 # Comments: 10",
+   "pub_date": "2026-10-25T16:40:37.000Z",
    "is_read": false
   },
   {
-   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-   "link": "https://github.com/Zagitta/gpu-unlock",
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 181 # Comments: 61",
-   "pub_date": "2026-10-24T09:58:27.000Z",
+   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 195 # Comments: 276",
+   "pub_date": "2026-10-25T16:28:26.000Z",
    "is_read": false
   },
   {
-   "title": "I don't understand quantum physics (2018)",
-   "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "title": "JetBrains Thinkrail",
+   "link": "https://github.com/JetBrains/thinkrail",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 273 # Comments: 205",
-   "pub_date": "2026-10-24T09:53:26.000Z",
+   "summary": "Article URL: https://github.com/JetBrains/thinkrail Comments URL: https://news.ycombinator.com/item?id=50233294 Points: 176 # Comments: 118",
+   "pub_date": "2026-10-25T16:27:12.000Z",
    "is_read": false
   },
   {
-   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-   "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "title": "Active incident at Dreamhost forcing password reset",
+   "link": "https://www.dreamhoststatus.com/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 271 # Comments: 136",
-   "pub_date": "2026-10-24T08:06:39.000Z",
+   "summary": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 109 # Comments: 40",
+   "pub_date": "2026-10-25T13:09:16.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Young adults who fear rejection also tend to fear death more, psychology study finds",
+   "link": "https://www.psypost.org/young-adults-who-fear-rejection-also-tend-to-fear-death-more-psychology-study-finds/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Young adults who worry about rejection tend to fear death more, a study of 640 Italians found. That fear was tied to more anxiety and related symptoms, but mainly among those who see death as final.",
+   "pub_date": "2026-10-25T18:00:32.000Z",
+   "is_read": false
+  },
+  {
+   "title": "How the menstrual cycle might alter ADHD symptoms in women taking stimulant medication",
+   "link": "https://www.psypost.org/how-the-menstrual-cycle-alters-adhd-symptoms-in-women-taking-stimulants/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A new study reveals that ADHD symptoms peak in severity during menstruation for women taking stimulant medications. The findings suggest that natural hormonal fluctuations alter attention and mood, highlighting a need for highly personalized treatment plans.",
+   "pub_date": "2026-10-25T16:00:43.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Anger and fear nudge voters toward different kinds of leader faces, study suggests",
+   "link": "https://www.psypost.org/anger-and-fear-nudge-voters-toward-different-kinds-of-leader-faces-study-suggests/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Which face looks like the right leader may depend on how a political issue makes you feel. Republicans still favored dominant-looking leaders more than Democrats did, but the effects of anger and fear appeared similar across both parties.",
+   "pub_date": "2026-10-25T14:00:09.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Dominance-seeking workers see more sexual interest in coworkers’ behavior, and that may help explain harassment",
+   "link": "https://www.psypost.org/dominance-seeking-workers-see-more-sexual-interest-in-coworkers-behavior-and-that-may-help-explain-harassment/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A smile or friendly chat at work isn’t usually an invitation. But employees with a strong desire to dominate others were more likely to read sexual interest into such behavior, and those perceptions were linked to self-reported harassment.",
+   "pub_date": "2026-10-25T13:00:49.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Neuroscientists are digging into a worrying link between polluted air and children’s brain wiring",
+   "link": "https://www.psypost.org/neuroscientists-are-digging-into-a-worrying-link-between-polluted-air-and-childrens-brain-wiring/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Children breathe a mix of pollution from cars, power plants, farms, and fires. A study of more than 6,000 U.S. kids found several sources were tied to their own pattern of brain network communication.",
+   "pub_date": "2026-10-25T12:00:49.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Romantic breakups correspond with changes in sexual identity during adulthood",
+   "link": "https://www.psypost.org/the-material-fallout-of-a-breakup-correlates-with-shifts-in-sexual-identity/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A new study finds that the practical disruptions of a romantic breakup, such as moving or changing finances, are associated with increased ambiguity around a person's sexual orientation.",
+   "pub_date": "2026-10-25T11:00:48.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Your body makes its own cannabis-like chemicals as you run, and neuroscience research finds they keep rising all the way to the marathon finish line, a possible clue to the runner’s high",
+   "link": "https://www.psypost.org/your-body-makes-its-own-cannabis-like-chemicals-as-you-run-and-neuroscience-research-finds-they-keep-rising-all-the-way-to-the-marathon-finish-line-a-possible-clue-to-the-runners-high/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Most research on the runner’s high has looked at workouts under an hour. New research on marathoners and ultramarathoners found the body’s cannabis-like chemicals remain active through hours of running.",
+   "pub_date": "2026-10-25T10:00:48.000Z",
    "is_read": false
   },
   {
@@ -1651,66 +1714,21 @@
    "is_read": false
   },
   {
-   "title": "Sugar restriction in early life is linked to lower dementia risk and slightly slower brain aging decades later",
-   "link": "https://www.psypost.org/sugar-restriction-in-early-life-is-linked-to-lower-dementia-risk-and-slightly-slower-brain-aging-decades-later/",
-   "source": "PsyPost",
+   "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+   "source": "Science Daily 心理学",
    "category": "psychology",
-   "summary": "A natural experiment created by Britain’s postwar sugar rationing suggests that less sugar in the first years of life may be linked to lower risks of dementia, depression, and anxiety, along with slightly younger-looking brains.",
-   "pub_date": "2026-10-23T12:00:28.000Z",
+   "summary": "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible for these extraordinary hallucinations in China and the Philippines.",
+   "pub_date": "2026-10-25T06:36:10.000Z",
    "is_read": false
   },
   {
-   "title": "“AI psychosis” appears rare but real, and first-episode patients may be most vulnerable, study suggests",
-   "link": "https://www.psypost.org/ai-psychosis-appears-rare-but-real-and-first-episode-patients-may-be-most-vulnerable-study-suggests/",
-   "source": "PsyPost",
+   "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
+   "source": "Science Daily 心理学",
    "category": "psychology",
-   "summary": "People going through their first episode of psychosis may be especially vulnerable to chatbots that validate distorted beliefs, a new study suggests. At one large medical center, 61% of “AI psychosis” cases involved first-episode patients.",
-   "pub_date": "2026-10-23T11:00:23.000Z",
-   "is_read": false
-  },
-  {
-   "title": "LSD pushes brain activity toward a more fractal, complex state, study finds",
-   "link": "https://www.psypost.org/lsd-pushes-brain-activity-toward-a-more-fractal-complex-state-study-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "LSD speeds up the brain’s alpha and beta rhythms by about 2 and 5 hertz, respectively, while genuinely weakening them, according to a new brain imaging study. The drug also made brain signals more complex, especially in sensory regions.",
-   "pub_date": "2026-10-23T10:00:23.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Race and gender are linked to how Americans protest and campaign",
-   "link": "https://www.psypost.org/how-race-and-gender-shape-political-anger-in-america/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "When Americans get angry about the state of the country, their race and gender appear to shape whether they turn to the ballot box or the picket line. A new study reveals how overlapping identities influence political participation.",
-   "pub_date": "2026-10-22T20:00:24.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Haunted houses may bring people closer, but psychological research suggests the bonding really happens on the ride home",
-   "link": "https://www.psypost.org/the-benefits-of-frightening-activities-depend-on-what-you-do-afterward-according-to-new-psychology-research/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "People who felt more scared inside a haunted house, and held hands or touched their companions, were more likely to say the experience brought them closer. But interviews suggest much of the bonding may happen in conversations afterward.",
-   "pub_date": "2026-10-22T19:00:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Older adults with depression tend to have smaller volumes of a specific part of the hippocampus brain region",
-   "link": "https://www.psypost.org/older-adults-with-depression-tend-to-have-smaller-volumes-of-a-specific-part-of-the-hippocampus-brain-region/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Older adults with depression tended to have a smaller volume in one part of the hippocampus, a brain region hit early by Alzheimer’s disease. The link did not appear to be explained by Alzheimer’s-related proteins.",
-   "pub_date": "2026-10-22T18:00:23.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Higher progesterone is linked to blurrier brain signals for emotional control, study finds",
-   "link": "https://www.psypost.org/higher-progesterone-is-linked-to-blurrier-brain-signals-for-emotional-control-study-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Women with higher natural progesterone levels showed less distinct brain activity patterns when overriding automatic emotional impulses, according to a neuroimaging study of 116 young women. Estradiol, the other major ovarian hormone, showed no such link.",
-   "pub_date": "2026-10-22T16:00:22.000Z",
+   "summary": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the energy-producing structures inside cells. These proteins have been linked to protection against heart ",
+   "pub_date": "2026-10-25T01:38:38.000Z",
    "is_read": false
   },
   {
@@ -2233,24 +2251,6 @@
    "category": "psychology",
    "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers used machine learning to analyze EEG recordings from about 7,000 adults and found that an older-than-expected “brain age” was tied to a sharply higher dementia risk. Every additional 10 years of brain aging raised that risk by nearly 40%.",
    "pub_date": "2026-07-31T07:05:12.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Scientists discover why poor sleep may harm some brains more",
-   "link": "https://www.sciencedaily.com/releases/2026/07/260729051529.htm",
-   "source": "Science Daily 心理学",
-   "category": "psychology",
-   "summary": "A gene involved in the brain’s overnight cleaning system may change how strongly poor sleep affects Alzheimer’s-related brain changes. The findings point toward more personalized prevention strategies based on both genetics and sleep habits.",
-   "pub_date": "2026-07-31T12:20:43.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Your gut may help your brain decide what to remember",
-   "link": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm",
-   "source": "Science Daily 心理学",
-   "category": "psychology",
-   "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutritional value. Blocking the vagus nerve erased this effect and made it harder for the animals to remember where food had been located. Over time, diets high in fat and sugar also weak",
-   "pub_date": "2026-07-29T12:20:24.000Z",
    "is_read": false
   },
   {
