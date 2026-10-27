@@ -1,8 +1,71 @@
 {
- "updated_at": "2026-10-26T01:01:18.739Z",
+ "updated_at": "2026-10-27T01:51:18.003Z",
  "ok": 14,
  "fail": 1,
  "items": [
+  {
+   "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+   "link": "https://www.qbitai.com/2026/10/505083.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕",
+   "pub_date": "2026-10-23T09:21:41.000Z",
+   "is_read": false
+  },
+  {
+   "title": "企业AI需要两个世界模型",
+   "link": "https://www.qbitai.com/2026/10/505032.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "特赞想让企业Agent真正懂业务",
+   "pub_date": "2026-10-23T09:07:25.000Z",
+   "is_read": false
+  },
+  {
+   "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+   "link": "https://www.qbitai.com/2026/10/504931.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "房间秒变草原，抬手就能下雪",
+   "pub_date": "2026-10-23T09:03:37.000Z",
+   "is_read": false
+  },
+  {
+   "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+   "link": "https://www.qbitai.com/2026/10/504930.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "",
+   "pub_date": "2026-10-23T08:50:16.000Z",
+   "is_read": false
+  },
+  {
+   "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+   "link": "https://www.qbitai.com/2026/10/504915.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "让AI真正走进真实世界",
+   "pub_date": "2026-10-23T08:45:43.000Z",
+   "is_read": false
+  },
+  {
+   "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+   "link": "https://www.qbitai.com/2026/10/504913.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "10月23日，iRTE2026实时智能大会在北京举行。",
+   "pub_date": "2026-10-23T08:45:30.000Z",
+   "is_read": false
+  },
+  {
+   "title": "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”",
+   "link": "https://www.qbitai.com/2026/10/504905.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "阿里巴巴集团旗下高德正式发布首个基于开放世界行为的全身基座模型λ0",
+   "pub_date": "2026-10-23T08:40:57.000Z",
+   "is_read": false
+  },
   {
    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
    "link": "https://www.qbitai.com/2026/10/504901.html",
@@ -31,66 +94,39 @@
    "is_read": false
   },
   {
-   "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-   "link": "https://www.qbitai.com/2026/10/504832.html",
-   "source": "量子位",
+   "title": "腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%",
+   "link": "https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-   "pub_date": "2026-10-22T07:11:14.000Z",
+   "summary": "从知情人士处获悉，根据QuestMobile的数据，截至今年8月，腾讯绿泡泡短剧小程序月活跃用户规模已过亿级，达1.43亿。10月首周周活跃用户达8968万，较9月首周提升44.1%。自7月正式更名以来，该产品周活跃用户规模约三个月内逼近9000万。 根据DataEye监测，10月1日至7日绿泡泡短剧累计投放素材4.3万组，日均投放量较节前一周增长57%，内容供给与投放投入同步加码。从增长驱动来看，原 “短剧”小程序入口的全面接替，与微信生态流量支持为绿泡泡带来直接增量。依托微信生态的分发，拥有6亿日活用户的视频号是其中的关键一环；另一方面，绿泡泡持续扩充内容供给，覆盖真人剧、AI 剧、动漫剧等品类。 目前，短剧赛道竞争进一步加剧。红果短剧以免费独立APP模式领跑，绿泡泡凭借入口与流量优势快速起量。快手、拼多多、淘宝、百度也早就布局短剧市场，成为短剧市场不可忽视的平台。",
+   "pub_date": "2026-10-26T11:26:00.000Z",
    "is_read": false
   },
   {
-   "title": "谁在给OpenAI供应具身数据？",
-   "link": "https://www.qbitai.com/2026/10/504800.html",
-   "source": "量子位",
+   "title": "即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台",
+   "link": "https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "挤进全球Physical AI核心供应链",
-   "pub_date": "2026-10-22T07:05:59.000Z",
+   "summary": "10月26日，即梦AI上线全新功能“短剧工作室”。作为即梦面向短剧创作场景推出的一站式AI工具，“短剧工作室”将剧本整理、角色与场景管理、分镜生成、视频制作及后期调整等全流程整合到同一个平台中，让创作者不必在多个平台间来回切换。 据悉，“短剧工作室”部分功能整合了小云雀短剧Agent的同款能力。有行业分析认为，此次能力整合，有助于即梦发挥既有优势，打造更加全能好用的内容创作平台。 即梦短剧工作室提供剧本创作、3D导演台、智能预演等工具 项目资产一站式管理，自研模型让创作更高效 “短剧工作室”搭载即梦首个专业剧本模型DreamScript，面向短剧创作场景进行训练、优化，覆盖剧本生成到诊断的全链路。上传已有剧本后，剧本医生功能可自动诊断前三集主线，检查主角身份与核心冲突是否清晰；台词体检功能可对照角色小传逐句诊断改编。产品支持10万字长文本上传与100集连续生成。 上传剧本后，“短剧工作室”",
+   "pub_date": "2026-10-26T10:25:00.000Z",
    "is_read": false
   },
   {
-   "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-   "link": "https://www.qbitai.com/2026/10/504734.html",
-   "source": "量子位",
+   "title": "DeepSeek 开源看家算子的同一周，AI 超过了它",
+   "link": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "医疗AI质变时刻",
-   "pub_date": "2026-10-21T11:30:59.000Z",
+   "summary": "国产大模型的竞争，正从模型层延伸到算力层：再强的模型，最终都要基于算子在芯片上执行。同一个模型、同一块芯片，换一套更优的算子，有时会带来数倍的性能提升。算子的效率决定了同样的显卡能跑多快，也决定了每个 token 的价格。 DeepSeek 近日全面开源推理框架 DeepInfer。继模型权重和 FlashMLA、DeepGEMM 等算子库之后，他们把模型运行的链路开放了。其中的 FlashMLA，有工程师在芯片上逐行手调的版本，算子性能跑到了硬件极限的 90% 以上，这也是人类手艺目前在部分芯片上达到的极限成绩。 而这个极限，同一周就被 AI 刷新了。据悉，截至 10 月 22 日，完全由 AI 编写算子、无人工逐行调优的 ForgeKernel，同时登顶两个算子评测榜：英伟达主场的 SOL-ExecBench FlashInfer-Bench 合集第一，以及昇腾 CANN 官方仓库维护",
+   "pub_date": "2026-10-26T06:58:00.000Z",
    "is_read": false
   },
   {
-   "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-   "link": "https://www.qbitai.com/2026/10/504730.html",
-   "source": "量子位",
+   "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
+   "link": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-   "pub_date": "2026-10-21T09:45:22.000Z",
-   "is_read": false
-  },
-  {
-   "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-   "link": "https://www.qbitai.com/2026/10/504653.html",
-   "source": "量子位",
-   "category": "ai",
-   "summary": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
-   "pub_date": "2026-10-21T07:15:05.000Z",
-   "is_read": false
-  },
-  {
-   "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-   "link": "https://www.qbitai.com/2026/10/504638.html",
-   "source": "量子位",
-   "category": "ai",
-   "summary": "百万台搭载打底，智驾普及与安全并重",
-   "pub_date": "2026-10-21T06:40:46.000Z",
-   "is_read": false
-  },
-  {
-   "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-   "link": "https://www.qbitai.com/2026/10/504618.html",
-   "source": "量子位",
-   "category": "ai",
-   "summary": "电池开发，分工远比想象复杂",
-   "pub_date": "2026-10-21T04:35:56.000Z",
+   "summary": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。 本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星连资本及钱江世纪城共同领投。云创资本、湖南高新纵横、建投华科、申万创新投、中信聚信、珠海科技产业集团、商汤科技、网宿科技、甘肃树帜、常金控、元智未来、清证星竹、小咖资本等跟投，老股东尚势资本继续追投。 这是继今年 7 月完成 A 轮融资后，趋境科技短期内再获大额融资。截至今年10月，趋境科技已在 2026 年连续完成多轮融资。密集的资本跟进背后，既反映出市场对 AI 基础设施赛道长期价值的共识，更源于投资人对趋境科技战略聚焦、技术领先和商业化交付成绩等综合实力的肯定——过去半年，趋境科技不但全面",
+   "pub_date": "2026-10-26T02:37:00.000Z",
    "is_read": false
   },
   {
@@ -238,39 +274,66 @@
    "is_read": false
   },
   {
-   "title": "剧中角色“喊你休息” 红果短剧上线防沉迷提醒视频",
-   "link": "https://www.leiphone.com/category/industrynews/GmXZhkN2aewwJOXM.html",
-   "source": "雷峰网",
+   "title": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
+   "link": "https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "近日，红果短剧上线“休息提醒”和“睡眠提醒”两项机制。用户看剧超过一定时长，或在深夜时段打开红果短剧时，可能会在推荐页刷到一条特别的视频：熟悉的短剧角色对着镜头，提醒用户放下手机，休息一下。 据介绍，“休息提醒”在用户看剧超过一定时长后触发：在剧集播放页，屏幕上方会出现“是时候休息下啦”的提示；在推荐页，用户则会刷到一条提醒视频。“睡眠提醒”则面向深夜时段仍在看剧的用户。目前，提醒机制正逐步覆盖更多用户。 （红果短剧的提醒视频由多位短剧虚拟角色出镜） 剧中角色当起“提醒员”，台词延续剧情风格 红果短剧的提醒视频由贺平生、姜月初、赵一帆、陈子昂等多位短剧虚拟角色出镜，每条视频在10-20秒左右，角色们沿用了在剧中的人设和说话方式。 身着古装的贺平生开口便是“今日就到这，都散了吧”，又劝观众“修行不是一夜的事”“明天还有明天的路要走”。姜月初的语气更像在哄人入睡，“剩下的精彩留给以后慢慢发现”",
-   "pub_date": "2026-10-23T07:12:00.000Z",
+   "summary": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-27T01:13:00.000Z",
    "is_read": false
   },
   {
-   "title": "“PHP2Shell”敲响企业漏洞警钟，奇安信天戟提供一键速查方案",
-   "link": "https://www.leiphone.com/category/industrynews/9DeJmHEbinuBUT49.html",
-   "source": "雷峰网",
+   "title": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+   "link": "https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "10月21日，全球广泛使用的服务器端编程语言PHP被曝存在两项严重安全漏洞（CVE-2026-109618、CVE-2026-109619），统称为“PHP2Shell”。 经奇安信技术专家验证，该漏洞可实现无认证远程任意命令执行，属于互联网基础设施级严重安全风险，对我国的潜在影响超百万级资产。 由于利用门槛极低，极易演化出大规模蠕虫式传播攻击，直接威胁我国关键信息基础设施安全，政企机构官网、公共服务平台等重点防护对象均处于高危暴露范围。 奇安信安全专家认为，“PHP2Shell”并不是一个孤立的漏洞事件，它暴露了在当前AI深度攻防博弈的背景下，全球面临的漏洞威胁正日益严峻，广大政企机构亟待构建实时、全面、常态化的渗透测试体系。奇安信天戟AI智能渗透测试系统提供了“一键速查”方案——用户只需登录ai.qianxin.com，在应用中心使用天戟即可对授权网站发起渗透测试，一键速查漏洞风险。 ",
-   "pub_date": "2026-10-23T03:03:00.000Z",
+   "summary": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 · 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil · 华为畅享系列累计发货突破 1.6 亿台 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-27T00:06:21.000Z",
    "is_read": false
   },
   {
-   "title": "擦窗机器人有了首个行业标准，你敢把窗户交给它吗？",
-   "link": "https://www.leiphone.com/category/smarthome/iDkOEQuhDC14QfOE.html",
-   "source": "雷峰网",
+   "title": "新 iPad mini 发布：5499 元起！应有尽有，除了高刷",
+   "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "“会不会掉下来？” 这是每个第一次把擦窗机器人放上玻璃的人，心里都会闪过的念头。没有一家厂商敢在宣传里写“绝不掉落”，涉及高空作业，这四个字背后的责任谁都担不起。 一台擦窗机器人卖的不只是清洁力，还有风险已被技术接管的承诺。 擦窗机器人正在成为家用机器人行业里一个越来越明显的变量。 IDC数据显示，2026年第二季度全球擦窗机器人出货量约84.7万台，同比增长59.8%，增速明显高于同期整体家用清洁机器人市场21.5%的增长。奥维云网数据显示，2020至2025年中国市场规模从4.8亿元增至17亿元，年复合增长28.6%。 产能也在扩张，据财联社报道，科沃斯窗宝早年月产量仅几千到一两万台，2025年起量后，月产能从10万台级跨入20万台级。2025年全球擦窗机出货约237.3万台，同比增长70.4%，业内预计2026年将突破300万台。 放量的背后，本质是“信任”的增长。 01 一个正在放",
-   "pub_date": "2026-10-23T02:57:00.000Z",
+   "summary": "好消息：OLED 坏消息：60Hz #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-26T14:39:09.000Z",
    "is_read": false
   },
   {
-   "title": "「千问Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
-   "link": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
-   "source": "雷峰网",
+   "title": "25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕",
+   "link": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "10月23日消息，「千问Go!」上线新功能“我的应用”。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。用户可用于搭建互动课件、活动报名页、亲子导览、健身约课助手等专属应用，并且长期可用。 据悉，“我的应用”接入阿里云AI应用生产平台Meoo（秒悟），可自动完成应用搭建、数据库配置和部署上线。结合千问Go的云端Pro能力，还能在授权后，调用淘宝、大麦、夸克网盘等应用中的数据，让搭建的应用更贴合个人需求。 目前“我的应用”及支持操作云手机、云电脑的云端Pro均处于邀测阶段，用户可前往千问App内邀测页面排队申请，体验资格正加速开放。",
-   "pub_date": "2026-10-23T02:55:00.000Z",
+   "summary": "魏牌高山想在细分市场进一步发力。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-26T10:10:19.000Z",
+   "is_read": false
+  },
+  {
+   "title": "最不「猛士」的猛士来了，X700 上市 20.98 万元起，却最适合大多数人",
+   "link": "https://www.ifanr.com/1685866?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "一台最舒适的猛士。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-26T10:07:42.000Z",
+   "is_read": false
+  },
+  {
+   "title": "地铁里的 AI 伪人广告，正在集体霸凌人类",
+   "link": "https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "唯有诚意与创意不可辜负 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-26T07:42:44.000Z",
+   "is_read": false
+  },
+  {
+   "title": "《影之刃零》：第一个登上世界舞台的「中国武侠游戏」",
+   "link": "https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "国产 3A，再一次震撼世界 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-10-26T07:36:42.000Z",
    "is_read": false
   },
   {
@@ -391,66 +454,66 @@
    "is_read": false
   },
   {
-   "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
-   "link": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "link": "https://openai.com/index/greptile-code-review-codex-astra",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码 · 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND · Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-22T00:21:11.000Z",
+   "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+   "pub_date": "2026-10-26T22:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "尺寸暴涨！比亚迪新一代海鸥太超标了，还只要 6.59 万元",
-   "link": "https://www.ifanr.com/1685151?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Working with academic communities to build scientific understanding",
+   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "这还是海鸥吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-21T15:22:35.000Z",
+   "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+   "pub_date": "2026-10-26T14:30:00.000Z",
    "is_read": false
   },
   {
-   "title": "电池自燃直接赔新车？理想发布自研电池「连山」，理想 i6 首发搭载",
-   "link": "https://www.ifanr.com/1685205?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "电池只是理想掏出来的其中一块拼图。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-21T15:20:40.000Z",
+   "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+   "pub_date": "2026-10-26T13:45:00.000Z",
    "is_read": false
   },
   {
-   "title": "首发 | 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
-   "link": "https://www.ifanr.com/1685170?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "ChatGPT’s expanding world of work",
+   "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "只能说真的很爽 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-21T12:08:10.000Z",
+   "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+   "pub_date": "2026-10-26T10:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
-   "link": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "小米汽车的新尝试。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-21T06:56:32.000Z",
+   "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+   "pub_date": "2026-10-26T07:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "当回音壁学会了「通吃」｜Sonos Beam Ultra 体验",
-   "link": "https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+   "link": "https://openai.com/index/openai-cut-incident-investigation",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "从被动的「电视伴音工具」，真正演进为客厅的「全场景声音中枢」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-21T03:50:42.000Z",
+   "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+   "pub_date": "2026-10-26T07:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "三十而立，奇瑞不想只做一家汽车公司",
-   "link": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Introducing GPT-6.1 Terra",
+   "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "奇瑞想做一家创新技术企业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-21T01:31:11.000Z",
+   "summary": "Bringing fast and capable computer use to everyone",
+   "pub_date": "2026-10-26T00:00:00.000Z",
    "is_read": false
   },
   {
@@ -571,66 +634,12 @@
    "is_read": false
   },
   {
-   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-   "link": "https://openai.com/index/building-chatgpt-ad-stack",
-   "source": "OpenAI Blog",
+   "title": "Our newest AI Quest: Mapping the human brain",
+   "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "source": "Google AI Blog",
    "category": "ai",
-   "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-   "pub_date": "2026-10-21T07:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-   "link": "https://openai.com/index/empowering-cyber-defenders",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-   "pub_date": "2026-10-21T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "link": "https://openai.com/index/ted-taylor-restaurant",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-   "pub_date": "2026-10-20T10:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "link": "https://openai.com/index/terminal-x",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-   "pub_date": "2026-10-20T07:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "OpenAI acquires Orchestra Bio",
-   "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-   "pub_date": "2026-10-20T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Advancing coding in low‑resource programming languages",
-   "link": "https://openai.com/index/low-resource-programming-languages",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-   "pub_date": "2026-10-19T12:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "How Itaú is building generative AI for its entire customer base",
-   "link": "https://openai.com/index/itau-generative-ai",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-   "pub_date": "2026-10-16T19:00:00.000Z",
+   "summary": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+   "pub_date": "2026-10-26T16:00:00.000Z",
    "is_read": false
   },
   {
@@ -805,12 +814,39 @@
    "is_read": false
   },
   {
-   "title": "The latest AI news we announced in August 2026",
-   "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-   "source": "Google AI Blog",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "source": "TechCrunch AI",
    "category": "ai",
-   "summary": "Here are Google’s latest AI updates from August 2026",
-   "pub_date": "2026-09-01T20:45:00.000Z",
+   "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+   "pub_date": "2026-10-27T01:12:21.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+   "pub_date": "2026-10-26T16:49:42.000Z",
+   "is_read": false
+  },
+  {
+   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+   "pub_date": "2026-10-26T16:46:36.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Anthropic officially files for its public debut",
+   "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+   "pub_date": "2026-10-26T14:35:22.000Z",
    "is_read": false
   },
   {
@@ -841,6 +877,15 @@
    "is_read": false
   },
   {
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+   "pub_date": "2026-10-24T20:15:33.000Z",
+   "is_read": false
+  },
+  {
    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "source": "TechCrunch AI",
@@ -854,7 +899,7 @@
    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
    "source": "TechCrunch AI",
    "category": "ai",
-   "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+   "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
    "pub_date": "2026-10-24T16:00:00.000Z",
    "is_read": false
   },
@@ -877,7 +922,7 @@
    "is_read": false
   },
   {
-   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
    "source": "TechCrunch AI",
    "category": "ai",
@@ -949,48 +994,30 @@
    "is_read": false
   },
   {
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "source": "TechCrunch AI",
+   "title": "Will the real Anthropic please stand up",
+   "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+   "source": "MIT Technology Review",
    "category": "ai",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-   "pub_date": "2026-10-22T19:00:00.000Z",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
+   "pub_date": "2026-10-26T17:45:43.000Z",
    "is_read": false
   },
   {
-   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "source": "TechCrunch AI",
+   "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+   "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+   "source": "MIT Technology Review",
    "category": "ai",
-   "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
-   "pub_date": "2026-10-22T18:43:53.000Z",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of the Responsible Technology Youth Power Fund at…",
+   "pub_date": "2026-10-26T12:40:00.000Z",
    "is_read": false
   },
   {
-   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-   "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-   "source": "TechCrunch AI",
+   "title": "The focus on AI safety disasters ignores everyday harms",
+   "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+   "source": "MIT Technology Review",
    "category": "ai",
-   "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-   "pub_date": "2026-10-22T16:47:17.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Uber puts all 30,000 employees on ChatGPT Work",
-   "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-   "pub_date": "2026-10-22T16:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Spotify’s current AI bet is about being the music service that agents choose",
-   "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-   "pub_date": "2026-10-22T15:03:58.000Z",
+   "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…",
+   "pub_date": "2026-10-26T09:01:00.000Z",
    "is_read": false
   },
   {
@@ -1057,30 +1084,39 @@
    "is_read": false
   },
   {
-   "title": "AI’s hidden storage bill: What inference leaves behind",
-   "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-   "source": "MIT Technology Review",
+   "title": "GPT-6.1 Terra",
+   "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "source": "Simon Willison",
    "category": "ai",
-   "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
-   "pub_date": "2026-10-22T08:41:18.000Z",
+   "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 ",
+   "pub_date": "2026-10-26T23:53:07.000Z",
    "is_read": false
   },
   {
-   "title": "The Download: introducing the Impossible issue",
-   "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-   "source": "MIT Technology Review",
+   "title": "Quoting Jason Koebler",
+   "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+   "source": "Simon Willison",
    "category": "ai",
-   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about…",
-   "pub_date": "2026-10-21T12:10:00.000Z",
+   "summary": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. ",
+   "pub_date": "2026-10-26T19:00:25.000Z",
    "is_read": false
   },
   {
-   "title": "We can do impossible things",
-   "link": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-   "source": "MIT Technology Review",
+   "title": "webframe: evaluated as a scraper and a sandbox",
+   "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+   "source": "Simon Willison",
    "category": "ai",
-   "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.” I won’t lie. It’s a bit shameless—a definite humblebrag. I’m a systems thinker:…",
-   "pub_date": "2026-10-21T09:00:00.000Z",
+   "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a syste",
+   "pub_date": "2026-10-26T16:15:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Seam Cutter",
+   "link": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wan",
+   "pub_date": "2026-10-25T15:10:19.000Z",
    "is_read": false
   },
   {
@@ -1318,219 +1354,255 @@
    "is_read": false
   },
   {
-   "title": "llm-meta-ai 0.2",
-   "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Release: llm-meta-ai 0.2 Meta AI release Muse Wonder (and Muse Wonder Full), their new \"most capable models\". These look like they may be Meta's first Fable class models - Artificial Analysis scores Muse Wonder (Max) as equivalent to GPT-6.1 Sol. I updated my llm-meta-ai plugin for the new model. Here are pelicans for Muse Wonder for the six reasoning levels: minimal, low, medium, high, xhigh, max",
-   "pub_date": "2026-10-12T23:58:46.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
-   "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I get to say goodbye to Python 3.10 and start embracing features from Python 3.11. First, some highlights from Python 3.15. Explicit lazy imports I'm most excited ab",
-   "pub_date": "2026-10-12T18:15:38.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Profiling web-edit with Python 3.15: flame graphs and source heatmaps",
-   "link": "https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Research: Profiling web-edit with Python 3.15: flame graphs and source heatmaps I put the new Python 3.15 profiler through its paces by having GPT-6 Astra Extra High in Codex run it against my new web-edit app : I need a Python 3.15 flame graph and heatmap demo of the \"web-edit\" app from PyPI - research first then make me those demos Here's the resulting example flame graph and heatmap . Tags: pro",
-   "pub_date": "2026-10-12T16:58:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "web-edit 0.1a0",
-   "link": "https://simonwillison.net/2026/Oct/12/web-edit/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So... I had Codex and GPT-6 Astra Extra High build this Python web app which provides a web UI for viewing and editing files in a folder. It's intended to be run over Tailscale, so I can have an a",
-   "pub_date": "2026-10-12T15:54:36.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Lula wins election after final votes tallied",
-   "link": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+   "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+   "link": "https://github.com/otya128/winevdm",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50237485 Points: 20 # Comments: 1",
-   "pub_date": "2026-10-26T00:31:07.000Z",
+   "summary": "Article URL: https://github.com/otya128/winevdm Comments URL: https://news.ycombinator.com/item?id=50253529 Points: 6 # Comments: 1",
+   "pub_date": "2026-10-27T01:15:04.000Z",
    "is_read": false
   },
   {
-   "title": "Lula Wins Brazilian Election",
-   "link": "https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://resultados.tse.jus.br/oficial/app/index.html#/eleicao/6258/uf/br/cargo/1/vis/nominal/resultados Comments URL: https://news.ycombinator.com/item?id=50237426 Points: 45 # Comments: 10",
-   "pub_date": "2026-10-26T00:23:29.000Z",
+   "summary": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 66 # Comments: 12",
+   "pub_date": "2026-10-26T22:41:48.000Z",
    "is_read": false
   },
   {
-   "title": "F-Zero X on Nintendo 3DS",
-   "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+   "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+   "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 24 # Comments: 5",
-   "pub_date": "2026-10-25T23:27:30.000Z",
+   "summary": "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 20 # Comments: 13",
+   "pub_date": "2026-10-26T22:27:17.000Z",
    "is_read": false
   },
   {
-   "title": "Proton Flock Camera Map",
-   "link": "https://proton.me/flock-camera-map",
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://proton.me/flock-camera-map Comments URL: https://news.ycombinator.com/item?id=50236748 Points: 42 # Comments: 3",
-   "pub_date": "2026-10-25T22:39:42.000Z",
+   "summary": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 271 # Comments: 106",
+   "pub_date": "2026-10-26T21:59:15.000Z",
    "is_read": false
   },
   {
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "link": "https://minimaxir.com/2026/10/cheap-llms/",
+   "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 114 # Comments: 135",
-   "pub_date": "2026-10-25T21:11:31.000Z",
+   "summary": "Related: The Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661 Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 437 # Comments: 167",
+   "pub_date": "2026-10-26T21:35:28.000Z",
    "is_read": false
   },
   {
-   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-   "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "title": "The EPA Is Quietly Killing Its Web Archive",
+   "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 206 # Comments: 113",
-   "pub_date": "2026-10-25T21:08:28.000Z",
+   "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 241 # Comments: 44",
+   "pub_date": "2026-10-26T19:05:41.000Z",
    "is_read": false
   },
   {
-   "title": "The State of Context Engineering",
-   "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+   "title": "Type Server Protocol",
+   "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 64 # Comments: 16",
-   "pub_date": "2026-10-25T20:32:31.000Z",
+   "summary": "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 189 # Comments: 139",
+   "pub_date": "2026-10-26T18:14:49.000Z",
    "is_read": false
   },
   {
-   "title": "What goes into making an animated film?",
-   "link": "https://www.disneyanimation.com/process/",
+   "title": "GPT-6.1 Terra",
+   "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 79 # Comments: 33",
-   "pub_date": "2026-10-25T20:27:09.000Z",
+   "summary": "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 497 # Comments: 315",
+   "pub_date": "2026-10-26T18:01:17.000Z",
    "is_read": false
   },
   {
-   "title": "Focused Company Operating Principles",
-   "link": "https://focused.io/operating-principles",
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=50235639 Points: 18 # Comments: 5",
-   "pub_date": "2026-10-25T20:16:51.000Z",
+   "summary": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 288 # Comments: 183",
+   "pub_date": "2026-10-26T17:56:55.000Z",
    "is_read": false
   },
   {
-   "title": "Eunice is almost here",
-   "link": "https://armincat.com/articles/eunice-is-almost-here",
+   "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+   "link": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 56 # Comments: 48",
-   "pub_date": "2026-10-25T19:40:27.000Z",
+   "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 115 # Comments: 60",
+   "pub_date": "2026-10-26T17:49:55.000Z",
    "is_read": false
   },
   {
-   "title": "Why I Am a Programmer",
-   "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+   "title": "Nietzschian Debugger",
+   "link": "https://github.com/DilawarShafiq/nietzschian-debugger",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 117 # Comments: 36",
-   "pub_date": "2026-10-25T19:11:31.000Z",
+   "summary": "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 128 # Comments: 40",
+   "pub_date": "2026-10-26T17:25:30.000Z",
    "is_read": false
   },
   {
-   "title": "Where the Romans Fought (interactive map)",
-   "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+   "link": "https://github.com/FrigadeHQ/hob",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 42 # Comments: 12",
-   "pub_date": "2026-10-25T18:58:14.000Z",
+   "summary": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. Th",
+   "pub_date": "2026-10-26T16:12:29.000Z",
    "is_read": false
   },
   {
-   "title": "Dolly Parton's Imagination Library",
-   "link": "https://imaginationlibrary.com/",
+   "title": "CSS-Tricks has a new owner",
+   "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer. The seeds of these dreams are often found",
-   "pub_date": "2026-10-25T18:23:54.000Z",
+   "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 378 # Comments: 90",
+   "pub_date": "2026-10-26T15:51:23.000Z",
    "is_read": false
   },
   {
-   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-   "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+   "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 366 # Comments: 90",
-   "pub_date": "2026-10-25T18:04:11.000Z",
+   "summary": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 760 # Comments: 674",
+   "pub_date": "2026-10-26T15:35:12.000Z",
    "is_read": false
   },
   {
-   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-   "link": "https://talkweb.eu/openweb/4558/",
+   "title": "Solar power is becoming bigger than nuclear",
+   "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 376 # Comments: 185",
-   "pub_date": "2026-10-25T17:30:55.000Z",
+   "summary": "Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear Comments URL: https://news.ycombinator.com/item?id=50245385 Points: 133 # Comments: 230",
+   "pub_date": "2026-10-26T15:26:17.000Z",
    "is_read": false
   },
   {
-   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-   "link": "https://lynchlab.net/llm-skin-cancer",
+   "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+   "link": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 409 # Comments: 198",
-   "pub_date": "2026-10-25T17:15:38.000Z",
+   "summary": "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 553 # Comments: 81",
+   "pub_date": "2026-10-26T15:11:59.000Z",
    "is_read": false
   },
   {
-   "title": "UTS #39: Unicode Security Mechanisms",
-   "link": "https://unicode.org/reports/tr39/",
+   "title": "New iPad mini",
+   "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 32 # Comments: 10",
-   "pub_date": "2026-10-25T16:40:37.000Z",
+   "summary": "Article URL: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/ Comments URL: https://news.ycombinator.com/item?id=50243061 Points: 133 # Comments: 386",
+   "pub_date": "2026-10-26T13:13:36.000Z",
    "is_read": false
   },
   {
-   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-   "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "title": "Anthropic S-1",
+   "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 195 # Comments: 276",
-   "pub_date": "2026-10-25T16:28:26.000Z",
+   "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1475 # Comments: 1447",
+   "pub_date": "2026-10-26T13:04:50.000Z",
    "is_read": false
   },
   {
-   "title": "JetBrains Thinkrail",
-   "link": "https://github.com/JetBrains/thinkrail",
+   "title": "Fixing Tool-Call Accuracy in vLLM",
+   "link": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/JetBrains/thinkrail Comments URL: https://news.ycombinator.com/item?id=50233294 Points: 176 # Comments: 118",
-   "pub_date": "2026-10-25T16:27:12.000Z",
+   "summary": "Article URL: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm Comments URL: https://news.ycombinator.com/item?id=50242870 Points: 145 # Comments: 64",
+   "pub_date": "2026-10-26T12:59:48.000Z",
    "is_read": false
   },
   {
-   "title": "Active incident at Dreamhost forcing password reset",
-   "link": "https://www.dreamhoststatus.com/",
+   "title": "Pharo 14",
+   "link": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 109 # Comments: 40",
-   "pub_date": "2026-10-25T13:09:16.000Z",
+   "summary": "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 239 # Comments: 64",
+   "pub_date": "2026-10-26T11:15:50.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Women reach orgasm more often alone, but partnered orgasms are more closely tied to sexual satisfaction",
+   "link": "https://www.psypost.org/women-reach-orgasm-more-often-alone-but-partnered-orgasms-are-more-closely-tied-to-sexual-satisfaction/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "In a survey of nearly 28,000 period-tracking app users, women reported reaching orgasm more often during solo sex than with a partner. Yet it was partnered orgasm frequency, not solo orgasm frequency, that was linked to greater overall sexual satisfaction.",
+   "pub_date": "2026-10-26T20:00:47.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Feed recommendations are the most common way teens encounter self-harm content",
+   "link": "https://www.psypost.org/feed-recommendations-are-the-most-common-way-teens-encounter-self-harm-content/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "About one in three English secondary school students had come across self-harm content online in the past month. Most never went looking for it; the content typically appeared in their social media feeds.",
+   "pub_date": "2026-10-26T18:00:48.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Frequent cannabis use linked to higher odds of nighttime breathing problems",
+   "link": "https://www.psypost.org/frequent-cannabis-use-linked-to-higher-odds-of-nighttime-breathing-problems/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A new study links cannabis use to loud snoring and breathing pauses during sleep, with stronger associations among frequent users. The authors suggest that smoke irritation and muscle relaxation in the throat may play a role.",
+   "pub_date": "2026-10-26T16:00:47.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Challenges to political beliefs might engage brain networks tied to self-reflection, new study suggests",
+   "link": "https://www.psypost.org/challenges-to-political-beliefs-might-engage-brain-networks-tied-to-self-reflection-new-study-suggests/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "In a brain imaging study conducted in Poland, people with strong left-wing views barely changed their political beliefs after reading counterarguments, even as they lowered their confidence in factual claims. Their brains also responded differently to the two kinds of challenges.",
+   "pub_date": "2026-10-26T14:00:45.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Playing video games with trusted friends may reduce addiction risks",
+   "link": "https://www.psypost.org/playing-video-games-with-trusted-friends-may-reduce-addiction-risks/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Research reveals that playing video games with a trusted, familiar group of people can build player loyalty while simultaneously reducing the risk of video game addiction. A player's social environment heavily dictates their digital habits.",
+   "pub_date": "2026-10-26T13:00:43.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Why do people with psychopathic traits enjoy fear? New psychology research offers a clue",
+   "link": "https://www.psypost.org/why-do-people-with-psychopathic-traits-enjoy-fear-new-psychology-research-offers-a-clue/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Alfred Hitchcock argued that people enjoy fear only when they feel safe. A study suggests the idea may apply to people with psychopathic traits: a stronger sense of invincibility was linked to feeling less frightened by a horror clip.",
+   "pub_date": "2026-10-26T12:00:39.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Political endorsements by scientific journals reduce public trust in research",
+   "link": "https://www.psypost.org/political-endorsements-by-scientific-journals-reduce-public-trust-in-research/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "When scientific journals publicly endorse political candidates, they risk alienating segments of the public. A new study reveals how these political statements lower trust in the scientific community among moderate and conservative Americans.",
+   "pub_date": "2026-10-26T11:00:38.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Scientists identify rare mutations in 36 genes that sharply raise the odds of OCD and tic disorders",
+   "link": "https://www.psypost.org/scientists-identify-rare-mutations-in-36-genes-that-sharply-raise-the-odds-of-ocd-and-tic-disorders/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A genetic study of nearly 4,000 people with OCD or tic disorders identified 36 genes in which rare damaging mutations sharply raise the odds of these conditions. Most of the genes appear to be shared between the two disorders.",
+   "pub_date": "2026-10-26T10:00:37.000Z",
    "is_read": false
   },
   {
@@ -1639,78 +1711,6 @@
    "category": "psychology",
    "summary": "The intense, one-sided connections fans feel toward Taylor Swift and their fear of missing out strongly predict whether they will attend her concerts and movies, highlighting how the psychological need for social belonging drives massive consumer behaviors.",
    "pub_date": "2026-10-24T14:00:46.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Psychopathy scores run a bit higher among Americans still living in their home state, study finds",
-   "link": "https://www.psypost.org/psychopathy-scores-run-a-bit-higher-among-americans-still-living-in-their-home-state-study-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Americans who still live in the state where they grew up score slightly higher on psychopathy than those who moved away, according to a study of nearly 4,000 adults. The gap was small but persisted in the strictest comparisons.",
-   "pub_date": "2026-10-24T12:00:38.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Psychologists showed extreme metal fans a series of disgusting images, and their reactions stood out",
-   "link": "https://www.psypost.org/psychologists-showed-extreme-metal-fans-a-series-of-disgusting-images-and-their-reactions-stood-out/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "People who love extreme metal music report feeling less disgusted by gruesome artworks, album covers, and gross photos than nonfans do. They also tend to find the grotesque art and album covers funnier.",
-   "pub_date": "2026-10-24T10:00:37.000Z",
-   "is_read": false
-  },
-  {
-   "title": "American Catholics reported a greater sense of meaning in life after Pope Leo XIV’s election, study finds",
-   "link": "https://www.psypost.org/american-catholics-reported-a-greater-sense-of-meaning-in-life-after-pope-leo-xivs-election-study-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A papal election may offer Catholics more than a new leader. A daily survey study suggests practicing American Catholics felt their lives were slightly more meaningful after Pope Leo XIV’s election, a pattern that held through the study’s end.",
-   "pub_date": "2026-10-23T22:00:05.000Z",
-   "is_read": false
-  },
-  {
-   "title": "When politicians echo white replacement theory, extremist activity rises",
-   "link": "https://www.psypost.org/when-politicians-echo-white-replacement-theory-extremist-activity-rises/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "An analysis of political rhetoric and mobilization shows that when elected officials endorse demographic conspiracy theories, their rhetoric is tied to measurable increases in white supremacist protests and extremist propaganda distribution.",
-   "pub_date": "2026-10-23T20:00:05.000Z",
-   "is_read": false
-  },
-  {
-   "title": "College-educated people aren’t Big Tech’s biggest fans. They’re its most conflicted, study suggests",
-   "link": "https://www.psypost.org/college-educated-people-arent-big-techs-biggest-fans-theyre-its-most-conflicted-study-suggests/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Researchers expected university graduates to view Big Tech more favorably. Instead, a six-country survey found education was linked mainly to ambivalence, with highly educated right-leaning respondents increasingly likely to see the companies as both beneficial and harmful.",
-   "pub_date": "2026-10-23T18:00:04.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Chest vibrations paired with meditation appears to alter brain wiring in trauma survivors",
-   "link": "https://www.psypost.org/chest-vibrations-paired-with-meditation-alter-brain-wiring-in-trauma-survivors/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Combining mindfulness meditation with a gentle buzzing device on the chest can physically alter brain pathways related to body awareness. The combination therapy helps trauma survivors feel more grounded and connected to their physical forms.",
-   "pub_date": "2026-10-23T16:00:21.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Testosterone may help new brain cells survive, and timing could matter",
-   "link": "https://www.psypost.org/testosterone-may-help-new-brain-cells-survive-and-timing-could-matter/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "In castrated male rats, a month of testosterone injections boosted the survival of newly born neurons in the hippocampus. Two weeks of injections given later in the cells’ development helped in the spatial-memory region, while earlier injections did not.",
-   "pub_date": "2026-10-23T14:00:33.000Z",
-   "is_read": false
-  },
-  {
-   "title": "People who believe conspiracy theories overestimate how many others agree, new research finds",
-   "link": "https://www.psypost.org/people-who-believe-conspiracy-theories-overestimate-how-many-others-agree-new-research-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "People who believe conspiracy theories tend to overestimate how many others share their views. New research suggests that this illusion of consensus may help conspiracy theories spread, and that concrete statistics may puncture it.",
-   "pub_date": "2026-10-23T13:00:32.000Z",
    "is_read": false
   },
   {
@@ -2254,6 +2254,60 @@
    "is_read": false
   },
   {
+   "title": "AI governance needs to consider users’ emotional responses",
+   "link": "https://www.nature.com/articles/s41562-026-02620-3",
+   "source": "Nature Human Behaviour",
+   "category": "psychology",
+   "summary": "Nature Human Behaviour, Published online: 26 October 2026; doi:10.1038/s41562-026-02620-3 People will often trust or distrust an artificial intelligence (AI) output because of how it makes them feel, rather than how reliable it is. AI governance frameworks should require that platforms disclose design choices that target user emotions, allow users control over these, and include features aimed to ",
+   "pub_date": "2026-10-26T00:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Decredentialed jobs and upward mobility among non-college workers in the USA",
+   "link": "https://www.nature.com/articles/s41562-026-02610-5",
+   "source": "Nature Human Behaviour",
+   "category": "psychology",
+   "summary": "Nature Human Behaviour, Published online: 26 October 2026; doi:10.1038/s41562-026-02610-5 Linking job postings to US Census earnings records from 2011 to 2021, Lyttelton et al. find that non-college workers hired into jobs that dropped degree requirements earned around US$4,600 more per year, yet employers rarely hired non-college workers after decredentialing.",
+   "pub_date": "2026-10-26T00:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Within-family heritability estimates for behavioural and disease phenotypes from 500,000 sibling pairs of diverse ancestries",
+   "link": "https://www.nature.com/articles/s41562-026-02599-x",
+   "source": "Nature Human Behaviour",
+   "category": "psychology",
+   "summary": "Nature Human Behaviour, Published online: 26 October 2026; doi:10.1038/s41562-026-02599-x Using the variation in DNA sharing between 500,000 sibling pairs with diverse genetic ancestries, Yengo et al. estimate the heritability of 14 complex traits.",
+   "pub_date": "2026-10-26T00:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Generative AI and the temporary upskilling of knowledge workers",
+   "link": "https://www.nature.com/articles/s41562-026-02566-6",
+   "source": "Nature Human Behaviour",
+   "category": "psychology",
+   "summary": "Nature Human Behaviour, Published online: 26 October 2026; doi:10.1038/s41562-026-02566-6 This randomized trial by Wiles et al. shows that generative AI helps knowledge workers perform data science tasks outside their skill set, but workers do not retain the underlying knowledge when the tool is removed.",
+   "pub_date": "2026-10-26T00:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Turing-like tests for language and vision demonstrate a narrowing gap between humans and AI",
+   "link": "https://www.nature.com/articles/s41562-026-02590-6",
+   "source": "Nature Human Behaviour",
+   "category": "psychology",
+   "summary": "Nature Human Behaviour, Published online: 26 October 2026; doi:10.1038/s41562-026-02590-6 Zhang et al. systematically compare humans and AI across three language and three vision tasks.",
+   "pub_date": "2026-10-26T00:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Large language models for computational social science",
+   "link": "https://www.nature.com/articles/s41562-026-02539-9",
+   "source": "Nature Human Behaviour",
+   "category": "psychology",
+   "summary": "Nature Human Behaviour, Published online: 26 October 2026; doi:10.1038/s41562-026-02539-9 This Review from Evans et al. documents the distinct roles that LLMs now have in computational social science and provides an overview of recent LLM-supported advances across fields including economics, psychology, political science, sociology and anthropology.",
+   "pub_date": "2026-10-26T00:00:00.000Z",
+   "is_read": false
+  },
+  {
    "title": "Privileged representational axes in biological and artificial neural networks",
    "link": "https://www.nature.com/articles/s41562-026-02515-3",
    "source": "Nature Human Behaviour",
@@ -2272,57 +2326,21 @@
    "is_read": false
   },
   {
-   "title": "Use AI to heterogenize science",
-   "link": "https://www.nature.com/articles/s41562-026-02618-x",
-   "source": "Nature Human Behaviour",
+   "title": "Great art explained: Tamara in the green Bugatti",
+   "link": "https://aeon.co/videos/the-bisexual-artist-who-reimagined-womanhood-for-the-jazz-age",
+   "source": "Aeon",
    "category": "psychology",
-   "summary": "Nature Human Behaviour, Published online: 19 October 2026; doi:10.1038/s41562-026-02618-x Use AI to heterogenize science",
-   "pub_date": "2026-10-19T00:00:00.000Z",
+   "summary": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish - by Aeon Video Watch on Aeon",
+   "pub_date": "2026-10-26T10:01:00.000Z",
    "is_read": false
   },
   {
-   "title": "The case for AI degrowth",
-   "link": "https://www.nature.com/articles/s41562-026-02617-y",
-   "source": "Nature Human Behaviour",
+   "title": "How to build real peace",
+   "link": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+   "source": "Aeon",
    "category": "psychology",
-   "summary": "Nature Human Behaviour, Published online: 19 October 2026; doi:10.1038/s41562-026-02617-y Artificial intelligence (AI), as it currently unfolds, is incompatible with a sustainable transformation of the economy, which arguably requires degrowth. AI is the growth paradigm reborn — built on enclosed commons, powered by fossil energy, and driven by a competitive logic that makes precaution structurall",
-   "pub_date": "2026-10-19T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Motor abstraction training generalizes to the refinement of specific movement patterns",
-   "link": "https://www.nature.com/articles/s41562-026-02597-z",
-   "source": "Nature Human Behaviour",
-   "category": "psychology",
-   "summary": "Nature Human Behaviour, Published online: 19 October 2026; doi:10.1038/s41562-026-02597-z Practicing unfamiliar characters in rotated orientations improved upright writing as much as direct practice, showing that the motor system learns by abstracting a movement’s structure, not just its details.",
-   "pub_date": "2026-10-19T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Trait judgements of faces using a task without word labels",
-   "link": "https://www.nature.com/articles/s41562-026-02605-2",
-   "source": "Nature Human Behaviour",
-   "category": "psychology",
-   "summary": "Nature Human Behaviour, Published online: 19 October 2026; doi:10.1038/s41562-026-02605-2 Xu et al. examine how people perceive faces as being associated with psychological traits, using a task that imposes no a priori labels.",
-   "pub_date": "2026-10-19T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Petition style changes with AI writing support but outcomes do not improve",
-   "link": "https://www.nature.com/articles/s41562-026-02579-1",
-   "source": "Nature Human Behaviour",
-   "category": "psychology",
-   "summary": "Nature Human Behaviour, Published online: 14 October 2026; doi:10.1038/s41562-026-02579-1 In 2023, Change.org introduced an artificial intelligence (AI)-supported petition-drafting tool to their platform. With access to this tool, users’ petitions changed substantially, and their texts became more similar to one another. At the same time, overall petition outcomes did not improve, which shows the ",
-   "pub_date": "2026-10-14T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Responsibilism and culture",
-   "link": "https://www.nature.com/articles/s41562-026-02616-z",
-   "source": "Nature Human Behaviour",
-   "category": "psychology",
-   "summary": "Nature Human Behaviour, Published online: 12 October 2026; doi:10.1038/s41562-026-02616-z Previous research has widely associated East Asian cultures with higher levels of collectivism, which is often measured through self-report scales that emphasize warmth and prosociality towards all people. Talhelm et al. developed a responsibilism scale that captures duties and responsibilities in close relat",
-   "pub_date": "2026-10-12T00:00:00.000Z",
+   "summary": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on Aeon",
+   "pub_date": "2026-10-26T10:00:00.000Z",
    "is_read": false
   },
   {
@@ -2488,21 +2506,57 @@
    "is_read": false
   },
   {
-   "title": "How to assemble science",
-   "link": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
-   "source": "Aeon",
+   "title": "Spike-Thumbed Dino Discovered in the United Kingdom",
+   "link": "https://nautil.us/spike-thumbed-dino-discovered-in-the-united-kingdom-1286098/",
+   "source": "Nautilus",
    "category": "psychology",
-   "summary": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all - by Helen Pearson Read on Aeon",
-   "pub_date": "2026-10-06T10:00:00.000Z",
+   "summary": "The swamp-dwelling iguanodon relative may have been dinner for spinosaurs The post Spike-Thumbed Dino Discovered in the United Kingdom appeared first on Nautilus .",
+   "pub_date": "2026-10-27T01:05:00.000Z",
    "is_read": false
   },
   {
-   "title": "All-around junior male",
-   "link": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
-   "source": "Aeon",
+   "title": "Inside the Mind of a Narcissist",
+   "link": "https://nautil.us/inside-the-mind-of-a-narcissist-1286095/",
+   "source": "Nautilus",
    "category": "psychology",
-   "summary": "A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity - by Aeon Video Watch on Aeon",
-   "pub_date": "2026-10-05T10:01:00.000Z",
+   "summary": "Their brains don’t sync the same way when it comes to processing empathy The post Inside the Mind of a Narcissist appeared first on Nautilus .",
+   "pub_date": "2026-10-26T23:01:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Why Your Boss Might Live Longer Than You",
+   "link": "https://nautil.us/why-your-boss-might-live-longer-than-you-1286092/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "Entrepreneurship may carry benefits as well as risks The post Why Your Boss Might Live Longer Than You appeared first on Nautilus .",
+   "pub_date": "2026-10-26T20:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "How We Control What Accents We Pick Up",
+   "link": "https://nautil.us/how-we-control-what-accents-we-pick-up-1286085/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "We imitate what we notice The post How We Control What Accents We Pick Up appeared first on Nautilus .",
+   "pub_date": "2026-10-26T18:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "The Bloody Palette of the Animal Kingdom",
+   "link": "https://nautil.us/the-bloody-palette-of-the-animal-kingdom-1286077/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "Red isn’t the only color when it comes to blood—critters produce the vital fluid in a variety of hues The post The Bloody Palette of the Animal Kingdom appeared first on Nautilus .",
+   "pub_date": "2026-10-26T15:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "This Dark Spot on the Moon Might Be a Giant Lunar Cave",
+   "link": "https://nautil.us/this-dark-spot-on-the-moon-might-be-a-giant-lunar-cave-1286072/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "NASA wants to explore it—perhaps as a potential moon base? The post This Dark Spot on the Moon Might Be a Giant Lunar Cave appeared first on Nautilus .",
+   "pub_date": "2026-10-26T13:00:00.000Z",
    "is_read": false
   },
   {
@@ -2539,60 +2593,6 @@
    "category": "psychology",
    "summary": "Astronomers look beyond the stars in search of Van Gogh’s inspiration The post Was This the Exact Date of Van Gogh’s “Starry Night”? appeared first on Nautilus .",
    "pub_date": "2026-10-23T18:15:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "These Are the Most Stunning Weather Photos of the Year",
-   "link": "https://nautil.us/these-are-the-most-stunning-weather-photos-of-the-year-1286043/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "The American Meteorological Society just announced the winners of its 2026 photo contest The post These Are the Most Stunning Weather Photos of the Year appeared first on Nautilus .",
-   "pub_date": "2026-10-23T15:59:40.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Forensic Facial Specialists Can Identify People Using Just a Couple Facial Features",
-   "link": "https://nautil.us/forensic-facial-specialists-can-identify-people-using-just-a-couple-facial-features-1286039/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "Your furrowed brow may be betraying you The post Forensic Facial Specialists Can Identify People Using Just a Couple Facial Features appeared first on Nautilus .",
-   "pub_date": "2026-10-22T22:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Is This the First Corporate Psychopath?",
-   "link": "https://nautil.us/is-this-the-first-corporate-psychopath-1286033/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "A historical study makes a compelling case The post Is This the First Corporate Psychopath? appeared first on Nautilus .",
-   "pub_date": "2026-10-22T21:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "LSD May Speed Up Brain Activity and Make it Fractal",
-   "link": "https://nautil.us/lsd-may-speed-up-brain-activity-and-make-it-fractal-1286030/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "New study suggests a more complex reshuffling of experience The post LSD May Speed Up Brain Activity and Make it Fractal appeared first on Nautilus .",
-   "pub_date": "2026-10-22T20:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "We Now Know What Denisovans Looked Like",
-   "link": "https://nautil.us/we-now-know-what-denisovans-looked-like-1286027/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "An analysis of their skulls paints a picture of our archaic cousins The post We Now Know What Denisovans Looked Like appeared first on Nautilus .",
-   "pub_date": "2026-10-22T18:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "A New Fossil Hints at the Surprising Origins of Snakes",
-   "link": "https://nautil.us/a-new-fossil-hints-at-the-surprising-origins-of-snakes-1286024/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "By the Cretaceous, they’d already tried on several different lifestyles and sensory styles The post A New Fossil Hints at the Surprising Origins of Snakes appeared first on Nautilus .",
-   "pub_date": "2026-10-22T17:00:00.000Z",
    "is_read": false
   }
  ]
