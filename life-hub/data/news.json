@@ -1,8 +1,62 @@
 {
- "updated_at": "2026-11-01T01:55:30.872Z",
+ "updated_at": "2026-11-02T02:08:57.378Z",
  "ok": 14,
  "fail": 1,
  "items": [
+  {
+   "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+   "link": "https://www.qbitai.com/2026/11/507076.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "西湖世界模型研究中心成立",
+   "pub_date": "2026-11-01T13:28:10.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+   "link": "https://www.qbitai.com/2026/11/507038.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "",
+   "pub_date": "2026-11-01T13:09:55.000Z",
+   "is_read": false
+  },
+  {
+   "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+   "link": "https://www.qbitai.com/2026/11/507031.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "让AI像牛顿一样思考",
+   "pub_date": "2026-11-01T08:02:37.000Z",
+   "is_read": false
+  },
+  {
+   "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+   "link": "https://www.qbitai.com/2026/11/506990.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "这事还是想得太简单了",
+   "pub_date": "2026-11-01T07:50:57.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Jev新成果，再次引爆开源",
+   "link": "https://www.qbitai.com/2026/11/506922.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "再次“性价比屠夫”",
+   "pub_date": "2026-11-01T04:18:37.000Z",
+   "is_read": false
+  },
+  {
+   "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+   "link": "https://www.qbitai.com/2026/10/506904.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "AI已经自己找到Bug并提交PR",
+   "pub_date": "2026-10-31T13:49:44.000Z",
+   "is_read": false
+  },
   {
    "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
    "link": "https://www.qbitai.com/2026/10/506884.html",
@@ -40,57 +94,39 @@
    "is_read": false
   },
   {
-   "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-   "link": "https://www.qbitai.com/2026/10/506785.html",
-   "source": "量子位",
+   "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+   "link": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "之前还连登昇腾三榜第一",
-   "pub_date": "2026-10-30T11:05:06.000Z",
+   "summary": "近日，Pika 发布 MiniMax H3 衍生模型 Pika H3 Flex，并开放适配器权重与推理代码。该模型通过六步去噪联合生成画面和声音，支持文本、首尾帧和多模态参考输入，供创作者进行镜头设计、参考生成和视频编辑。 本次发布包含两套 LoRA 适配器，分别用于文本及首尾帧条件生成、多模态参考生成，同时提供 MiniMax H3 基础组件和本地推理工具。模型原生支持 480P、768P 输出，可生成约 5 至 15 秒的视频及同步立体声音频。Pika 提供 ComfyUI 工作流和 Hugging Face Diffusers 接入方式，方便开发者将其加入现有创作工具。 在本地生成之外，Pika 可通过 API 提供 1080P、2K 和 4K 视频增强，以及音频分轨功能。创作者可以先以较低分辨率生成和筛选草稿，再对选定版本进行高分辨率处理；同步生成的声音则可拆分为对白、配乐、音效、",
+   "pub_date": "2026-11-01T09:46:00.000Z",
    "is_read": false
   },
   {
-   "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
-   "link": "https://www.qbitai.com/2026/10/506779.html",
-   "source": "量子位",
+   "title": "极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄",
+   "link": "https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "10月30日，联想天禧AI 4.5迎来AIPC端正式发布。",
-   "pub_date": "2026-10-30T10:44:01.000Z",
+   "summary": "11月1日，极氪公布销量数据：10月交付新车32483辆，同比增长51.6%，1-10月交付超32万辆，同比增94.4%，平均客单价近37万元，已完成年度30万辆销售目标，是主流车企中量价齐升且唯一提前超额完成全年目标的品牌。其中，极氪7X连续4个月月销过万。同时，旗舰车型极氪9X在国内的热销也为海外开拓打下坚实基础，其欧洲售价折合人民币超100万元，被外媒称为“最贵中国车”，是首款在当地站稳百万级价位并实现规模化销售的中国车。据悉，有约700辆9X正陆续发运欧洲，预计2027年1月开启交付。 今年以来，汽车市场整体承压，而极氪销量逆势连创新高、品牌势能稳步向上，本月官方海报文案的“不畏浮云遮望眼”，点明了极氪在喧嚣的市场环境中，不参与价格战和口水战，专注极致产品打造和用户服务提升。当前中国豪华市场，ZAN（Zeekr、AITO、NIO）各具优势，已形成对垒BBA为代表的传统海外品牌的国产",
+   "pub_date": "2026-11-01T07:13:00.000Z",
    "is_read": false
   },
   {
-   "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
-   "link": "https://www.qbitai.com/2026/10/506771.html",
-   "source": "量子位",
+   "title": "吉利Q3营收近千亿，在英国跨过新手期",
+   "link": "https://www.leiphone.com/category/transportation/rLaJDB8ySePtzPT2.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "",
-   "pub_date": "2026-10-30T08:50:44.000Z",
+   "summary": "2025 年 11 月，从中国出发的 1000 辆 EX5 停靠在布里斯托港口，等待PDI 检测。这是英国进口车的法定动作：检查运输损伤、激活车机软件、补齐随车配件以及充电测试。然后装上板车，分拨发往英国的各大经销商。 EX5 还要多一道程序 —— 英国路特斯工程（莲花工程）对EX5的底盘，悬架，动力系统进行了动态评估 ，以及港口的交车前检测服务，以适配英国市场的驾驶需求。 跑车品牌为家用车调校底盘，是吉利切入英国市场时辨识度最高的一张牌。效果很明显，截至目前，吉利在英国的销量累计超过 1.2 万辆， 9 月销量达到 5155 辆。 在昨天吉利汽车第三季度业绩说明会上，吉利管理层也强调了吉利在英国月销已超过 5 000 辆，这个数据背后， 比亚迪大概花了 24 个月的时间 ；奇瑞同样 花了 19 个月的时间 ， 而吉利只 用 了不到 12 个月 。 销量快速爬坡，吉利英国团队的业务边界也同",
+   "pub_date": "2026-11-01T06:36:00.000Z",
    "is_read": false
   },
   {
-   "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
-   "link": "https://www.qbitai.com/2026/10/506747.html",
-   "source": "量子位",
+   "title": "小米汽车10月交付超5万辆，澎程首个完整交付月持续上量",
+   "link": "https://www.leiphone.com/category/industrynews/aRPnyq1gaAiV8dcQ.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
-   "pub_date": "2026-10-30T08:12:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-   "link": "https://www.qbitai.com/2026/10/506743.html",
-   "source": "量子位",
-   "category": "ai",
-   "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-   "pub_date": "2026-10-30T07:31:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-   "link": "https://www.qbitai.com/2026/10/506686.html",
-   "source": "量子位",
-   "category": "ai",
-   "summary": "解析一切",
-   "pub_date": "2026-10-30T05:52:47.000Z",
+   "summary": "11月1日，小米汽车公布10月交付数据，单月交付量首次突破5万辆大关。其中，新系列小米澎程迎来上市后首个完整交付月，交付持续爬坡，助力小米汽车整体销量再上新台阶。这标志着小米汽车“纯电加增程”的产品矩阵正式全面铺开，双系列稳步推进。 小米澎程作为小米汽车旗下智能可变大空间SUV系列，自9月7日上市以来，凭借智能可变大空间与大电池增程的组合，精准切入用户核心痛点——10月首个完整交付月交付稳步爬坡，上市两个月展现出的势头超出市场预期。从媒体拆车、深度评测到车主真实使用体验，澎程的口碑持续破圈，后劲十足。随着四季度澎程产能继续爬坡，小米汽车四季度的交付曲线有望再上一个台阶。 同时，小米汽车同步推出“3年0息”金融方案，首付7.99万元起。 2026年11月1日0点至11月30日24点期间下定，小米澎程N70全系享首付7.99万元起、3年0息，或可在“3年0息”、“5年分期3年0息”、“6000",
+   "pub_date": "2026-11-01T06:29:00.000Z",
    "is_read": false
   },
   {
@@ -109,6 +145,15 @@
    "category": "ai",
    "summary": "10月26日，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行。 上一届，车路云一体化、智能驾驶出海和无人驾驶商业化是讨论重点，而到了今年，大会的讨论边界进一步从智能驾驶向物理AI延伸。 世界模型、强化学习、端侧智能、虚拟仿真、Robotaxi之外，机器人、低空飞行器等不同形态的物理智能开始出现在同一场大会上。这背后，是智能驾驶行业正在面对的一组新问题。 一方面，高阶辅助驾驶已经进入规模化上车阶段，Robotaxi也开始从技术验证走向运营和商业化；另一方面，当AI真正进入汽车、机器人、飞行器等物理设备，如何获得足够的数据、如何训练和验证模型、如何降低开发成本，以及如何保证系统在真实世界中的安全性，正在成为新的技术难题。 当天，包括Momenta、曹操出行、面壁智能等企业，以及高校和科研机构的多位嘉宾，从世界模型、强化学习、端侧大模型、虚拟仿真、车路云和物理AI基础设施",
    "pub_date": "2026-10-31T03:31:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "商汤开源 SenseNova Loop-9B-Preview：探索以计算深度释放模型潜力",
+   "link": "https://www.leiphone.com/category/industrynews/f9tAHG0kPopK1Nnw.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "商汤开源日日新 SenseNova Loop-9B-Preview 。这是商汤面向下一代模型架构的一项前沿探索：它采用创新 Looped Transformer 架构，引入循环计算、扩展模型的有效计算深度，并探索更充分的信息交互机制，提升模型在复杂任务上的处理能力，在仅 9B 的有限参数规模下，媲美 27B 参数大小模型。 从参数规模到计算深度 随着大模型能力持续演进，模型能力提升不再只有扩大参数规模一条路径。如何在控制参数规模的同时，通过增加有效计算深度进一步释放模型潜力，正成为值得探索的方向。近期，循环计算正成为大模型架构研究的重点方向，国内外研究社区围绕 Looped Transformer 展开了攻关探索。但目前的探索多停留在学术研究层面，社区尚缺乏可直接面向日常使用的 Looped Transformer 模型。 此次开源的 SenseNova Loop-9B-Preview，为",
+   "pub_date": "2026-10-31T02:51:00.000Z",
    "is_read": false
   },
   {
@@ -229,48 +274,21 @@
    "is_read": false
   },
   {
-   "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
-   "link": "https://www.leiphone.com/category/robot/sRmmVes4DwBoIeRm.html",
-   "source": "雷峰网",
+   "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+   "link": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。 作者丨 向欣 编辑丨岑峰 机器人的视觉能力正快速增强，但 触觉仍然是具身智能系统中的薄弱环节 。尤其是在精细操作场景中，当 物体被遮挡、透明、易碎，或需要精确判断接触力与手内姿态 时，仅靠视觉往往难以确认机器人是否真正抓稳了物体、是否发生了滑移，也难以实现可靠的力控与顺从交互。 与图像领域已经形成相对统一的传感器和数据体系相比，触觉研究尚未形成类似的「收敛」。不同实验室往往使用不同类型的触觉传感器，但它们都面临 寿命、柔性、多维信息感知、分辨率、成本与一致性 难以同时兼顾的困境。这使得触觉数据采集、算法研究以及不同系统之间的复现都变得更加困难。 如何 让触觉像视觉一样 ，成为一种可以被更多机器人使用、被大量采集、被算法反复利用的基础感知能力？ 针对这个问题，哥伦比亚大学李昀烛团队提出了开源柔性压阻式触觉传感器平台 FlexiTac ",
-   "pub_date": "2026-10-30T08:13:00.000Z",
+   "summary": "全球基模大战，疯狂 11 月正式开场 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-02T01:51:47.000Z",
    "is_read": false
   },
   {
-   "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
-   "link": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
-   "source": "雷峰网",
+   "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+   "link": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "10 月 30 日，百度 APP 在北京举办产品升级沟通会。百度搜索实现递归自我进化，并全新升级搜索 AI API，活动期间最低价仅需 4.9 元/千次，低于 DeepSeek 搜索 API。同时围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出重大升级，给用户带来更智能、更聪明、更好玩的体验，在助力用户“搞定一切”上更进一步。 升级后的百度 APP，文心助手让搜索从「一次问答」走向「一份交付」，复杂问题和高频事务可直接交付成果物，长期任务则持续跟踪、主动提醒，目前已覆盖 170 余种场景。AI 镜头从「定格」走向「流动」，支持多目标同步识别与动态追踪，并可用东北话、四川话、粤语等 9 种方言实时对话。搜索结果页 GUI 互动场景提升 5 倍，接入政务、民生、央行等超 50 亿数据资源；AI 互动剧与互动应用同步上线。",
-   "pub_date": "2026-10-30T07:30:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "IROS 2026 观察：从 Demo 到生产力工具，灵巧手还要跨过几道坎？",
-   "link": "https://www.leiphone.com/category/robot/jv4zJUmQr2wkoN0i.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "灵巧手的设计逻辑，要由落地需求反推。 作者丨向 欣 编辑丨高景辉 今年 IROS，灵巧操作和触觉的热度比以往更盛，串珠子、插 USB、给帆布袋烫 logo、手内转笔、转球、调酒，各种演示在现场轮番上演。 从 ICRA，到 WRC，再到 IROS，我们追踪了今年几乎所有机器人领域的顶会，一个越来越清晰的感受是：对灵巧手而言，完成复杂动作已经越来越不是难事。 展示不再局限于简单的抓取和搬运，变得更强调 复杂接触（contact-rich）、动态调整、长时序操作 以及 可变形物体处理 等接近真实作业的任务。 整体来看，厂商对落地的需求越来越高，心态也更加务实。过去大家追求参数丰富、指标极致，如今 不少参数反而开始回 调，有的是自由度做了减法，有的是传感器配置更加务实。 长期可靠 性、稳定使用、易维护，以及交付后能否真正用起来被放到更优先的位置。 这也是今年我们在源升智能展台看到的一个有意思的变化",
-   "pub_date": "2026-10-30T07:23:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "伯牙智能刘欣：GPT-6 之后，轮到硬件拖机器人后腿了 | 物理AI 50人",
-   "link": "https://www.leiphone.com/category/robot/EnKFLg1RRmN9SaHJ.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "灵巧手去年出货近 2 万只，大部分在「吃灰」 作者丨 向 欣 编辑丨 高景辉 去年，国内灵巧手公开可查的出货量是约两万只。在伯牙智能创始人刘欣的观察里，其中大部分灵巧手的归宿是跟着人形机器人表演几场，然后被搁在角落里， 「表演完就吃灰」 。 便宜的低自由度灵巧手多用于表演；操作能力更强的高自由度产品又容易损坏，有的因为贵，买回来供着不敢用，有的用一星期到两三个月就坏了——这是刘欣看到的灵巧手市场的现状。 在他看来，灵巧手行业连目标客户是谁、要解决什么问题、客户愿意为什么买单，都还没有明确答案。行业需要开辟 第三个市场 ：以可接受的成本，将科研级操作能力带入实际应用。 而这样的产品至今仍未出现，目前最顶尖的灵巧手，离人手能力都相差甚远。这就是伯牙的机会。 刘欣在阿里工作近十年，曾任阿里巴巴操作系统事业部技术总监、斑马智行产品负责人，业务涉及手机、汽车、IoT 和机器人。2023 年，他加入蔚",
-   "pub_date": "2026-10-30T07:13:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "具身的数据管线，到底应该怎么做？",
-   "link": "https://www.leiphone.com/category/robot/espiC5FlGhRbSj1b.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "数据规模不断扩大，有效性却没有跟上。 作者丨向 欣 编辑丨高景辉 雷峰网：一家具身数据厂商告诉我们，他们向模型厂商交付了几万小时数据之后，对方反过来问了一句：能不能顺便帮忙把模型也训练出来，好让他们“交个差”，原因是模型厂商自己心里也没底，不知道这批数据喂进去能训出什么结果。 这种焦虑与无力，是当下不少模型厂商的真实状态，他们面临的真实困境是：虽然在不断花钱采集、购买数据，数据规模不断扩大，但数据的有效性却没有跟上。钱花出去了，效果却像打了水漂。 年初，不少具身公司声称今年要采集百万级别的数据。大半年过去，确实有公司宣称已经积累了百万数据，但模型能力上似乎没有看到对应的提升，反而被 GPT 的 Astra 抢了风头。 问题不仅在于数量，还在于数据管线。数据被大量采集回来，但从采集到进训练之间那段加工链路存在大量问题：筛选没有细粒度标准，数据难以跨本体迁移，数据质量至今没有公认的评测机制。具",
-   "pub_date": "2026-10-30T07:11:00.000Z",
+   "summary": "· 多家车企公布 10 月成绩单 · 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用 · 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-02T00:03:03.000Z",
    "is_read": false
   },
   {
@@ -433,24 +451,6 @@
    "category": "ai",
    "summary": "给创作者好的工具，他们就能做出精彩的作品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
    "pub_date": "2026-10-29T04:02:26.000Z",
-   "is_read": false
-  },
-  {
-   "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
-   "link": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-29T00:00:32.000Z",
-   "is_read": false
-  },
-  {
-   "title": "触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？",
-   "link": "https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "很强，很亮，很贵 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-10-28T23:05:55.000Z",
    "is_read": false
   },
   {
@@ -814,6 +814,24 @@
    "is_read": false
   },
   {
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+   "pub_date": "2026-11-01T21:55:23.000Z",
+   "is_read": false
+  },
+  {
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+   "pub_date": "2026-11-01T20:57:58.000Z",
+   "is_read": false
+  },
+  {
    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
    "source": "TechCrunch AI",
@@ -976,24 +994,6 @@
    "is_read": false
   },
   {
-   "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-   "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-   "pub_date": "2026-10-29T23:42:22.000Z",
-   "is_read": false
-  },
-  {
-   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-   "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-   "pub_date": "2026-10-29T20:08:31.000Z",
-   "is_read": false
-  },
-  {
    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
    "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
    "source": "MIT Technology Review",
@@ -1081,6 +1081,24 @@
    "category": "ai",
    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
    "pub_date": "2026-10-27T11:19:18.000Z",
+   "is_read": false
+  },
+  {
+   "title": "If in doubt, delete the uv.lock file",
+   "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying",
+   "pub_date": "2026-11-01T23:24:22.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Quoting Kyle Kingsbury",
+   "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having",
+   "pub_date": "2026-11-01T16:49:04.000Z",
    "is_read": false
   },
   {
@@ -1336,57 +1354,129 @@
    "is_read": false
   },
   {
-   "title": "Inline rendering with document​.currentScript",
-   "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( new Date().getFullYear())</script> If you define a shortcut function like this: $=(...n)=>document.cur",
-   "pub_date": "2026-10-17T21:11:12.000Z",
-   "is_read": false
-  },
-  {
-   "title": "web-edit 0.1a2",
-   "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the ",
-   "pub_date": "2026-10-17T13:16:49.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
-   "link": "https://emarzion.github.io/KSRT/",
+   "title": "OccupySaaS",
+   "link": "https://occupysaas.com/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://emarzion.github.io/KSRT/ Comments URL: https://news.ycombinator.com/item?id=50321436 Points: 3 # Comments: 0",
-   "pub_date": "2026-10-31T23:55:21.000Z",
+   "summary": "Article URL: https://occupysaas.com/ Comments URL: https://news.ycombinator.com/item?id=50331402 Points: 16 # Comments: 3",
+   "pub_date": "2026-11-02T00:17:27.000Z",
    "is_read": false
   },
   {
-   "title": "When electric cars were for women",
-   "link": "https://spectrum.ieee.org/early-electric-vehicles",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 33 # Comments: 8",
-   "pub_date": "2026-10-31T23:08:12.000Z",
+   "summary": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/ Comments URL: https://news.ycombinator.com/item?id=50330456 Points: 169 # Comments: 136",
+   "pub_date": "2026-11-01T22:10:45.000Z",
    "is_read": false
   },
   {
-   "title": "Altoids Project",
-   "link": "https://uvdn7.github.io/altoids-project/",
+   "title": "Ask HN: Which TV do you recommend for privacy?",
+   "link": "https://news.ycombinator.com/item?id=50328896",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 36 # Comments: 0",
-   "pub_date": "2026-10-31T22:54:55.000Z",
+   "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium. I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for pr",
+   "pub_date": "2026-11-01T19:35:27.000Z",
    "is_read": false
   },
   {
-   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-   "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+   "title": "Mathematics has changed. Let's act like it",
+   "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 74 # Comments: 38",
-   "pub_date": "2026-10-31T22:46:12.000Z",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/ Comments URL: https://news.ycombinator.com/item?id=50328251 Points: 226 # Comments: 249",
+   "pub_date": "2026-11-01T18:28:42.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Patrick Stewart taught us what good men do with power",
+   "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism Comments URL: https://news.ycombinator.com/item?id=50327650 Points: 372 # Comments: 263",
+   "pub_date": "2026-11-01T17:28:16.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Frontier Airlines Likely Breached",
+   "link": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/ Comments URL: https://news.ycombinator.com/item?id=50327266 Points: 176 # Comments: 69",
+   "pub_date": "2026-11-01T16:46:33.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+   "link": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml Comments URL: https://news.ycombinator.com/item?id=50327058 Points: 138 # Comments: 34",
+   "pub_date": "2026-11-01T16:23:26.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+   "link": "https://hackerbooks.org",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5). It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page. To be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and ma",
+   "pub_date": "2026-11-01T15:58:28.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+   "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/ Comments URL: https://news.ycombinator.com/item?id=50326099 Points: 397 # Comments: 144",
+   "pub_date": "2026-11-01T14:34:43.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Novellas with Groff",
+   "link": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html Comments URL: https://news.ycombinator.com/item?id=50325694 Points: 110 # Comments: 49",
+   "pub_date": "2026-11-01T13:51:41.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+   "link": "https://arxiv.org/abs/2610.39302",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://arxiv.org/abs/2610.39302 Comments URL: https://news.ycombinator.com/item?id=50325454 Points: 111 # Comments: 61",
+   "pub_date": "2026-11-01T13:24:49.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+   "link": "https://github.com/ivankovic/omnidiff",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts... It's fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s. It's open source. AGPLv3. It's based on real diffs. I looked at the 7400 repositories ",
+   "pub_date": "2026-11-01T13:02:30.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Domain hacks with unusual Unicode characters (2018)",
+   "link": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/ Comments URL: https://news.ycombinator.com/item?id=50324371 Points: 55 # Comments: 47",
+   "pub_date": "2026-11-01T10:44:20.000Z",
+   "is_read": false
+  },
+  {
+   "title": "The AI cost of JavaScript frameworks",
+   "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 299 # Comments: 230",
+   "pub_date": "2026-11-01T06:06:19.000Z",
    "is_read": false
   },
   {
@@ -1394,35 +1484,26 @@
    "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 143 # Comments: 46",
+   "summary": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 771 # Comments: 202",
    "pub_date": "2026-10-31T22:41:06.000Z",
    "is_read": false
   },
   {
-   "title": "AI text watermarking and quality loss",
-   "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+   "title": "A Chemical Hunger (2021)",
+   "link": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 20 # Comments: 4",
-   "pub_date": "2026-10-31T21:50:13.000Z",
+   "summary": "Article URL: https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/ Comments URL: https://news.ycombinator.com/item?id=50319876 Points: 11 # Comments: 2",
+   "pub_date": "2026-10-31T20:32:24.000Z",
    "is_read": false
   },
   {
-   "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-   "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+   "title": "Bidirectional charging during grid outages",
+   "link": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 68 # Comments: 43",
-   "pub_date": "2026-10-31T20:46:39.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Surviving \"The Graduate\"",
-   "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 59 # Comments: 16",
-   "pub_date": "2026-10-31T20:02:06.000Z",
+   "summary": "Article URL: https://www.jefftk.com/p/bidirectional-charging-during-grid-outages Comments URL: https://news.ycombinator.com/item?id=50319749 Points: 85 # Comments: 125",
+   "pub_date": "2026-10-31T20:21:55.000Z",
    "is_read": false
   },
   {
@@ -1430,107 +1511,89 @@
    "link": "https://karpathy.bearblog.dev/hacker-tube/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 711 # Comments: 239",
+   "summary": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007. https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 2295 # Comments: 540",
    "pub_date": "2026-10-31T19:56:53.000Z",
    "is_read": false
   },
   {
-   "title": "Anthropic blocks users for anything touching training larger models",
-   "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "title": "The She-Wolves of Jülich",
+   "link": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 188 # Comments: 111",
-   "pub_date": "2026-10-31T19:39:19.000Z",
+   "summary": "Article URL: https://www.historytoday.com/archive/history-matters/she-wolves-julich Comments URL: https://news.ycombinator.com/item?id=50318129 Points: 14 # Comments: 2",
+   "pub_date": "2026-10-31T17:29:39.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-   "link": "https://epoyraz.github.io/nes-contra-us/",
+   "title": "One-minute frequency disturbances from synchronization in power systems",
+   "link": "https://www.nature.com/articles/s41560-026-02144-0",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us . Thanks for the great work. I ported it in two steps. First to C: the game logic is translated routine by routine from the 6502 assembly, and checked frame by frame against the original in the Mesen emulator. Then the C code to WebAssembly so it runs in the browser. The cherry on top: online multiplay",
-   "pub_date": "2026-10-31T19:18:48.000Z",
+   "summary": "Article URL: https://www.nature.com/articles/s41560-026-02144-0 Comments URL: https://news.ycombinator.com/item?id=50314617 Points: 122 # Comments: 41",
+   "pub_date": "2026-10-31T10:14:08.000Z",
    "is_read": false
   },
   {
-   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-   "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 340 # Comments: 160",
-   "pub_date": "2026-10-31T19:16:30.000Z",
+   "title": "Inflammation briefly dampens pleasure and the desire to socialize, placebo-controlled study finds",
+   "link": "https://www.psypost.org/inflammation-briefly-dampens-pleasure-and-the-desire-to-socialize-placebo-controlled-study-finds/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Inflammation may do more than make people feel sick. In a placebo-controlled study, triggering inflammation in healthy women reduced their desire to socialize and ability to feel pleasure, even after accounting for sickness symptoms.",
+   "pub_date": "2026-11-01T19:00:13.000Z",
    "is_read": false
   },
   {
-   "title": "The Duty of a Scholar",
-   "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 89 # Comments: 28",
-   "pub_date": "2026-10-31T19:07:36.000Z",
+   "title": "The psychological motives driving internet justice and public shaming",
+   "link": "https://www.psypost.org/the-psychological-motives-driving-internet-justice-and-public-shaming/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "People who support online public shaming and digital vigilantism are often motivated by the pleasure of seeing others suffer and a desire to boost their own moral status, according to a recent psychological survey.",
+   "pub_date": "2026-11-01T17:00:15.000Z",
    "is_read": false
   },
   {
-   "title": "It's the memory latency, stupid",
-   "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 124 # Comments: 39",
-   "pub_date": "2026-10-31T18:38:16.000Z",
+   "title": "Study finds a specific emotional route from feeling humanized to political compromise",
+   "link": "https://www.psypost.org/study-finds-a-specific-emotional-route-from-feeling-humanized-to-political-compromise/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Across five experiments in three countries, people who read posts describing their party as sophisticated rather than as brutes became more open to negotiation — and the emotion doing the work was disgust, not anger or empathy.",
+   "pub_date": "2026-11-01T15:00:03.000Z",
    "is_read": false
   },
   {
-   "title": "William Nordhaus has died",
-   "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "Article URL: https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale Comments URL: https://news.ycombinator.com/item?id=50318376 Points: 55 # Comments: 21",
-   "pub_date": "2026-10-31T17:59:41.000Z",
+   "title": "Estrogen therapy linked to fewer signs of Alzheimer’s disease in brain tissue",
+   "link": "https://www.psypost.org/estrogen-therapy-linked-to-fewer-signs-of-alzheimer-s-disease-in-brain-tissue/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Women who use estrogen-only hormone therapy during menopause may have a lower risk of developing the brain changes associated with Alzheimer's disease, according to a large analysis of patient data and autopsy records.",
+   "pub_date": "2026-11-01T14:00:55.000Z",
    "is_read": false
   },
   {
-   "title": "Jepsen: ParticleDB 1.1.4",
-   "link": "https://jepsen.io/analyses/particledb-1.1.4",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 198 # Comments: 105",
-   "pub_date": "2026-10-31T13:39:52.000Z",
+   "title": "Genes may explain about a third of earnings differences, according to a study of 44,500 U.S. twin pairs",
+   "link": "https://www.psypost.org/genes-may-explain-about-a-third-of-earnings-differences-according-to-a-study-of-44500-u-s-twin-pairs/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A study of 44,500 American twin pairs suggests genetic factors account for nearly one-third of the variation in earnings. But same-sex twins’ tendency to work at the same companies may inflate estimates of how heritable career success is.",
+   "pub_date": "2026-11-01T13:00:52.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: A language model that lives in a boot sector",
-   "link": "https://github.com/kerlenton/bootgpt",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try. Entire inference engine is 510 bytes of MBR, weights, vocab, and strings reside in the sectors following MBR. Small ",
-   "pub_date": "2026-10-31T12:58:29.000Z",
+   "title": "Your teenage mental health may say something about your vote at 40, study finds",
+   "link": "https://www.psypost.org/how-adolescent-mental-health-predicts-adult-political-views/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A large 28-year study in Norway reveals that mental health issues starting in adolescence predict distinct adult voting habits. Researchers found early anxiety or disruptive behaviors are linked to specific ideologies and lower trust in government by midlife.",
+   "pub_date": "2026-11-01T12:00:51.000Z",
    "is_read": false
   },
   {
-   "title": "Do the math: How we took over ChatGPT accounts",
-   "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 303 # Comments: 149",
-   "pub_date": "2026-10-31T10:30:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-   "link": "https://piefed.world/post/1503394",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 303 # Comments: 178",
-   "pub_date": "2026-10-31T10:23:41.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Serbia just elected the world's brainiest parliament",
-   "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 812 # Comments: 464",
-   "pub_date": "2026-10-31T10:21:30.000Z",
+   "title": "Reading for pleasure is linked to better brain health across the lifespan",
+   "link": "https://www.psypost.org/reading-for-pleasure-is-linked-to-better-brain-health-across-the-lifespan/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "From early childhood to old age, people who read for pleasure tend to show better cognitive performance and mental well-being. Cambridge researchers argue that reading and book clubs could be low-cost ways to support brain health.",
+   "pub_date": "2026-11-01T11:00:49.000Z",
    "is_read": false
   },
   {
@@ -1651,66 +1714,12 @@
    "is_read": false
   },
   {
-   "title": "Mood symptoms in bipolar disorder correlate with changes in sexual desire and distress",
-   "link": "https://www.psypost.org/mood-symptoms-in-bipolar-disorder-correlate-with-changes-in-sexual-desire-and-di/",
-   "source": "PsyPost",
+   "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+   "link": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm",
+   "source": "Science Daily 心理学",
    "category": "psychology",
-   "summary": "A six-month study found that depressive symptoms and day-to-day emotional instability are linked to decreased sexual desire and increased sexual distress in people newly diagnosed with bipolar disorder.",
-   "pub_date": "2026-10-30T16:00:10.000Z",
-   "is_read": false
-  },
-  {
-   "title": "New study finds narcissism is linked to violent intentions on both sides of the abortion debate",
-   "link": "https://www.psypost.org/new-study-finds-narcissism-is-linked-to-violent-intentions-on-both-sides-of-the-abortion-debate/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Pro-choice and pro-life Americans sit on opposite sides of one of the country’s most heated debates. But among those willing to use illegal or violent tactics, a new study finds a common thread: a hostile, manipulative form of narcissism.",
-   "pub_date": "2026-10-30T14:00:55.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Intelligence alone may not win you status. A new evolutionary psychology study hints at what does.",
-   "link": "https://www.psypost.org/intelligence-alone-may-not-win-you-status-a-new-evolutionary-psychology-study-hints-at-what-does/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "People may reward intelligence for what it can do for the group rather than for its own sake. A new study found that the link between students’ test scores and the respect they earned appeared to run through how well they solved a group coordination problem.",
-   "pub_date": "2026-10-30T13:00:52.000Z",
-   "is_read": false
-  },
-  {
-   "title": "People who favor science over religious dogma are surprisingly open to believing in ghosts and magic",
-   "link": "https://www.psypost.org/when-secular-reasoning-meets-spirituality-magic-follows/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "As traditional religious affiliations decline, supernatural beliefs are not vanishing. A new survey reveals that people who favor secular reasoning over religious authority often hold magical or superstitious beliefs, provided they maintain some residual connection to spirituality.",
-   "pub_date": "2026-10-30T12:00:47.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Expecting entitlement, researchers asked young men about sex. What they found was fear, vigilance, and shame.",
-   "link": "https://www.psypost.org/expecting-entitlement-researchers-asked-young-men-about-sex-what-they-found-was-fear-vigilance-and-shame/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Some young men may have absorbed a cultural suspicion of men so deeply that they see themselves as potential perpetrators, according to an interview study that found fear and shame crowding out pleasure in their accounts of sex.",
-   "pub_date": "2026-10-30T11:00:41.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Six future Trump officials wrote books before taking office. All six leaned hardest on the same metaphor.",
-   "link": "https://www.psypost.org/six-future-trump-officials-wrote-books-before-taking-office-all-six-leaned-hardest-on-the-same-metaphor/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Before joining the second Trump administration, J. D. Vance, Marco Rubio, Pete Hegseth, and three other future officials wrote books that framed politics largely through metaphors of war, decline, disease, and betrayal. Metaphors of threat outnumbered metaphors of renewal by about nine to one.",
-   "pub_date": "2026-10-30T10:00:38.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Social media use ranks among the top predictors of depression in a study of 183,000 adults",
-   "link": "https://www.psypost.org/social-media-use-ranks-among-the-top-predictors-of-depression-in-a-study-of-183000-adults/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Most research on social media and depression has focused on teenagers. A new analysis of more than 183,000 American adults suggests the link extends across the adult lifespan and has held steady for over a decade.",
-   "pub_date": "2026-10-29T20:00:03.000Z",
+   "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in brain regions important for memory, a function that often weakens with age and has been linked to Alzheimer's disease.",
+   "pub_date": "2026-11-01T13:24:51.000Z",
    "is_read": false
   },
   {
@@ -2242,15 +2251,6 @@
    "category": "psychology",
    "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by about 16 minutes. Researchers also observed signs of improved stress regulation and changes in brain circuits tied to emotion.",
    "pub_date": "2026-08-07T07:31:52.000Z",
-   "is_read": false
-  },
-  {
-   "title": "THC medication made PTSD nightmares disappear for more than a third of patients",
-   "link": "https://www.sciencedaily.com/releases/2026/08/260805082450.htm",
-   "source": "Science Daily 心理学",
-   "category": "psychology",
-   "summary": "A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The results could point toward a long-awaited treatment for one of PTSD’s most distressing and stubborn symptoms.",
-   "pub_date": "2026-08-06T03:16:44.000Z",
    "is_read": false
   },
   {
