@@ -1,96 +1,114 @@
 {
- "updated_at": "2026-11-07T02:34:22.722Z",
+ "updated_at": "2026-11-08T02:05:32.743Z",
  "ok": 14,
  "fail": 1,
  "items": [
   {
-   "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-   "link": "https://www.qbitai.com/2026/11/508155.html",
+   "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+   "link": "https://www.qbitai.com/2026/11/508449.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "Q3营收实现数倍增长",
-   "pub_date": "2026-11-06T07:00:29.000Z",
+   "summary": "AI写代码太快，基础设施跟不上了",
+   "pub_date": "2026-11-07T09:38:56.000Z",
    "is_read": false
   },
   {
-   "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-   "link": "https://www.qbitai.com/2026/11/508118.html",
+   "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+   "link": "https://www.qbitai.com/2026/11/508344.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "挑战商业视频的高难度场景",
-   "pub_date": "2026-11-06T06:54:17.000Z",
+   "summary": "融资缩水，硅谷投资人也谨慎了",
+   "pub_date": "2026-11-07T08:11:25.000Z",
    "is_read": false
   },
   {
-   "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-   "link": "https://www.qbitai.com/2026/11/508143.html",
+   "title": "为了去AI味，人类开始主动写烂文章了……",
+   "link": "https://www.qbitai.com/2026/11/508330.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
-   "pub_date": "2026-11-06T06:43:14.000Z",
+   "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+   "pub_date": "2026-11-07T07:59:28.000Z",
    "is_read": false
   },
   {
-   "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-   "link": "https://www.qbitai.com/2026/11/508107.html",
+   "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+   "link": "https://www.qbitai.com/2026/11/508264.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-   "pub_date": "2026-11-06T05:01:47.000Z",
+   "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
+   "pub_date": "2026-11-07T05:01:17.000Z",
    "is_read": false
   },
   {
-   "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-   "link": "https://www.qbitai.com/2026/11/507988.html",
+   "title": "AGENTS.MD，危险危险危险！！！",
+   "link": "https://www.qbitai.com/2026/11/508244.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-   "pub_date": "2026-11-06T03:36:34.000Z",
+   "summary": "全新的电脑病毒",
+   "pub_date": "2026-11-07T03:43:55.000Z",
    "is_read": false
   },
   {
-   "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
-   "link": "https://www.qbitai.com/2026/11/507972.html",
+   "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
+   "link": "https://www.qbitai.com/2026/11/508236.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "Seedance 2.5 单秒低至0.15元",
-   "pub_date": "2026-11-06T03:20:05.000Z",
+   "summary": "中国版cosmos再交卷",
+   "pub_date": "2026-11-07T03:31:44.000Z",
    "is_read": false
   },
   {
-   "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
-   "link": "https://www.qbitai.com/2026/11/507967.html",
+   "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
+   "link": "https://www.qbitai.com/2026/11/508196.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容",
-   "pub_date": "2026-11-06T02:00:11.000Z",
+   "summary": "RSI不可能无限快",
+   "pub_date": "2026-11-07T03:23:29.000Z",
    "is_read": false
   },
   {
-   "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
-   "link": "https://www.qbitai.com/2026/11/507919.html",
+   "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
+   "link": "https://www.qbitai.com/2026/11/508184.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "基础规划免费！",
-   "pub_date": "2026-11-05T13:17:00.000Z",
+   "summary": "Dario刚喊减速…",
+   "pub_date": "2026-11-06T15:21:56.000Z",
    "is_read": false
   },
   {
-   "title": "三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型",
-   "link": "https://www.qbitai.com/2026/11/507834.html",
+   "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+   "link": "https://www.qbitai.com/2026/11/508174.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "走向“智能体化世界模型”。",
-   "pub_date": "2026-11-05T09:37:40.000Z",
+   "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
+   "pub_date": "2026-11-06T09:25:59.000Z",
    "is_read": false
   },
   {
-   "title": "拼多多让年轻人造草莓工厂，170天后“答案”熟了",
-   "link": "https://www.qbitai.com/2026/11/507823.html",
+   "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+   "link": "https://www.qbitai.com/2026/11/508170.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "拼多多把农创赛搬出了PPT。",
-   "pub_date": "2026-11-05T09:00:18.000Z",
+   "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
+   "pub_date": "2026-11-06T09:21:51.000Z",
+   "is_read": false
+  },
+  {
+   "title": "冲刺狂欢日！抖音商城双11高光品牌有哪些？",
+   "link": "https://www.leiphone.com/category/industrynews/Fk2MojO1XgLVidbM.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "双11大促进入最后冲刺期，品牌增长持续提速。11月7日，抖音商城双11高光品牌TOP20正式出炉，覆盖服饰穿搭、运动户外、美妆个护、品质生活四大赛道，集中呈现大促开门红至第二阶段，各赛道标杆品牌的爆发表现。 01运动户外 “轻户外”生活方式加速普及，叠加秋冬出行场景增多，运动户外赛道热度持续攀升。Fila/斐乐、CAMEL/骆驼、adidas/阿迪达斯占据运动户外榜前三。其中，消费者对运动装备的需求也正向日常场景延伸，Fila/斐乐、adidas/阿迪达斯、ANTA/安踏位列服饰运动榜前三，“既能通勤又能进山”的多场景装备成为消费共识。 与此同时，硬核户外场景的热度也在持续走高，CAMEL/骆驼、THE NORTH FACE/北面、pelliot/伯希和位列服饰户外榜TOP3。冲锋衣、徒步、垂钓等细分场景装备需求集中释放，专业性能与质价比成为选购的两条主线。 02服饰穿搭 秋冬换季叠加降温",
+   "pub_date": "2026-11-07T10:54:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种",
+   "link": "https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "活动焦点： · 百图生科主办、港投公司支持的第三届峰会2026年11月6日开幕，汇聚约300名科研、产业及投资界代表，探讨人工智能与生命科学的融合发展 · 百图生科InnoHub分别与大学、科企及投资机构合作，以AI生物计算聚焦乳癌及中医药研究、农业育种、研发与产业配套，包括与香港大学推进「乳腺癌虚拟细胞大模型」项目，以及与香港浸会大学筹建「AI中医药联合实验室」；合作网络延伸至日本、新加坡及「一带一路」沿线市场 · 全日设多场院士演讲及圆桌论坛，涵盖世界模型、可穿戴生物传感与具身智能，以及香港生物计算发展、生物医药AI研发、投资及企业拓展国际市场等议题 2026年11月6日，生命科学基础大模型企业百图生科（BioMap）主办、香港投资管理有限公司（港投公司）支持的第三届「国际生物计算创新峰会2026」在香港会议展览中心隆重举行。本届峰会主题为「智解生机」（Decoding Future ",
+   "pub_date": "2026-11-07T02:40:00.000Z",
    "is_read": false
   },
   {
@@ -256,21 +274,12 @@
    "is_read": false
   },
   {
-   "title": "从卖配置到铺自研技术，理想i6的第二年",
-   "link": "https://www.leiphone.com/category/transportation/rQrb2B1pDwOfnMlg.html",
-   "source": "雷峰网",
+   "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
+   "link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "上市一年、累计销量近19万辆之后，理想给i6提出了一个更大的目标。 “我们希望理想i6成为理想汽车在全球销量最高的一款车。”理想汽车董事长兼CEO李想在新车发布时表示。 10月28日，2026款理想i6正式发布，全国统一零售价24.98万元，首销期限时权益价23.98万元，同步开启试驾、定购与交付。 这次改款涉及灯光、储物、座椅、屏幕、续航和芯片六个方面。其中，两项配置值得单独拿出来看：自研连山5C电池和马赫M100辅助驾驶芯片，均成为新车标配。 一款已有较大销量基础的产品，开始集中搭载理想的自研技术。i6第二年的任务，也因此多了一层：除了继续卖车，还要让电池、芯片和算法在更多用户的日常使用中接受检验。 把自研电池和芯片，装进主销车型 2026款i6标配96千瓦时连山5C电池。后驱版CLTC续航由720公里增加到780公里，四驱版则由660公里增加到710公里。 相比单独强调充电速度，这次",
-   "pub_date": "2026-11-05T09:13:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "挖走 Claude Code 产品负责人 Cat Wu，OpenAI 直击 Anthropic 上市命门",
-   "link": "https://www.leiphone.com/category/yanxishe/iIUJoulGndesZear.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "人、基建落位，OpenAI 押注团队 Agent。 作者丨 高允毅 编辑丨岑 峰 Anthropic 刚递交招股书一周，自家最赚钱的产品，产品负责人已经坐到了对面。 今早， 前 Claude Code 产品负责人 Cat Wu 在 X 上宣布加入 OpenAI，出任核心产品组的产品负责人。 一天前，她刚告别了 Anthropic ，堪称“无缝衔接”。OpenAI 总裁 Greg Brockman 立刻转帖欢迎。 这已经是十天内，Claude Code团队离开的第三位核心成员。前段时间，离开的分别是Claude Code的桌面版之父Anthony Morris 和 Agent 核心工程师 Thariq Shihipar。而这个时间点，Anthropic 正好站在了上市的紧要关口。 Cat Wu 的离职之所以震动硅谷，不只是因为她换了阵营，更因为她带走了这条最赚钱产品线的完整方法论 01 Ca",
-   "pub_date": "2026-11-05T07:01:00.000Z",
+   "summary": "性能和豪华，仰望说它全都要。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-07T16:50:33.000Z",
    "is_read": false
   },
   {
@@ -307,6 +316,15 @@
    "category": "ai",
    "summary": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
    "pub_date": "2026-11-06T00:15:15.000Z",
+   "is_read": false
+  },
+  {
+   "title": "13 万买 5 米大轿车！比亚迪海豹 07 上市，首搭云辇-M 磁流变悬架",
+   "link": "https://www.ifanr.com/1688332?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "大，只是它的起点。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-05T15:50:25.000Z",
    "is_read": false
   },
   {
@@ -433,24 +451,6 @@
    "category": "ai",
    "summary": "不挑食。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
    "pub_date": "2026-11-04T10:04:58.000Z",
-   "is_read": false
-  },
-  {
-   "title": "拓竹给 3D 打印机装了 9 个头，这次真能打印万物了？",
-   "link": "https://www.ifanr.com/1687646?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "桌面制造的新物种 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-04T09:55:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "奥运赛事首次来到非洲，AI 也学着「入乡随俗」",
-   "link": "https://www.ifanr.com/1687242?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "用最硬核的技术，给在地文化最充分的尊重 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-04T09:01:48.000Z",
    "is_read": false
   },
   {
@@ -814,6 +814,24 @@
    "is_read": false
   },
   {
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "pub_date": "2026-11-07T22:07:22.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "pub_date": "2026-11-07T21:17:08.000Z",
+   "is_read": false
+  },
+  {
    "title": "Crusoe sells troubled Wyoming data center project to Google",
    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
    "source": "TechCrunch AI",
@@ -976,24 +994,6 @@
    "is_read": false
   },
   {
-   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-   "pub_date": "2026-11-05T15:19:05.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-   "pub_date": "2026-11-05T14:42:00.000Z",
-   "is_read": false
-  },
-  {
    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
    "source": "MIT Technology Review",
@@ -1081,6 +1081,15 @@
    "category": "ai",
    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
    "pub_date": "2026-11-03T13:10:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+   "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: <https://latest.datasette.io/fixtures/compound_three_p",
+   "pub_date": "2026-11-07T23:57:46.000Z",
    "is_read": false
   },
   {
@@ -1345,192 +1354,273 @@
    "is_read": false
   },
   {
-   "title": "Quick Study",
-   "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-   "source": "Simon Willison",
+   "title": "Commodore PET – The Worlds First Personal Computer",
+   "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+   "source": "Hacker News",
    "category": "ai",
-   "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts. Tags",
-   "pub_date": "2026-10-23T21:35:13.000Z",
+   "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 19 # Comments: 1",
+   "pub_date": "2026-11-07T23:15:34.000Z",
    "is_read": false
   },
   {
-   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-   "link": "https://josef.cn/blog/unitree",
+   "title": "GitHub New pull request overview page in public preview",
+   "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://josef.cn/blog/unitree Comments URL: https://news.ycombinator.com/item?id=50400597 Points: 23 # Comments: 9",
-   "pub_date": "2026-11-07T01:05:16.000Z",
+   "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 61 # Comments: 40",
+   "pub_date": "2026-11-07T23:09:40.000Z",
    "is_read": false
   },
   {
-   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-   "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+   "title": "IRA Velinsky – Commodore's Industrial Designer",
+   "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 22 # Comments: 3",
-   "pub_date": "2026-11-06T23:37:19.000Z",
+   "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 11 # Comments: 0",
+   "pub_date": "2026-11-07T22:45:39.000Z",
    "is_read": false
   },
   {
-   "title": "Libghostty 1.0",
-   "link": "https://mitchellh.com/writing/libghostty-1-0",
+   "title": "Making any integer with four 2s (2025)",
+   "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 212 # Comments: 26",
-   "pub_date": "2026-11-06T23:30:52.000Z",
+   "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 59 # Comments: 12",
+   "pub_date": "2026-11-07T22:38:58.000Z",
    "is_read": false
   },
   {
-   "title": "Outbound SIP calling is now available to all organizations",
-   "link": "https://developers.openai.com/api/docs/guides/voice-sip",
+   "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+   "link": "https://eyesrhythm.com/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://developers.openai.com/api/docs/guides/voice-sip Comments URL: https://news.ycombinator.com/item?id=50399695 Points: 44 # Comments: 29",
-   "pub_date": "2026-11-06T23:03:55.000Z",
+   "summary": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel ",
+   "pub_date": "2026-11-07T21:47:47.000Z",
    "is_read": false
   },
   {
-   "title": "Sodium-ion batteries approach cost parity with LFP",
-   "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+   "title": "Shadow of the Sun (2021)",
+   "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 133 # Comments: 56",
-   "pub_date": "2026-11-06T23:00:46.000Z",
+   "summary": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 20 # Comments: 4",
+   "pub_date": "2026-11-07T21:11:05.000Z",
    "is_read": false
   },
   {
-   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-   "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "title": "Show HN: Where Were We",
+   "link": "https://wherewerewe.app/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 73 # Comments: 33",
-   "pub_date": "2026-11-06T22:50:43.000Z",
+   "summary": "A little web game I made as an anniversary present for my wife. Upload vacation photos and make them into a game. WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. Comments URL: https://news.ycombinator.com/item?id=50408082 Points: 24 # Comments: 9",
+   "pub_date": "2026-11-07T21:08:35.000Z",
    "is_read": false
   },
   {
-   "title": "88x31 GIF Stickers for 2026",
-   "link": "https://a90.com/experiments/88x31/",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://a90.com/experiments/88x31/ Comments URL: https://news.ycombinator.com/item?id=50398625 Points: 25 # Comments: 2",
-   "pub_date": "2026-11-06T21:13:18.000Z",
+   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 184 # Comments: 126",
+   "pub_date": "2026-11-07T20:45:32.000Z",
    "is_read": false
   },
   {
-   "title": "AI is dramatically accelerating AI research",
-   "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "link": "https://blog.bosscher.ch/posts/openstick/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 211 # Comments: 158",
-   "pub_date": "2026-11-06T20:27:23.000Z",
+   "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 339 # Comments: 83",
+   "pub_date": "2026-11-07T18:12:12.000Z",
    "is_read": false
   },
   {
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "link": "https://hunch.net/?p=13764006",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 41 # Comments: 7",
-   "pub_date": "2026-11-06T20:09:14.000Z",
+   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 389 # Comments: 226",
+   "pub_date": "2026-11-07T18:02:17.000Z",
    "is_read": false
   },
   {
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
+   "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 344 # Comments: 76",
-   "pub_date": "2026-11-06T19:48:51.000Z",
+   "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 43 # Comments: 17",
+   "pub_date": "2026-11-07T17:54:56.000Z",
    "is_read": false
   },
   {
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "link": "https://pwn.ai/blog/firecracker-escape",
+   "title": "Five memorable books about programming (2008)",
+   "link": "https://prog21.dadgum.com/19.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 179 # Comments: 79",
-   "pub_date": "2026-11-06T19:33:38.000Z",
+   "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 83 # Comments: 54",
+   "pub_date": "2026-11-07T17:30:49.000Z",
    "is_read": false
   },
   {
-   "title": "GitHub's new Git storage architecture",
-   "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "link": "https://github.com/hedgerow-dev/coldframe",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 70 # Comments: 10",
-   "pub_date": "2026-11-06T19:24:21.000Z",
+   "summary": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real on",
+   "pub_date": "2026-11-07T17:27:30.000Z",
    "is_read": false
   },
   {
-   "title": "Restaurant Delivery Payment-Skimming Campaign",
-   "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 98 # Comments: 43",
-   "pub_date": "2026-11-06T19:19:27.000Z",
+   "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 205 # Comments: 61",
+   "pub_date": "2026-11-07T17:19:00.000Z",
    "is_read": false
   },
   {
-   "title": "Replit rebuilt its sandbox engine with microVMs",
-   "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+   "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/ Comments URL: https://news.ycombinator.com/item?id=50396834 Points: 69 # Comments: 19",
-   "pub_date": "2026-11-06T19:06:10.000Z",
+   "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 360 # Comments: 242",
+   "pub_date": "2026-11-07T17:06:36.000Z",
    "is_read": false
   },
   {
-   "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-   "link": "https://halfnarp.events.ccc.de",
+   "title": "How Long Can Life Wait?",
+   "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://halfnarp.events.ccc.de Comments URL: https://news.ycombinator.com/item?id=50396108 Points: 46 # Comments: 9",
-   "pub_date": "2026-11-06T18:16:43.000Z",
+   "summary": "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait Comments URL: https://news.ycombinator.com/item?id=50405789 Points: 129 # Comments: 78",
+   "pub_date": "2026-11-07T16:22:59.000Z",
    "is_read": false
   },
   {
-   "title": "Memorilla: Latent Semantic Memory for LLMs",
-   "link": "https://arxiv.org/abs/2610.21375",
+   "title": "Every processor die anyone has photographed and given away",
+   "link": "https://sheets.works/data-viz/cpu-dies",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://arxiv.org/abs/2610.21375 Comments URL: https://news.ycombinator.com/item?id=50395919 Points: 87 # Comments: 7",
-   "pub_date": "2026-11-06T18:03:33.000Z",
+   "summary": "Article URL: https://sheets.works/data-viz/cpu-dies Comments URL: https://news.ycombinator.com/item?id=50405782 Points: 77 # Comments: 17",
+   "pub_date": "2026-11-07T16:21:36.000Z",
    "is_read": false
   },
   {
-   "title": "Size-It-Up (Game)",
-   "link": "https://magnitudle.com/size-it-up",
+   "title": "Terry Pratchett's Study",
+   "link": "https://www.sussi.dk/terry-pratchetts-study",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://magnitudle.com/size-it-up Comments URL: https://news.ycombinator.com/item?id=50395869 Points: 72 # Comments: 25",
-   "pub_date": "2026-11-06T17:59:59.000Z",
+   "summary": "Article URL: https://www.sussi.dk/terry-pratchetts-study Comments URL: https://news.ycombinator.com/item?id=50405674 Points: 103 # Comments: 27",
+   "pub_date": "2026-11-07T16:05:45.000Z",
    "is_read": false
   },
   {
-   "title": "Devvm.dev: One VM for every project",
-   "link": "https://devvm.dev/",
+   "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
+   "link": "https://www.retrosongbird.com/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://devvm.dev/ Comments URL: https://news.ycombinator.com/item?id=50395450 Points: 121 # Comments: 53",
-   "pub_date": "2026-11-06T17:30:22.000Z",
+   "summary": "Article URL: https://www.retrosongbird.com/ Comments URL: https://news.ycombinator.com/item?id=50405172 Points: 38 # Comments: 10",
+   "pub_date": "2026-11-07T15:06:54.000Z",
    "is_read": false
   },
   {
-   "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-   "link": "https://up.codes/careers?utm_source=HN",
+   "title": "The $8 Linux Computer (2022)",
+   "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=50395043 Points: 0 # Comments: 0",
-   "pub_date": "2026-11-06T17:03:33.000Z",
+   "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 198 # Comments: 84",
+   "pub_date": "2026-11-07T14:00:20.000Z",
    "is_read": false
   },
   {
-   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3... Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 237 # Comments: 493",
-   "pub_date": "2026-11-06T16:54:36.000Z",
+   "title": "People prefer slightly protruding jaws over perfectly straight facial profiles",
+   "link": "https://www.psypost.org/public-prefers-slightly-protruding-jaws-over-perfectly-straight-facial-profiles/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A recent survey reveals that everyday people prefer facial profiles with slightly protruding upper jaws over perfectly neutral alignments, highlighting a gap between clinical geometric ideals and actual public aesthetic tastes.",
+   "pub_date": "2026-11-07T23:00:48.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Subtle mood changes in late life may follow early Alzheimer’s brain changes, study suggests",
+   "link": "https://www.psypost.org/subtle-mood-changes-in-late-life-may-follow-early-alzheimers-brain-changes-study-suggests/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Does brain pathology spark low mood, or the other way around? In older adults without memory problems, buildup of the Alzheimer’s-related protein tau tended to come first, followed by small increases in depressive symptoms.",
+   "pub_date": "2026-11-07T21:00:31.000Z",
+   "is_read": false
+  },
+  {
+   "title": "New study identifies daily communication and personal mindset as key predictors of marital sexual activity",
+   "link": "https://www.psypost.org/sexual-inactivity-rates-differ-between-married-couples-in-the-united-states-and/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Married couples in South Korea report higher rates of sexual inactivity than their American counterparts, according to a large survey. The research highlights how work hours, income, and communication styles relate to intimacy in different cultural environments.",
+   "pub_date": "2026-11-07T19:00:29.000Z",
+   "is_read": false
+  },
+  {
+   "title": "What 25,000 conversations with a psychedelic helpline show about who seeks help",
+   "link": "https://www.psypost.org/what-25000-conversations-with-a-psychedelic-helpline-show-about-who-seeks-help/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Who calls a psychedelic helpline? An analysis of nearly five years of calls and texts found that psilocybin dominated, cannabis showed up often, and most callers whose setting was recorded were going through it alone.",
+   "pub_date": "2026-11-07T17:00:26.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Brain connectivity pattern predicts treatment response in cocaine use disorder",
+   "link": "https://www.psypost.org/brain-connectivity-pattern-predicts-treatment-response-in-cocaine-use-disorder/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Researchers have identified a unique brain connectivity pattern linked to cocaine use disorder. This biological marker can distinguish patients from healthy individuals and predict whether they will respond to magnetic brain stimulation therapies to reduce cravings.",
+   "pub_date": "2026-11-07T15:00:24.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Prior expertise may determine whether AI builds skills or substitutes for them, field experiment suggests",
+   "link": "https://www.psypost.org/prior-expertise-may-determine-whether-ai-builds-skills-or-substitutes-for-them-field-experiment-suggests/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Does using AI on the job build expertise or erode it? A field experiment with patent lawyers suggests the answer may depend on how much expertise people bring to the tool in the first place.",
+   "pub_date": "2026-11-07T14:00:20.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Eye-tracking study suggests a simple PowerPoint technique can sharpen students’ focus",
+   "link": "https://www.psypost.org/eye-tracking-study-suggests-a-simple-powerpoint-technique-can-sharpen-students-focus/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Teachers often reveal slide content one piece at a time as they talk. A new eye-tracking study suggests the habit pays off: students found the right information faster, looked at it longer, and scored modestly higher afterward.",
+   "pub_date": "2026-11-07T13:00:18.000Z",
+   "is_read": false
+  },
+  {
+   "title": "How the loss of male-dominated industrial jobs pushes communities to the political right",
+   "link": "https://www.psypost.org/how-the-loss-of-male-dominated-industrial-jobs-pushes-communities-to-the-politic/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "As manufacturing and mining jobs vanish, women are entering the workforce to replace lost income. A new study finds this economic rebalancing creates cultural anxiety and financial strain, driving voters across classes toward conservative politicians.",
+   "pub_date": "2026-11-07T12:00:15.000Z",
+   "is_read": false
+  },
+  {
+   "title": "New psychology research challenges a popular explanation for why conspiracy theories cluster together",
+   "link": "https://www.psypost.org/new-psychology-research-challenges-a-popular-explanation-for-why-conspiracy-theories-cluster-together/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "People who believe one conspiracy theory tend to believe others, and many psychologists point to a general suspicious mindset. But a study of nearly 30,000 people suggests that mindset rarely sits at the center.",
+   "pub_date": "2026-11-07T11:00:16.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Fatherhood brain changes, AI companions, and a dispute over evolution’s grip on romance: The week in psychology podcasts",
+   "link": "https://www.psypost.org/fatherhood-brain-changes-ai-companions-and-a-dispute-over-evolutions-grip-on-romance-the-week-in-psychology-podcasts/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "How much does our evolutionary past dictate whom we love and how we compete? Across this week's podcast conversations, two psychologists offered sharply different answers. One built an account of human intelligence and male status-seeking around ancestral warfare, while another argued that the popular evolutionary script about mate preferences falls apart once people actually meet face to face.",
+   "pub_date": "2026-11-07T03:58:56.000Z",
    "is_read": false
   },
   {
@@ -1624,93 +1714,12 @@
    "is_read": false
   },
   {
-   "title": "New neuroscience research reveals a common brain pattern across many psychiatric diagnoses",
-   "link": "https://www.psypost.org/new-neuroscience-research-reveals-a-common-brain-pattern-across-many-psychiatric-diagnoses/",
-   "source": "PsyPost",
+   "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
+   "source": "Science Daily 心理学",
    "category": "psychology",
-   "summary": "When people shift from rest to a demanding task, their brain networks reorganize. A new study suggests this reorganization is flatter in people with psychiatric diagnoses, across conditions from depression to schizophrenia.",
-   "pub_date": "2026-11-05T23:00:13.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Psychologists petition to create a psychedelic science division within the APA",
-   "link": "https://www.psypost.org/psychologists-petition-to-create-a-psychedelic-science-division-within-the-apa/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A group of psychologists has launched a petition to create a Division of Psychedelic Science and Practice within the American Psychological Association, arguing the field is now an enduring area of psychological inquiry.",
-   "pub_date": "2026-11-05T21:00:53.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Loving-kindness meditation fails to beat muscle relaxation for pain or social well-being in online trial",
-   "link": "https://www.psypost.org/loving-kindness-meditation-fails-to-beat-muscle-relaxation-for-pain-or-social-well-being-in-online-trial/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Loving-kindness meditation is meant to foster warmth toward others, but in a four-week online trial, it did not boost social support or ease pain any more than a simple muscle relaxation routine.",
-   "pub_date": "2026-11-05T19:00:51.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Losing childhood weight by adulthood might erase later depression risks",
-   "link": "https://www.psypost.org/adulthood-weight-management-may-reverse-childhood-mental-health-risks/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A massive new study shows that while being heavier or thinner than average in childhood is linked to mental health risks, reaching a normal weight by adulthood might erase that excess vulnerability to depression and anxiety.",
-   "pub_date": "2026-11-05T17:00:45.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Women don’t find deeper-than-average voices more attractive when they can see the man",
-   "link": "https://www.psypost.org/women-dont-find-deeper-than-average-voices-more-attractive-when-they-can-see-the-man/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "When people could see a man’s full body on video, digitally deepening his voice made him seem stronger and more dominant, but not more attractive to women, a study in Royal Society Open Science found.",
-   "pub_date": "2026-11-05T15:00:31.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Voters value long-term economic growth more than previously thought, study finds",
-   "link": "https://www.psypost.org/voters-care-more-about-economic-improvement-than-total-benefits/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "New research reveals that voters are not simply shortsighted when evaluating the economy. Instead of focusing only on the immediate past, people consistently prefer a steady upward trajectory, even if it means sacrificing overall benefits.",
-   "pub_date": "2026-11-05T14:00:25.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Scientists map a blood protein fingerprint of menopause tied to brain health",
-   "link": "https://www.psypost.org/scientists-map-a-blood-protein-fingerprint-of-menopause-tied-to-brain-health/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Blood proteins tied to inflammation, nerve cell connections, and Alzheimer’s biology shift across menopause, and older women with more of this pattern tend to show faster cognitive decline, a multi-cohort study suggests.",
-   "pub_date": "2026-11-05T13:00:17.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Social anxiety might not warp how we perceive eye contact",
-   "link": "https://www.psypost.org/social-anxiety-might-not-warp-how-we-perceive-eye-contact/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A new study challenges the idea that people with social anxiety consistently perceive strangers as staring at them. Fresh experiments show that the link between anxiety and warped gaze perception is weak and difficult to replicate.",
-   "pub_date": "2026-11-05T12:00:12.000Z",
-   "is_read": false
-  },
-  {
-   "title": "In female mice modeling schizophrenia, a single dose of psilocybin restored sensory filtering for days",
-   "link": "https://www.psypost.org/in-female-mice-modeling-schizophrenia-a-single-dose-of-psilocybin-restored-sensory-filtering-for-days/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "People with schizophrenia are usually excluded from psychedelic trials. A new mouse study suggests the picture is complicated: psilocybin amplified immediate reactions in a schizophrenia model but lastingly improved sensory filtering in females.",
-   "pub_date": "2026-11-05T11:00:10.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Could psychedelics aid therapy for personality disorders? An unusual case offers a first look",
-   "link": "https://www.psypost.org/could-psychedelics-aid-therapy-for-personality-disorders-an-unusual-case-offers-a-first-look/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A 37-year-old woman with severe personality disorders took psychedelics on her own during a year of therapy, despite her clinicians’ concerns. By the end, she no longer met criteria for two of her four diagnoses.",
-   "pub_date": "2026-11-05T01:00:55.000Z",
+   "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by prolonged stress. Most intriguingly, they identified a way to trigger this brain",
+   "pub_date": "2026-11-07T00:33:47.000Z",
    "is_read": false
   },
   {
@@ -2245,15 +2254,6 @@
    "is_read": false
   },
   {
-   "title": "Ozempic may have revealed the brain’s hidden “craving center”",
-   "link": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
-   "source": "Science Daily 心理学",
-   "category": "psychology",
-   "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that helps connect memories and surroundings with rewarding experiences. Packed with GLP-1 receptors, it may act as a crucial control point between thinking about a reward and feeling com",
-   "pub_date": "2026-08-12T14:36:07.000Z",
-   "is_read": false
-  },
-  {
    "title": "Preprimary education laws and women’s empowerment later in life",
    "link": "https://www.nature.com/articles/s41562-026-02608-z",
    "source": "Nature Human Behaviour",
@@ -2506,6 +2506,24 @@
    "is_read": false
   },
   {
+   "title": "Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years",
+   "link": "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "Now we finally know where it went The post Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years appeared first on Nautilus .",
+   "pub_date": "2026-11-07T15:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "This Photo of the ISS Next to Jupiter Was Two Years in the Making",
+   "link": "https://nautil.us/this-photo-of-the-iss-next-to-jupiter-was-two-years-in-the-making-1286407/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "Part of the art and science of astrophotography is figuring out when certain flying objects in the sky are going to line up for a photo opportunity. And few photographs demonstrate it better than AJ Smadi ’s shot of the International Space Station (ISS) hurtling in front of Jupiter. There’s an incredible symmetry in the dimensions here: Jupiter is about 1.3 million times bigger than the ISS, but i",
+   "pub_date": "2026-11-07T13:00:00.000Z",
+   "is_read": false
+  },
+  {
    "title": "Could a Fiber Supplement Help Chronic Knee Pain?",
    "link": "https://nautil.us/could-a-fiber-supplement-help-chronic-knee-pain-1286434/",
    "source": "Nautilus",
@@ -2575,24 +2593,6 @@
    "category": "psychology",
    "summary": "You can even make it at home The post Switching to This Healthier Version of Salt Could Save Around 3 Million Lives a Year appeared first on Nautilus .",
    "pub_date": "2026-11-05T22:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "The Evolutionary Arc From Pigeon Brains to Machine Consciousness",
-   "link": "https://nautil.us/the-evolutionary-arc-from-pigeon-brains-to-machine-consciousness-1286380/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "A conversation with comparative cognition researcher Edward Wasserman about learning and the “edge of chaos” The post The Evolutionary Arc From Pigeon Brains to Machine Consciousness appeared first on Nautilus .",
-   "pub_date": "2026-11-05T21:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Oldest Evidence of Human Cannabis Use Has a Ghoulish Twist",
-   "link": "https://nautil.us/oldest-evidence-of-human-cannabis-use-has-a-ghoulish-twist-1286377/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "Take a ride with the spectral cavalcade The post Oldest Evidence of Human Cannabis Use Has a Ghoulish Twist appeared first on Nautilus .",
-   "pub_date": "2026-11-05T19:00:00.000Z",
    "is_read": false
   }
  ]
