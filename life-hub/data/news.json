@@ -1,8 +1,17 @@
 {
- "updated_at": "2026-11-08T02:05:32.743Z",
+ "updated_at": "2026-11-09T02:25:54.975Z",
  "ok": 14,
  "fail": 1,
  "items": [
+  {
+   "title": "资本正在撤离“世界模型”",
+   "link": "https://www.qbitai.com/2026/11/508466.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "没有永远的夏天",
+   "pub_date": "2026-11-08T04:09:55.000Z",
+   "is_read": false
+  },
   {
    "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
    "link": "https://www.qbitai.com/2026/11/508449.html",
@@ -85,12 +94,21 @@
    "is_read": false
   },
   {
-   "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-   "link": "https://www.qbitai.com/2026/11/508170.html",
-   "source": "量子位",
+   "title": "腾讯的 Agent 布局，不止 WorkBuddy",
+   "link": "https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
-   "pub_date": "2026-11-06T09:21:51.000Z",
+   "summary": "大家对腾讯Agent的认识，还不够完整。 作者丨 胡敏 编辑丨刘伟 今年上半年，但凡聊腾讯 AI，那必然会聊到 Workbuddy，这个产品在前三季度彻彻底底出圈了。它在某种程度上，也 改变了 市场对于腾讯 AI 的 看法 。 但如果只看到WorkBuddy，那么大家对于腾讯 Agent 的认识，可能还是不完整的。 腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生在 刚过去的腾讯全球数字生态 大会上提到，企业落地Agent最大的难题，不是模型不够强，而是“断点太多”：AI能写方案、做分析，却接不上业务系统，也拿不到企业数据。Agent真正落地的关键，是把人、工具、系统和数据连接起来，让AI进入真实的工作流程。 围绕这些“断点”，腾讯提出打造“全场景、高效能、更放心”的Agent生产力系统 ，并且在 腾讯全球数字生态大会的AI产品发布台上，这一思路被进一步展开：两天里，4 0+ 场发布",
+   "pub_date": "2026-11-08T13:11:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "终端侧AI：从单点应用走向智能体体验",
+   "link": "https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "发言人：高通公司AI产品技术中国区负责人 万卫星 2026年11月7日，上海 终端侧AI发展到了什么阶段？ 终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。 从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有终端侧AI技术的推动。如今，终端侧AI已经进一步拓展到简单问答、聊天、图像生成与处理，以及文本处理、语音转录、实时翻译等多模态应用，其中不少功能在端侧落地的条件已经比较成熟。 不过，目前很多端侧AI应用仍然偏向单点功能。例如自动语音识别（ASR）、文本摘要、图片处理、简单聊天机器人等，大多解决的是一个具体任务。如果未来希望终端能够进一步完成意图理解、任务编排、实时操作目标App等系统级、规划类任务，就需要更强的端侧模型能力。 这意味着，终端侧AI正在逐渐从解决一个个具体任务，向更加复杂的智能体体验演",
+   "pub_date": "2026-11-08T07:54:00.000Z",
    "is_read": false
   },
   {
@@ -256,21 +274,39 @@
    "is_read": false
   },
   {
-   "title": "累计发货量突破100万台！鸿蒙电脑厚积薄发，持续拓展桌面应用生态",
-   "link": "https://www.leiphone.com/category/industrynews/6igykQlGwvA6vyCV.html",
-   "source": "雷峰网",
+   "title": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+   "link": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "全球桌面操作系统市场格局已固化数十年。面对极高的生态壁垒，传统替代型系统往往困于“特定场景可用、大众市场难推”的瓶颈，难以实现规模化商业闭环。在11月5日启幕的2026鸿蒙办公产业峰会上，一个数字非常亮眼，截至2026年10月，鸿蒙电脑累计发货量突破100万台。 华为终端BG平板与PC产品线总裁朱懂东表示：鸿蒙电脑2026年加速增长，单年发货量有望突破100万台，展现出蓬勃之势。他还正式宣布：“鸿蒙电脑全面向开发者开放侧载能力。” 从2025年6月首批产品开售，到累计发货量突破100万台，鸿蒙电脑迈出了规模化商业应用的重要一步。2026年单年发货量有望突破100万台，显示华为对后续增长的预期。随着产品、应用和产业伙伴的协同，鸿蒙电脑也在拓展桌面办公的更多可能。 破局硬件底座：十年根技术沉淀，全档位矩阵兑现“百万加速度” 新操作系统的普及，首要前提是硬件载体的体验不能妥协。鸿蒙电脑之所以能跑",
-   "pub_date": "2026-11-05T13:48:00.000Z",
+   "summary": "苹果的下一座围城，是创作 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-09T01:54:03.000Z",
    "is_read": false
   },
   {
-   "title": "李彦宏百度世界2026演讲海报曝光，或分享智能组织进化新思考",
-   "link": "https://www.leiphone.com/category/industrynews/49uolfG855V4Zc9M.html",
-   "source": "雷峰网",
+   "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+   "link": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "11月4日，百度官方发布了一则百度世界2026大会预热海报，提前透露了百度创始人李彦宏将于11月12日在大会开幕式上发表主题演讲的相关线索。 海报中的三个问题引人关注：“什么是AI时代的新厂房？”“组织进化三原则是哪些？”“智能组织将迎来的三大机会是什么？” 结合本届大会“下一幕，智能组织”的主题，李彦宏的主题演讲或围绕“智能组织进化”展开。 预测一：或分享智能组织进化趋势，并为企业AI转型提出建议 2016年百度世界大会上，李彦宏曾提出“互联网的下一幕，是人工智能”。十年后，百度世界再次以“下一幕”为题，将焦点转向“智能组织”。 近一年来，李彦宏持续关注AI如何推动企业组织层变革。在2025年百度世界大会上，他提出内化AI能力，让AI成为企业发展和个人成长的原生推动力。今年5月的Create大会上，他进一步提出AI时代的“进化论”，探讨由人与智能体组成混合编队的超级组织形态，并就企业自我",
-   "pub_date": "2026-11-05T11:26:00.000Z",
+   "summary": "· 苹果称超 10 万款应用已适配 iPhone Duo · Anthropic 拟于本周启动 IPO 路演 · 比亚迪李柯回应玛莎拉蒂收购传闻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-09T00:34:19.000Z",
+   "is_read": false
+  },
+  {
+   "title": "别再拿《影之刃零》对比《黑神话》了",
+   "link": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "《影之刃》有自己的江湖。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-08T04:00:31.000Z",
+   "is_read": false
+  },
+  {
+   "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+   "link": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "磁带在 AI 时代迎来了第二春。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-08T03:35:42.000Z",
    "is_read": false
   },
   {
@@ -415,42 +451,6 @@
    "category": "ai",
    "summary": "这次你一定要用上 Apple 智能！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
    "pub_date": "2026-11-04T17:30:04.000Z",
-   "is_read": false
-  },
-  {
-   "title": "一文看懂 2026 中国车市：卷死合资不是胜利，「金九银十」已然消失",
-   "link": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "车市的天花板，可能比我们想的更低。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-04T15:12:46.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Anthropic微微发力，AI中转站的天就要塌了？",
-   "link": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "就像发邮件加上数字签名一样 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-04T10:34:38.000Z",
-   "is_read": false
-  },
-  {
-   "title": "安东内利加冕 F1 最年轻世界冠军，梅赛德斯的十年豪赌拿到了大结果",
-   "link": "https://www.ifanr.com/1687672?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "一位天才车手的圆梦之旅。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-04T10:06:47.000Z",
-   "is_read": false
-  },
-  {
-   "title": "加油、充电还能加甲醇！吉利银河星耀 6 EF 上市，7.68 万元起",
-   "link": "https://www.ifanr.com/1687688?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "不挑食。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-04T10:04:58.000Z",
    "is_read": false
   },
   {
@@ -814,6 +814,15 @@
    "is_read": false
   },
   {
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "In a memo to the company, Huang admitted that he had an affair.",
+   "pub_date": "2026-11-08T21:00:11.000Z",
+   "is_read": false
+  },
+  {
    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
    "source": "TechCrunch AI",
@@ -985,15 +994,6 @@
    "is_read": false
   },
   {
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-   "pub_date": "2026-11-05T16:16:45.000Z",
-   "is_read": false
-  },
-  {
    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
    "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
    "source": "MIT Technology Review",
@@ -1081,6 +1081,15 @@
    "category": "ai",
    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to…",
    "pub_date": "2026-11-03T13:10:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "parse_number() as a SQLite extension: C vs Rust",
+   "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted : I'm thinking about a SQLite custom fu",
+   "pub_date": "2026-11-08T22:26:00.000Z",
    "is_read": false
   },
   {
@@ -1345,192 +1354,264 @@
    "is_read": false
   },
   {
-   "title": "battledrones v14: Compass Rose, a four player map",
-   "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
-   "source": "Simon Willison",
+   "title": "Unlocking any car from X brand in most of the world",
+   "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+   "source": "Hacker News",
    "category": "ai",
-   "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude O",
-   "pub_date": "2026-10-24T03:59:57.000Z",
+   "summary": "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 65 # Comments: 26",
+   "pub_date": "2026-11-09T00:10:50.000Z",
    "is_read": false
   },
   {
-   "title": "Commodore PET – The Worlds First Personal Computer",
-   "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+   "title": "I'm Not Convinced the AI Bubble Exists",
+   "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 19 # Comments: 1",
-   "pub_date": "2026-11-07T23:15:34.000Z",
+   "summary": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 29 # Comments: 12",
+   "pub_date": "2026-11-08T23:44:36.000Z",
    "is_read": false
   },
   {
-   "title": "GitHub New pull request overview page in public preview",
-   "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+   "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+   "link": "https://isocpp.org/files/papers/P4454R0.pdf",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 61 # Comments: 40",
-   "pub_date": "2026-11-07T23:09:40.000Z",
+   "summary": "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 69 # Comments: 47",
+   "pub_date": "2026-11-08T23:28:01.000Z",
    "is_read": false
   },
   {
-   "title": "IRA Velinsky – Commodore's Industrial Designer",
-   "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+   "title": "Chimera Vocal Synth",
+   "link": "https://chimera-vocal-synth.vercel.app/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 11 # Comments: 0",
-   "pub_date": "2026-11-07T22:45:39.000Z",
+   "summary": "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 89 # Comments: 14",
+   "pub_date": "2026-11-08T22:36:03.000Z",
    "is_read": false
   },
   {
-   "title": "Making any integer with four 2s (2025)",
-   "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+   "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+   "link": "https://ketchup3d.github.io/app/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 59 # Comments: 12",
-   "pub_date": "2026-11-07T22:38:58.000Z",
+   "summary": "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 211 # Comments: 57",
+   "pub_date": "2026-11-08T22:35:35.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-   "link": "https://eyesrhythm.com/",
+   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+   "link": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel ",
-   "pub_date": "2026-11-07T21:47:47.000Z",
+   "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 364 # Comments: 384",
+   "pub_date": "2026-11-08T22:20:09.000Z",
    "is_read": false
   },
   {
-   "title": "Shadow of the Sun (2021)",
-   "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+   "title": "Ask HN: What are you working on? (November 2026)",
+   "link": "https://news.ycombinator.com/item?id=50417407",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 20 # Comments: 4",
-   "pub_date": "2026-11-07T21:11:05.000Z",
+   "summary": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 130 # Comments: 480",
+   "pub_date": "2026-11-08T21:20:20.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: Where Were We",
-   "link": "https://wherewerewe.app/",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "A little web game I made as an anniversary present for my wife. Upload vacation photos and make them into a game. WWW uses EXIF to determine where and when the photo was taken. This is then turned into a game you can send to anyone. Comments URL: https://news.ycombinator.com/item?id=50408082 Points: 24 # Comments: 9",
-   "pub_date": "2026-11-07T21:08:35.000Z",
+   "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 392 # Comments: 297",
+   "pub_date": "2026-11-08T20:26:43.000Z",
    "is_read": false
   },
   {
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+   "link": "https://www.spacex.com/launches/starship-flight-15",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 184 # Comments: 126",
-   "pub_date": "2026-11-07T20:45:32.000Z",
+   "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 94 # Comments: 57",
+   "pub_date": "2026-11-08T19:49:46.000Z",
    "is_read": false
   },
   {
-   "title": "What I run on my $10 USD OpenStick homelab",
-   "link": "https://blog.bosscher.ch/posts/openstick/",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "link": "https://ftrain.com/aboard-the-web-is-more-than-enough",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 339 # Comments: 83",
-   "pub_date": "2026-11-07T18:12:12.000Z",
+   "summary": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 81 # Comments: 42",
+   "pub_date": "2026-11-08T19:48:32.000Z",
    "is_read": false
   },
   {
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "link": "https://hunch.net/?p=13764006",
+   "title": "How I Fight AI Brain Fry",
+   "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 389 # Comments: 226",
-   "pub_date": "2026-11-07T18:02:17.000Z",
+   "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 157 # Comments: 130",
+   "pub_date": "2026-11-08T19:37:42.000Z",
    "is_read": false
   },
   {
-   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-   "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+   "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 43 # Comments: 17",
-   "pub_date": "2026-11-07T17:54:56.000Z",
+   "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 252 # Comments: 188",
+   "pub_date": "2026-11-08T19:20:32.000Z",
    "is_read": false
   },
   {
-   "title": "Five memorable books about programming (2008)",
-   "link": "https://prog21.dadgum.com/19.html",
+   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+   "link": "https://duxlabs.dev/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 83 # Comments: 54",
-   "pub_date": "2026-11-07T17:30:49.000Z",
+   "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 206 # Comments: 61",
+   "pub_date": "2026-11-08T19:08:51.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-   "link": "https://github.com/hedgerow-dev/coldframe",
+   "title": "Playing with the STM32MP2",
+   "link": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake. To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces. Both of them are recognized on Shodan as real on",
-   "pub_date": "2026-11-07T17:27:30.000Z",
+   "summary": "Article URL: https://serd.es/2026/11/08/playing-with-stm32mp2.html Comments URL: https://news.ycombinator.com/item?id=50416014 Points: 39 # Comments: 30",
+   "pub_date": "2026-11-08T19:04:07.000Z",
    "is_read": false
   },
   {
-   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-   "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+   "link": "https://kevinboone.me/cpmzork.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 205 # Comments: 61",
-   "pub_date": "2026-11-07T17:19:00.000Z",
+   "summary": "Article URL: https://kevinboone.me/cpmzork.html Comments URL: https://news.ycombinator.com/item?id=50415750 Points: 30 # Comments: 13",
+   "pub_date": "2026-11-08T18:33:50.000Z",
    "is_read": false
   },
   {
-   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-   "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 360 # Comments: 242",
-   "pub_date": "2026-11-07T17:06:36.000Z",
+   "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 614 # Comments: 361",
+   "pub_date": "2026-11-08T18:16:07.000Z",
    "is_read": false
   },
   {
-   "title": "How Long Can Life Wait?",
-   "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+   "title": "A Little Snitch for Windows",
+   "link": "https://packethound.app/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait Comments URL: https://news.ycombinator.com/item?id=50405789 Points: 129 # Comments: 78",
-   "pub_date": "2026-11-07T16:22:59.000Z",
+   "summary": "Article URL: https://packethound.app/ Comments URL: https://news.ycombinator.com/item?id=50415135 Points: 96 # Comments: 47",
+   "pub_date": "2026-11-08T17:16:07.000Z",
    "is_read": false
   },
   {
-   "title": "Every processor die anyone has photographed and given away",
-   "link": "https://sheets.works/data-viz/cpu-dies",
+   "title": "I'm not a fan of Deno's security model (2024)",
+   "link": "https://goldstein.lol/posts/deno-security/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://sheets.works/data-viz/cpu-dies Comments URL: https://news.ycombinator.com/item?id=50405782 Points: 77 # Comments: 17",
-   "pub_date": "2026-11-07T16:21:36.000Z",
+   "summary": "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 86 # Comments: 44",
+   "pub_date": "2026-11-08T14:42:38.000Z",
    "is_read": false
   },
   {
-   "title": "Terry Pratchett's Study",
-   "link": "https://www.sussi.dk/terry-pratchetts-study",
+   "title": "Writing as a thinking tool",
+   "link": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.sussi.dk/terry-pratchetts-study Comments URL: https://news.ycombinator.com/item?id=50405674 Points: 103 # Comments: 27",
-   "pub_date": "2026-11-07T16:05:45.000Z",
+   "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 284 # Comments: 83",
+   "pub_date": "2026-11-08T10:41:52.000Z",
    "is_read": false
   },
   {
-   "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-   "link": "https://www.retrosongbird.com/",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "link": "https://github.com/synchopate/llama-modchip",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.retrosongbird.com/ Comments URL: https://news.ycombinator.com/item?id=50405172 Points: 38 # Comments: 10",
-   "pub_date": "2026-11-07T15:06:54.000Z",
+   "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 368 # Comments: 160",
+   "pub_date": "2026-11-08T10:22:04.000Z",
    "is_read": false
   },
   {
-   "title": "The $8 Linux Computer (2022)",
-   "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-   "source": "Hacker News",
-   "category": "ai",
-   "summary": "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 198 # Comments: 84",
-   "pub_date": "2026-11-07T14:00:20.000Z",
+   "title": "Waiting to have sex linked to lower depression risk later in life",
+   "link": "https://www.psypost.org/delaying-first-sexual-experience-linked-to-lower-depression-risk-through-economi/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Waiting until older ages to have sex for the first time is associated with a lower risk of adult depression. A new study indicates this reduced risk is largely driven by higher educational achievement and increased household income.",
+   "pub_date": "2026-11-09T01:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "AI chatbots can flip-flop on false claims when users keep repeating them",
+   "link": "https://www.psypost.org/ai-chatbots-can-flip-flop-on-false-claims-when-users-keep-repeating-them/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "What happens when a user keeps insisting that a square has five sides? A study of seven large language models found that sustained conversational pressure exposed weaknesses that single-question tests can miss.",
+   "pub_date": "2026-11-08T23:00:01.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Toddler temperament is linked to common DNA variations, large genetic study finds",
+   "link": "https://www.psypost.org/toddler-temperament-is-linked-to-common-dna-variations-large-genetic-study-finds/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Why do some toddlers charge into a room of strangers while others hang back? A study of tens of thousands of children links early temperament to common DNA variations that overlap with those tied to ADHD and autism.",
+   "pub_date": "2026-11-08T21:00:55.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Self-perception might matter more than observable social skills for autistic teens’ well-being",
+   "link": "https://www.psypost.org/autistic-teenagers-quality-of-life-linked-to-inner-confidence-rather-than-observ/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A new study reveals that helping autistic teenagers manage social anxiety and build inner confidence improves their quality of life far more than simply teaching them observable social skills.",
+   "pub_date": "2026-11-08T19:00:54.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Fitter kids face a lower risk of depression decades later, study suggests",
+   "link": "https://www.psypost.org/fitter-kids-face-a-lower-risk-of-depression-decades-later-study-suggests/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Kids who ran faster in a 1985 fitness test were somewhat less likely to develop depression by middle age, according to a study that followed more than 1,000 Australians for over three decades.",
+   "pub_date": "2026-11-08T17:00:53.000Z",
+   "is_read": false
+  },
+  {
+   "title": "The social fallout of working alongside an office workaholic",
+   "link": "https://www.psypost.org/the-social-fallout-of-working-alongside-an-office-workaholic/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "When employees work alongside a workaholic, they often feel pressured to match those long hours. A new study reveals that this performance pressure drives coworkers to work harder, but it also increases gossip and badmouthing in the office.",
+   "pub_date": "2026-11-08T15:00:52.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Teens with authoritarian parents tend to hold more antisocial beliefs, study finds",
+   "link": "https://www.psypost.org/teens-with-authoritarian-parents-tend-to-hold-more-antisocial-beliefs-study-finds/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Teens whose parents lean on yelling, threats, and punishment without explanation tend to hold stronger beliefs that rule-breaking and aggression are acceptable, a four-wave study of U.S. families suggests.",
+   "pub_date": "2026-11-08T13:00:50.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Formerly religious individuals exhibit the highest levels of left-wing authoritarianism",
+   "link": "https://www.psypost.org/the-strict-mindset-of-religious-fundamentalism-often-survives-deconversion/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "People who leave their religion often abandon conservative beliefs but retain an authoritarian mindset. A new study reveals that formerly religious individuals exhibit the highest levels of left-wing authoritarianism, shifting their targets while maintaining rigid ideological styles.",
+   "pub_date": "2026-11-08T12:00:49.000Z",
+   "is_read": false
+  },
+  {
+   "title": "When a partner won’t apologize, anxiously attached people may hold bigger grudges",
+   "link": "https://www.psypost.org/when-a-partner-wont-apologize-anxiously-attached-people-may-hold-bigger-grudges/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Why do some people hold grudges after a fight? A new study suggests that for people who fear rejection, a partner’s refusal to apologize is linked to more grudge-holding, avoidance, and difficulty forgiving.",
+   "pub_date": "2026-11-08T11:00:48.000Z",
    "is_read": false
   },
   {
@@ -1633,93 +1714,21 @@
    "is_read": false
   },
   {
-   "title": "Why humans punish: A study of two distinct societies reveals a shared sense of justice",
-   "link": "https://www.psypost.org/why-humans-punish-a-study-of-two-distinct-societies-reveals-a-shared-sense-of-ju/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Research across two vastly different cultures reveals that our urge to punish rule-breakers balances a dual desire: to compensate victims for their exact losses and to impose extra penalties that deter future harms.",
-   "pub_date": "2026-11-06T21:00:48.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Brain stimulation made people see sexualized women less like objects in a lab test",
-   "link": "https://www.psypost.org/brain-stimulation-made-people-see-sexualized-women-less-like-objects-in-a-lab-test/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Is seeing women as objects a fixed feature of perception? A new brain stimulation study suggests it may be more like a habit, one that a mild electrical current can shift, at least in the lab.",
-   "pub_date": "2026-11-06T19:00:37.000Z",
-   "is_read": false
-  },
-  {
-   "title": "The science behind the sports betting harm spiral",
-   "link": "https://www.psypost.org/how-sports-betting-apps-hook-users-and-discourage-help-seeking/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Frequent sports betting increases gambling harm by making bettors highly competitive and overly confident. When financial losses accumulate, gamblers are more likely to seek professional support if they blame bad luck rather than their own poor judgment.",
-   "pub_date": "2026-11-06T17:00:36.000Z",
-   "is_read": false
-  },
-  {
-   "title": "People high in narcissism show less coordinated brain responses to others’ embarrassment",
-   "link": "https://www.psypost.org/people-high-in-narcissism-show-less-coordinated-brain-responses-to-others-embarrassment/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "People low in narcissism show closely matched brain activity when watching someone else get harshly criticized. Among people high in grandiose narcissism, a new study finds, those responses are more out of sync.",
-   "pub_date": "2026-11-06T16:00:32.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Unpredictable home lives are linked to children’s mental health problems, beyond abuse and neglect",
-   "link": "https://www.psypost.org/unpredictable-home-lives-are-linked-to-childrens-mental-health-problems-beyond-abuse-and-neglect/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Standard screens for childhood adversity ask about abuse, neglect and household dysfunction. A study of nearly 30,000 children found that also asking about unpredictability at home identified some kids at risk for depression whom the standard screen missed.",
-   "pub_date": "2026-11-06T15:00:32.000Z",
-   "is_read": false
-  },
-  {
-   "title": "A bad day at work may leave you feeling less in love, study suggests",
-   "link": "https://www.psypost.org/a-bad-day-at-work-may-leave-you-feeling-less-in-love-study-suggests/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Work deadlines, family arguments, and car trouble may not stay outside the relationship. A two-week diary study suggests that when outside hassles pile up beyond the usual, feelings of love and passion tend to dip that day.",
-   "pub_date": "2026-11-06T14:00:30.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Transgender women show distinct patterns of resting brain activity, small study finds",
-   "link": "https://www.psypost.org/transgender-women-show-distinct-patterns-of-resting-brain-activity-small-study-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A small brain imaging study found that transgender women differed from both cisgender men and women in brain networks that handle bodily sensations and movement. On most measures, cisgender men fell between the two other groups.",
-   "pub_date": "2026-11-06T13:00:28.000Z",
-   "is_read": false
-  },
-  {
-   "title": "In strained families, extraverted parents are more likely to be cut off by their adult children",
-   "link": "https://www.psypost.org/in-strained-families-extraverted-parents-are-more-likely-to-be-cut-off-by-their-adult-children/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Enthusiastic, outgoing parents may be more likely to be cut off by adult children in tense relationships, possibly because their bids for frequent contact feel overwhelming, the researchers suggest.",
-   "pub_date": "2026-11-06T12:00:26.000Z",
-   "is_read": false
-  },
-  {
-   "title": "A 1972 school law had an unexpected effect on dementia 50 years later",
-   "link": "https://www.psypost.org/a-1972-school-law-had-an-unexpected-effect-on-dementia-50-years-later/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Staying in school one extra year as a teenager appears to lower the chances of a dementia diagnosis later in life, and the benefit seemed strongest among people genetically predisposed to the disease.",
-   "pub_date": "2026-11-06T11:00:21.000Z",
-   "is_read": false
-  },
-  {
    "title": "Magic mushrooms rewire the brain in a way scientists didn't expect",
    "link": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm",
    "source": "Science Daily 心理学",
    "category": "psychology",
    "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differently in healthy and chronically stressed mice, potentially helping repair brain circuits damaged by prolonged stress. Most intriguingly, they identified a way to trigger this brain",
    "pub_date": "2026-11-07T00:33:47.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Scientists discover hidden brain changes linked to common sleep disorders",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
+   "source": "Science Daily 心理学",
+   "category": "psychology",
+   "summary": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior. The findings, drawn from 57 brain imaging studies, reveal both shared and disorder-specific patterns that could lead to more targeted treatments.",
+   "pub_date": "2026-11-08T04:47:52.000Z",
    "is_read": false
   },
   {
@@ -2242,15 +2251,6 @@
    "category": "psychology",
    "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control how those cells mature and rebuild protective nerve insulation. The same system also influences brain development and the thickness of myelin later in life. The findings could offe",
    "pub_date": "2026-08-14T11:35:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
-   "link": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
-   "source": "Science Daily 心理学",
-   "category": "psychology",
-   "summary": "Scientists have pinpointed a brain network—and its distinctive electrical rhythm—that appears to drive the benefits of deep brain stimulation for Parkinson’s disease. The discovery could lead to more precise, personalized stimulation settings and better results for patients.",
-   "pub_date": "2026-08-12T13:20:59.000Z",
    "is_read": false
   },
   {
