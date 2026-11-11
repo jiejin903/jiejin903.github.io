@@ -1,96 +1,168 @@
 {
- "updated_at": "2026-11-10T04:30:12.112Z",
+ "updated_at": "2026-11-11T02:34:19.211Z",
  "ok": 14,
  "fail": 1,
  "items": [
   {
-   "title": "“AI毁了我的计算机学位”",
-   "link": "https://www.qbitai.com/2026/11/508706.html",
+   "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+   "link": "https://www.qbitai.com/2026/11/509017.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "教授也用Claude糊弄…",
-   "pub_date": "2026-11-09T08:57:20.000Z",
+   "summary": "近亿元融资刚刚落袋",
+   "pub_date": "2026-11-10T08:33:25.000Z",
    "is_read": false
   },
   {
-   "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-   "link": "https://www.qbitai.com/2026/11/507843.html",
+   "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+   "link": "https://www.qbitai.com/2026/11/508996.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "",
-   "pub_date": "2026-11-09T08:44:00.000Z",
+   "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+   "pub_date": "2026-11-10T07:57:45.000Z",
    "is_read": false
   },
   {
-   "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-   "link": "https://www.qbitai.com/2026/11/508694.html",
+   "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+   "link": "https://www.qbitai.com/2026/11/508998.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "11月9日，千问办公发布2.0版本",
-   "pub_date": "2026-11-09T08:34:03.000Z",
+   "summary": "让每一次任务，都成为下一次进步的起点",
+   "pub_date": "2026-11-10T07:56:29.000Z",
    "is_read": false
   },
   {
-   "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
-   "link": "https://www.qbitai.com/2026/11/508690.html",
+   "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+   "link": "https://www.qbitai.com/2026/11/508991.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
-   "pub_date": "2026-11-09T08:26:45.000Z",
+   "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
+   "pub_date": "2026-11-10T07:50:26.000Z",
    "is_read": false
   },
   {
-   "title": "L3大撤退！奔驰宝马官宣不玩了：还没L2好用",
-   "link": "https://www.qbitai.com/2026/11/508629.html",
+   "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+   "link": "https://www.qbitai.com/2026/11/508985.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "最早量产的亲自泼冷水",
-   "pub_date": "2026-11-09T07:02:36.000Z",
+   "summary": "加速东部城市型智算中心向E-AIDC演进",
+   "pub_date": "2026-11-10T07:33:19.000Z",
    "is_read": false
   },
   {
-   "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
-   "link": "https://www.qbitai.com/2026/11/508607.html",
+   "title": "Token卷到触觉了！机器人终于有了通用手感",
+   "link": "https://www.qbitai.com/2026/11/508919.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "Worker不够了主管Agent还能自己招！",
-   "pub_date": "2026-11-09T05:47:58.000Z",
+   "summary": "蚂蚁灵波开源LingBot-Touch",
+   "pub_date": "2026-11-10T07:26:53.000Z",
    "is_read": false
   },
   {
-   "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-   "link": "https://www.qbitai.com/2026/11/508603.html",
+   "title": "Fable 5.2首批实测来了！网友：Opus突然不香了",
+   "link": "https://www.qbitai.com/2026/11/508912.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。",
-   "pub_date": "2026-11-09T05:09:23.000Z",
+   "summary": "作曲、拍片、3D建模一条龙全包圆",
+   "pub_date": "2026-11-10T07:03:43.000Z",
    "is_read": false
   },
   {
-   "title": "当AI在加速狂奔，什么反而应该“慢”下来？",
-   "link": "https://www.qbitai.com/2026/11/508586.html",
+   "title": "100轮图像编辑这道「毙刷题」，新出的Seedream 5.5稳上来了！",
+   "link": "https://www.qbitai.com/2026/11/508828.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "“让人放心，把人放大。”",
-   "pub_date": "2026-11-09T03:47:12.000Z",
+   "summary": "速度提了，API价格降了",
+   "pub_date": "2026-11-10T02:48:22.000Z",
    "is_read": false
   },
   {
-   "title": "寻找最会讲故事的AI创作者，虎鲸文娱鲸锐AI创作大赛走进清华大学",
-   "link": "https://www.qbitai.com/2026/11/508566.html",
+   "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+   "link": "https://www.qbitai.com/2026/11/508798.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "11月6日，清华大学举行“新技术激发文化新活力，用AI讲好中国故事”鲸锐AI创作大赛大咖对谈活动",
-   "pub_date": "2026-11-09T02:19:08.000Z",
+   "summary": "办公AI结束单机模式",
+   "pub_date": "2026-11-10T01:27:09.000Z",
    "is_read": false
   },
   {
-   "title": "黄仁勋承认出轨发全员信道歉！英伟达启动紧急调查",
-   "link": "https://www.qbitai.com/2026/11/508498.html",
+   "title": "中大本科生反AI逆向项目火了！让黑客Token账单原地暴涨300倍",
+   "link": "https://www.qbitai.com/2026/11/508787.html",
    "source": "量子位",
    "category": "ai",
-   "summary": "英伟达暗盘跌2%",
-   "pub_date": "2026-11-09T00:40:50.000Z",
+   "summary": "投毒 → 耗尽预算 → 诱导误判",
+   "pub_date": "2026-11-09T22:11:49.000Z",
+   "is_read": false
+  },
+  {
+   "title": "双11冲刺进行时！抖音商城服饰趋势品牌有哪些",
+   "link": "https://www.leiphone.com/category/industrynews/c57qy1fVQl3PL0DL.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "双11进入最后冲刺，秋冬服饰需求仍在持续释放。11月10日，抖音商城双11服饰趋势品牌发布，女装、男装、童装童鞋、内衣配饰、鞋靴运动、箱包装备六大细分榜单同期出炉，呈现出泛时尚消费领域的热门风向。 01 趋势女装 秋冬换季叠加降温节点，冬装成为女装消费的主力。 趋势女装榜上，AP、MSBEAST/野兽小姐、RENATHING位列前三。 “既要暖暖的，也要美美的”，正成为女性冬装消费新主张。皮草日常化与版型剪裁的设计升级，直接带动了高客单女装品类的爆发。 02 趋势男装 男装的消费偏好，正从“能穿”向风格与场景迁移。 趋势男装榜上，MBNL-F/秦磊、悍石、JY GTAL拿下前三席位。 男装同样在向“既要保暖又要时尚”演进。以榜首的秦磊男装为例，其秀场款与高客单商品的走俏，正成为拉动男装生意增量的新机会点。 03 趋势童装童鞋 亲子消费更看重信任与陪伴，这份信任首先落在“人”身上。 趋势童装",
+   "pub_date": "2026-11-10T14:37:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "阿里巴巴：已正式申请平头哥独立上市",
+   "link": "https://www.leiphone.com/category/industrynews/dew7AYBxkGAYilZj.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "11月10日晚，阿里巴巴集团发布公告：已向香港联交所交表，申请旗下子公司平头哥独立上市。上市完成后，平头哥仍将是阿里巴巴子公司。 公告显示，2026年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。 截至2026年4月，平头哥真武系列AI芯片累计出货量达56万片。平头哥上市安排，将有助于市场更清晰定价阿里巴巴核心业务价值，并展现平头哥自身作为中国领先全栈数据中心芯片提供商的商业价值，吸引半导体和AI算力赛道专业投资者，也将进一步支撑平头哥加大研发和人才投入，提升国产优质算力供给。",
+   "pub_date": "2026-11-10T12:46:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "吉利星愿上市两年，刷新全球最快百万销量速度纪录",
+   "link": "https://www.leiphone.com/category/transportation/B2THcx5nSUHfjI4N.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "11月6日，吉利银河全球用户音乐嘉年华暨吉利星愿百万达成宠粉权益发布会，在杭州举行。上市24个月，吉利星愿累计销量突破100万辆，不到一分钟售出一辆，成为全球最快达成百万销量的新能源汽车，以现象级爆款姿态改写了全球纯电小车市场的竞争格局。 面向百万用户的信赖与期待，吉利星愿发布STAR限定系列新版型——STAR Ace与STAR Chill，限时权益价8.88万元；同时“百万达成宠粉权益”也在大会上发布，用户登录吉利银河App参与抽奖，就有机会获得爷爷不泡茶奶茶券、吉利星愿百万销量纪念徽章、吉利星愿车载生态实用精品、卡皮巴拉治愈IP周边等好礼。吉利星愿以持续焕新的产品价值与始终在线的用户权益，回应百万用户的信赖与期待。 2024年10月上市，仅用两年吉利星愿累计销量便突破100万辆，不到一分钟售出一辆。百万用户的选择，让“国民神车”的口碑越扎越稳，也为全球小车市场树立了新的标杆。 吉利星愿",
+   "pub_date": "2026-11-10T12:44:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "灵光接入什么值得买，AI助理开始帮用户“盯好价”",
+   "link": "https://www.leiphone.com/category/industrynews/Z3dOHYCNYfPNwijf.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "从商品推荐到价格追踪，个人AI助理进一步深入日常消费场景。 11月10日消息，蚂蚁集团旗下个人AI助理灵光接入消费内容平台「什么值得买」，将商品信息、消费决策支持等服务进一步纳入灵光。 此次接入是灵光持续扩展开放服务生态的又一动作。此前，灵光已陆续接入支付宝、钉钉、飞书、米家、微信读书、哈啰打车等40个连接器服务，能力覆盖工作、出行、家庭管理和日常生活等多个场景。 「什么值得买」长期积累了商品信息、消费内容和优惠信息等资源。对于灵光而言，接入专业消费信息服务，有助于提升AI在具体消费场景中的信息获取和服务能力；对于什么值得买而言，个人AI助理也提供了一个新的用户需求入口。此次连接「什么值得买」后，灵光将更加精准的实现持续关注商品价格变化，管理好用户“买什么、什么时候买更划算”这类日常事务。 对于消费者而言，购物的一大难题并不是下单，而是如何在海量商品、复杂促销和不断变化的价格中作出判断。以",
+   "pub_date": "2026-11-10T08:41:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "四维图新创想大会 | 以数据与算力为基，SEEWAY.AI驶向新一站",
+   "link": "https://www.leiphone.com/category/industrynews/dZrtBnDtC720JWGW.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "11月6日，四维图新在上海举办2026 EVOLUTION创想大会。CEO 程鹏全面解读穿越 “极点” 的破局方向，以数据与算力为基，答行业焦点之问，并正式公布向移动智能体领域拓展的战略布局。 数据之战，先拿好合规这张入场券 \"过去十年，中国新能源赢在电池；未来十年，中国汽车要赢在数据。\"程鹏的判断直指行业下一个核心战场——数据已成为汽车智能化的\"第二战场\"，而用好数据的前提，是合规。 监管的门槛正在快速抬高。2026年9月，GB 48319与GB 48320两项时空数据安全新强标正式发布，将于2027年10月实施，四维图新作为参编单位参与起草。叠加6部基础法律与多部门监管，合规已不是可选项，而是智能化绕不开的\"入场券\"。 二十多年深耕数据领域，四维图新构建了从数据来源到合规应用的完整闭环链路，让数据安全流动、持续进入智能化迭代。目前累计完成合规交付案例170+，服务主流车企及行业客户60",
+   "pub_date": "2026-11-10T07:23:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Fable 5.2 “撞车”蚂蚁灵波触觉模型，CEO 朱兴：两类模型协同将加速具身产业成熟",
+   "link": "https://www.leiphone.com/category/industrynews/Qhv28gnFkgFPCbXV.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "11 月 10 日，Claude Fable 5.2 发布同日，蚂蚁灵波科技开源触觉基础模型 LingBot-Touch。一款面向数字世界的通用大模型，一款面向物理操作闭环的具身基础模型，同一天走进公众视野。 这两条技术路线的关系，正是当下具身智能行业讨论的焦点。在蚂蚁灵波看来，通用大模型与具身基础模型更接近 1+1＞2 的协同关系：前者增强对任务和环境的理解与推理，后者补齐物理感知与闭环操作能力，两者齐头并进，才能共同加速具身产业成熟。 此次开源的 LingBot-Touch 基于近 5000 小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类主流传感原理，可将不同信号转化为同一套触觉表征，供不同灵巧手和动作模型使用，让机器人在“看得清楚、想得明白”的同时，进一步补齐精细操作所需的触觉感知。 此前，蚂蚁灵波通用大脑已覆盖高精度空间感知、高动态环境交互和可泛化灵巧操作，此次 LingB",
+   "pub_date": "2026-11-10T06:49:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "从众筹爆款到现货开售，妙动科技Beni机器人开创影像新视角",
+   "link": "https://www.leiphone.com/category/industrynews/Hh7kHix5gWd00cEC.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "2026 年 11 月 10 日，消费级机器人公司妙动科技宣布，旗下全球首款多地形跟拍机器人 Beni 正式开启现货发售：标准套装售价 4999 元、探索套装售价 5799 元，国内用户可通过京东商城购买，即买即发货。 一个月前，Beni 刚以筹资超 500 万美元、全球 7926 名支持者的成绩，创下Kickstarter 平台消费级机器人众筹金额历史第一的纪录。今天，它已从“众筹爆款”进入“现货开售”的阶段。对成立不到两年的妙动科技而言，此次Beni开售不止是面向全球用户推出首款产品，更意味着将前沿机器人技术与专业影像工程融合，探索出具身智能在消费级市场的首个落地场景。 从“人拿相机”到“相机跟人”：机器人打开影像新空间 如果将现有的消费级影像硬件按“视角×场景”来切分：运动相机占据“第一视角×运动”，无人机占据“航拍视角×旅行风景”，手持云台相机占据“手持视角×日常 Vlog”，而在",
+   "pub_date": "2026-11-10T05:02:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "23.98万元起，智己LS8 NEO开始反“配置表”",
+   "link": "https://www.leiphone.com/category/transportation/P7zNFoMQbmQynIE8.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "过去两年，25万元级新能源SUV很容易陷入一种同质化。 冰箱、彩电、大沙发越来越普遍，800V、高阶辅助驾驶也逐渐从少数车型的卖点，变成一张越来越标准化的配置表。 于是一个有意思的问题出现了： 当大家都有这些东西之后，一台车还能靠什么拉开差距？ 11月5日，智己LS8 NEO纯电正式上市，权益价23.98万元起。 这款车给出的答案，多少有些“返璞归真”。 智己这次没有只强调某一个新功能，而是把宣传口号直接定成了八个字：认真造车，造科技好车。 乍看之下，这不像新能源时代最性感的表达。 但放在今天的市场环境里，反而值得琢磨。 过去几年，中国新能源车快速完成了一轮配置平权：几十万元豪华车才有的座椅、音响、冰箱，被一路下放到20万元级；高压快充、大模型座舱、高阶辅助驾驶，也越来越难成为一家车企独有的故事。 行业开始进入下一个阶段。 消费者最终会重新追问一些很朴素的问题：这辆车开起来怎么样，安全冗余",
+   "pub_date": "2026-11-10T03:08:00.000Z",
    "is_read": false
   },
   {
@@ -202,75 +274,57 @@
    "is_read": false
   },
   {
-   "title": "从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”",
-   "link": "https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html",
-   "source": "雷峰网",
+   "title": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
+   "link": "https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "9 月22 日，张 江人工智能创新小镇的一间路演厅里，二十余支极早期创业团队依次登台。这里没有太多成熟企业的标准答案：不少公司成立尚不足一年，有的还没有完整产品，更谈不上稳定营收。但在这场结营仪式上，团队们迎来了一个重要节点——他们全部与浦东创投完成签约，入营阶段获得的种子支持得到确认，其中超过半数项目获得追加投资，金额最高可达150万元。同一天，第三期AI训练营面向全球开启招募。 一场结营仪式，呈现出浦东创投正在推进的一条新路径：让一笔投资成为入口，再把课程、资本、产业场景和创业伙伴连接起来。对年轻团队来说，创业不必从零开始单打独斗；走进训练营，也意味着走进一个可以持续寻找资源、碰撞想法、拓展合作的“朋友圈”。 入营即投：耐心资本托住“最初一公里” AI创业有一个现实难关：最需要资金的时候，往往也是最难证明自己的时候。产品还在开发，客户尚未形成，营收曲线无从谈起，传统投资机构很难仅凭一份",
-   "pub_date": "2026-11-09T07:17:00.000Z",
+   "summary": "买情怀，送耳机 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-11T02:08:47.000Z",
    "is_read": false
   },
   {
-   "title": "投早、投小、投硬科技：浦东是AI创业者绕不开的科技梦想启航热土",
-   "link": "https://www.leiphone.com/category/industrynews/XXfvZnVJPOL1N6yx.html",
-   "source": "雷峰网",
+   "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+   "link": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "对一支刚刚组建的 AI 创业团队来说，最难的时刻，往往不是产品上线之后，而是产品还没成形之前：技术路线有了，核心成员到位了，甚至已经看见了一个值得投入的市场，却拿不出成熟产品和营收数据。此时，第一笔融资从哪里来？谁愿意在最早期相信一群创业者？这张支票，常常决定一个技术梦想能不能真正启程。 今年3月17日，浦东创投AI训练营首期正式开营，24名创始人走进张江人工智能创新小镇。根据公开报道，入营团队即与浦东创投完成签约，获得保底30万元股权投资；经过营中观察和结营评估，优质项目还可追加投资，最高至150万元，投资机制强调不设对赌回购条款。把资金支持放到产品和收入尚未成形的阶段，浦东正在用一套具体机制回答创业者最迫切的问题：当梦想还只是一颗种子，是否有人愿意先浇下第一桶水？ 为何是“投早、投小、投硬科技” AI产业热度不断升高，但赛道热闹，并不意味着极早期团队就能轻松拿到融资。对科学家创业、青年",
-   "pub_date": "2026-11-09T07:05:00.000Z",
+   "summary": "非付费用户什么时候能用上？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-11T00:26:39.000Z",
    "is_read": false
   },
   {
-   "title": "FAV Lab 未来视听实验室正式开业：华强北“硬科技潮品首发地”",
-   "link": "https://www.leiphone.com/category/industrynews/XMSv9fRcpKP6fRXD.html",
-   "source": "雷峰网",
+   "title": "早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜",
+   "link": "https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "11月1日，坐落于“中国电子第一街”华强北核心地段、毗邻深南大道的 FAV Lab 未来视听实验室 正式宣告开业。FAV Lab由世界人工智能眼镜联盟（WAEA）与世界超高清视频产业联盟（UWA）共同发起，镜界探索负责投资运营，定位为全球AI视听场景展示体验中心、硬科技潮品首发地、国际买手选品一站式枢纽，将打造华强北极具辨识度的“街头超级科技橱窗”和面向海内外客商的国际化科技会客厅。 FAV Lab 采用独立全通透地面单层展馆形态，以“多重现实共生”为设计理念，在全球 AI+硬件最大集散地，打造出一座生态友好、邻里友好、国际友好的概念建筑。馆内围绕 未来城市、未来生活、未来出行、未来工作 四大场景布设沉浸式互动展项，参观者可即拿即试，由旁观者转变为虚实融合技术的体验者。 依托华强北的产业沃土，FAV Lab 已集聚30多个前沿品牌。这片1.45平方公里的区域聚集着11.5万家商事主体、上百",
-   "pub_date": "2026-11-09T06:23:00.000Z",
+   "summary": "· 李斌：蔚来 ES9 将迎来第 4 万辆交付 · 台积电 10 月营收创今年单月新高，同比增长近六成 · 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-11T00:20:24.000Z",
    "is_read": false
   },
   {
-   "title": "第八届世界浙商大会举行AI专题活动支付宝分享AI办事实践",
-   "link": "https://www.leiphone.com/category/industrynews/41xBwd2JagAdaaxT.html",
-   "source": "雷峰网",
+   "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+   "link": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "11月6日，第八届世界浙商大会在杭州开幕。大会由浙江省委、省政府主办，省委统战部、省工商联、浙商总会承办，开幕式展示了近两年浙江民营企业主导或参与的科技创新成果，并发布创新实践案例。 其中，由省委统战部、省工商联报送的《数字赋能送政策，精准直达惠民企》案例成功入选，成为大会发布的省级单位创新实践案例之一。该案例依托省工商联牵头建设的“浙里政策惠企精准直达大模型”平台，运用人工智能技术构建惠企政策“归集—解读—推送—评价”业务闭环，推动实现从“企业找政策”向“政策找企业”转变。支付宝作为平台政策精准触达的关键通道，通过“浙里政策惠企”小程序为企业提供个性化政策推荐服务。企业可在支付宝内直接接收与自身行业、规模、发展阶段相匹配的政策推送，实现从“政策找企业”到“企业享政策”的闭环落地。 11月7日，“浙商创新创业AI进化论——企业数智变革实践与向新破局”专题活动在浙江省人民大会堂国际会议厅举行",
-   "pub_date": "2026-11-09T03:43:00.000Z",
+   "summary": "4K 像素最快 10 秒生成 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-10T16:04:24.000Z",
    "is_read": false
   },
   {
-   "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
-   "link": "https://www.leiphone.com/category/industrynews/tLk5dflVBL8euzAW.html",
-   "source": "雷峰网",
+   "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
+   "link": "https://www.ifanr.com/1688570?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。该模型基于Qwen3.8-Flash进行训练，总参数180B、激活参数6B，重点提升Agent任务执行与软件工程能力，目前开放限量内测。 据公司公布的对照评测，相较基座模型，新模型在Agents’ Last Exam上的整体得分提高9.23分，在Natural Language to Repository评测上的整体得分提高5.92分。其中，物理科学任务提升超过20分，开发工具与测试、Web开发、安全认证与加密等方向也有改善。 本次发布延续了NeoHorse系列对递归自我改进（RSI）的探索，基元律动将其称为这一机制的“第二圈”。9月发布NeoHorse-1后，公司将上一代模型重新放回模型池，在实际任务中收集执行反馈，再将这些经验用于后续训练，模型训练尺度也从首轮4B、",
-   "pub_date": "2026-11-09T02:25:00.000Z",
+   "summary": "油门焊死 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-10T09:30:18.000Z",
    "is_read": false
   },
   {
-   "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
-   "link": "https://www.leiphone.com/category/industrynews/zGBfQTDDCpSCfYIK.html",
-   "source": "雷峰网",
+   "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
+   "link": "https://www.ifanr.com/1688755?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "加速时代的悖论： 当“你的 AI”开始对“我的 AI”说话 2026 年，人工智能正在经历一次深刻的角色跨越：从过去几年的“对话交互”，全面走向“自主交付”。 过去，AI 停留在屏幕侧边栏的对话框里，你问它答，提供的是参考建议；而今天，智能体（Agent）开始走出对话框，真正嵌入日常工作流。作为国内用户规模最大的 AI 办公提效智能体，腾讯 WorkBuddy 在经历 100 余次版本迭代后，已累计承接超过 90 亿次任务请求，带动 Token 消耗增长 50 倍以上；据第三方 AI 产品榜 8 月桌面端数据，国内 AI 办公智能体桌面端总月活已达 3316 万，其中 WorkBuddy 位列总榜第一，月活规模占该赛道三分之一以上。 在企业的业务一线，蒙牛通过内部 AI 创新大赛跑出 45 个“数字员工”，将单牧场诊疗时效从 1.5 天缩短到 2 小时；上海家化在 9 大部门规模化落地 W",
-   "pub_date": "2026-11-09T02:23:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "独家丨飞行相机鼻祖「零零无限」，估值 10 亿美元",
-   "link": "https://www.leiphone.com/category/weiwu/qIl3bfS2v2a8zI7D.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "一年两轮融资落地，产品 VERSA 掀起热潮。 作者丨杨文静 编辑丨姚单 雷峰网·鲸犀独家获悉，飞行相机鼻祖 「零零无限」 最新一轮融资 估值已达 10 亿美金，跻身独角兽行列 。 据接近零零无限的人士估算， 公司今年四季度收入预计约达六七个亿。 而此前信息披露，2025 年零零营收已突破 10 亿元人民币，以此来看，今年零零或又将创造一个营收高点。 今年，零零无限共披露两轮融资，其中包括博裕资本、襄禾资本、德联资本等在内的 D 轮融资，以及蚂蚁集团旗下公司的 D+ 轮融资。而据接近零零无限的投资人透露， 目前要和公司谈融资，tittle 必须是机构合伙人级别。 行业周知，零零无限曾有一段极其艰难的时间。 据多位接近零零的人士提到，2025 年年中在与投资方接触时，公司资金非常紧张，融资估值还是 2022 年前后的数字，意味着这家公司两三年没涨估值。 但在此后没多久，旗下哈浮 HoverA",
-   "pub_date": "2026-11-09T02:04:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "解读丨00 后，用 1000 多天重做一款泡沫轴",
-   "link": "https://www.leiphone.com/category/weiwu/TNH35shf3JHDI9FW.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "公司已经完成三轮融资，二代产 品云望 A1 Lite 已正式在线下首发。 作者丨杨文静 编辑丨 姚单 投资人只和他聊过一场足球，就做出了决定。 不久前，云望创新第二代全自动泡沫轴 A1 Lite 线下首发，雷峰网·鲸犀见到了这个团队。他们已经完成三轮融资，并以一年一代的进度在迭代产品。 这是一个 00 后团队，创始人孙英东并不是世俗意义上的“优生”，却是一个爱动手的小孩。高中时他就开始参加机器人比赛，大学就读华科，也由此进入了李泽湘教授的孵化体系。 2023 年，云望创新成立，他们决定做一款自动按摩肌肉的智能泡沫轴。这次见面，我们聊了聊产品，也聊了聊这个00后的经历，一条运动健康硬件的创业路径浮现出来。 01 三块壁垒之外 一款智能泡沫轴，它必须够细、够有劲，还得知道自己在按哪儿。孙英东把难点拆成三块：电机、发泡工艺、身体曲线的算法。 “电机是最难的。” 这根轴要在人的后背底下移动，直径越",
-   "pub_date": "2026-11-09T01:56:00.000Z",
+   "summary": "在习以为常的将就里，戴森的执拗是一种稀缺的浪漫 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-10T09:30:04.000Z",
    "is_read": false
   },
   {
@@ -400,57 +454,48 @@
    "is_read": false
   },
   {
-   "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
-   "link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "性能和豪华，仰望说它全都要。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-07T16:50:33.000Z",
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+   "pub_date": "2026-11-12T00:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
-   "link": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Helping caregivers use AI in everyday life",
+   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 · 张雪：将参加 36 名重庆大学学生的校招二面 · 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-07T00:27:17.000Z",
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+   "pub_date": "2026-11-10T12:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "iMac M6 体验：外表人畜无害 ⇄ 内核凶猛澎湃",
-   "link": "https://www.ifanr.com/1688638?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Introducing Businesses in ChatGPT",
+   "link": "https://openai.com/index/introducing-businesses-chatgpt",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "在 AI 与 Agent 时代，人们可以围绕 iMac 构建一种新的「类家庭」生活 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-06T11:00:03.000Z",
+   "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "pub_date": "2026-11-10T10:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
-   "link": "https://www.ifanr.com/1688195?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Closing the AI guidance gap in education",
+   "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "站在世界之巅。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-06T09:25:33.000Z",
+   "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+   "pub_date": "2026-11-10T09:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
-   "link": "https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "link": "https://openai.com/index/ai-effect-on-freelance-work",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "真正重要的产品，往往以充满争议的姿态出现。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-06T05:26:24.000Z",
-   "is_read": false
-  },
-  {
-   "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
-   "link": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人 · 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因 · 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-06T00:15:15.000Z",
+   "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+   "pub_date": "2026-11-10T07:00:00.000Z",
    "is_read": false
   },
   {
@@ -589,48 +634,30 @@
    "is_read": false
   },
   {
-   "title": "A thousand fewer paths to root",
-   "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "source": "OpenAI Blog",
+   "title": "Gemini Intelligence: New features, on more devices",
+   "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "source": "Google AI Blog",
    "category": "ai",
-   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-   "pub_date": "2026-11-04T08:00:00.000Z",
+   "summary": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+   "pub_date": "2026-11-10T19:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "Introducing Images 2.6",
-   "link": "https://openai.com/index/introducing-images-2-6",
-   "source": "OpenAI Blog",
+   "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "source": "Google AI Blog",
    "category": "ai",
-   "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-   "pub_date": "2026-11-04T00:00:00.000Z",
+   "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+   "pub_date": "2026-11-10T14:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-   "link": "https://openai.com/index/devrev-enterprise-self-service",
-   "source": "OpenAI Blog",
+   "title": "Google Cloud launches Gemini for healthcare.",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "source": "Google AI Blog",
    "category": "ai",
-   "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-   "pub_date": "2026-11-04T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Accelerating engineering for the physical world",
-   "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-   "pub_date": "2026-11-03T12:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "link": "https://openai.com/index/cisco-cyber",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
-   "pub_date": "2026-11-03T08:00:00.000Z",
+   "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+   "pub_date": "2026-11-10T13:00:00.000Z",
    "is_read": false
   },
   {
@@ -787,30 +814,156 @@
    "is_read": false
   },
   {
-   "title": "DevFest is back",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-   "source": "Google AI Blog",
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "source": "TechCrunch AI",
    "category": "ai",
-   "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-   "pub_date": "2026-09-14T16:00:00.000Z",
+   "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+   "pub_date": "2026-11-10T21:08:52.000Z",
    "is_read": false
   },
   {
-   "title": "3 ways to prep for your next big race with Search",
-   "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-   "source": "Google AI Blog",
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "source": "TechCrunch AI",
    "category": "ai",
-   "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-   "pub_date": "2026-09-10T16:00:00.000Z",
+   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+   "pub_date": "2026-11-10T20:52:13.000Z",
    "is_read": false
   },
   {
-   "title": "Get ready for the game with new football features in Search",
-   "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-   "source": "Google AI Blog",
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "source": "TechCrunch AI",
    "category": "ai",
-   "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
-   "pub_date": "2026-09-09T16:00:00.000Z",
+   "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+   "pub_date": "2026-11-10T19:57:52.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+   "pub_date": "2026-11-10T19:23:34.000Z",
+   "is_read": false
+  },
+  {
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+   "pub_date": "2026-11-10T19:03:52.000Z",
+   "is_read": false
+  },
+  {
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "pub_date": "2026-11-10T18:49:52.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+   "pub_date": "2026-11-10T17:30:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+   "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+   "pub_date": "2026-11-10T17:04:19.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+   "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+   "pub_date": "2026-11-10T15:54:08.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+   "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+   "pub_date": "2026-11-10T15:29:30.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+   "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+   "pub_date": "2026-11-10T14:05:10.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+   "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+   "pub_date": "2026-11-10T14:01:39.000Z",
+   "is_read": false
+  },
+  {
+   "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+   "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+   "pub_date": "2026-11-10T14:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+   "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+   "pub_date": "2026-11-10T14:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+   "pub_date": "2026-11-10T13:30:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+   "pub_date": "2026-11-10T13:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "pub_date": "2026-11-10T07:00:00.000Z",
    "is_read": false
   },
   {
@@ -841,156 +994,21 @@
    "is_read": false
   },
   {
-   "title": "The race is on to sue Nvidia",
-   "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-   "source": "TechCrunch AI",
+   "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+   "link": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+   "source": "MIT Technology Review",
    "category": "ai",
-   "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-   "pub_date": "2026-11-09T22:23:42.000Z",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
+   "pub_date": "2026-11-10T13:10:00.000Z",
    "is_read": false
   },
   {
-   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-   "source": "TechCrunch AI",
+   "title": "Evolving metal extraction processes",
+   "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+   "source": "MIT Technology Review",
    "category": "ai",
-   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-   "pub_date": "2026-11-09T20:09:06.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-   "pub_date": "2026-11-09T19:24:51.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-   "pub_date": "2026-11-09T18:09:52.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-   "pub_date": "2026-11-09T18:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-   "pub_date": "2026-11-09T16:56:54.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-   "pub_date": "2026-11-09T16:12:28.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-   "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-   "pub_date": "2026-11-09T14:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-   "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-   "pub_date": "2026-11-09T05:26:29.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "In a memo to the company, Huang admitted that he had an affair.",
-   "pub_date": "2026-11-08T21:00:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-   "pub_date": "2026-11-07T22:07:22.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-   "pub_date": "2026-11-07T21:17:08.000Z",
-   "is_read": false
-  },
-  {
-   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-   "pub_date": "2026-11-07T04:16:43.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "The deal highlights the challenges of developing massive AI data centers.",
-   "pub_date": "2026-11-07T01:40:28.000Z",
-   "is_read": false
-  },
-  {
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "pub_date": "2026-11-06T22:53:46.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-   "pub_date": "2026-11-06T18:44:38.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-   "pub_date": "2026-11-06T18:44:20.000Z",
+   "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have become larger and control systems…",
+   "pub_date": "2026-11-10T13:00:00.000Z",
    "is_read": false
   },
   {
@@ -1066,21 +1084,39 @@
    "is_read": false
   },
   {
-   "title": "A new bill could change how the US builds energy infrastructure",
-   "link": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-   "source": "MIT Technology Review",
+   "title": "llm-gemini 0.36",
+   "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+   "source": "Simon Willison",
    "category": "ai",
-   "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally…",
-   "pub_date": "2026-11-05T10:00:00.000Z",
+   "summary": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at launch (that's GPT-6.1 Sol / Claude Sonnet 5.5 prices) but scheduled to double in price to $4/$20 on December 1st (same as Opus 5.5). Here are three pelicans for th",
+   "pub_date": "2026-11-10T20:09:44.000Z",
    "is_read": false
   },
   {
-   "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-   "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-   "source": "MIT Technology Review",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "source": "Simon Willison",
    "category": "ai",
-   "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-   "pub_date": "2026-11-04T18:50:55.000Z",
+   "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced th",
+   "pub_date": "2026-11-10T07:28:21.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Quoting Prompting Claude Fable 5.2",
+   "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. In Anthropic’s testing on small coding tasks, when a prompt said nothing about ownership or presented the code base as someone else’s, the model tended to add to the existing structure, even when that repeated existing code. [...] If you want the model to improve the structure as it works, say that the c",
+   "pub_date": "2026-11-10T05:34:14.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Yonkers Rises",
+   "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and átomos around manhattan and queens and Brooklyn, use",
+   "pub_date": "2026-11-10T03:53:04.000Z",
    "is_read": false
   },
   {
@@ -1088,7 +1124,7 @@
    "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
    "source": "Simon Willison",
    "category": "ai",
-   "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. I've added them to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm llm install llm-anthropic llm keys set anthropic # paste key here llm -m claude-fable-5.2 \"Generate an SVG of a pelican riding a bicycle\" I ran pelicans at all five reasoning levels - low , medium , high , xhig",
+   "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! I've added the new models to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install llm",
    "pub_date": "2026-11-09T23:58:46.000Z",
    "is_read": false
   },
@@ -1318,210 +1354,264 @@
    "is_read": false
   },
   {
-   "title": "Quoting Ben Hylak",
-   "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. &mdash; Ben Hylak Tags: model-context-protocol , ai",
-   "pub_date": "2026-10-29T14:06:27.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Quoting Ted Sanders",
-   "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) ",
-   "pub_date": "2026-10-28T23:23:21.000Z",
-   "is_read": false
-  },
-  {
-   "title": "GitHub Octoverse 2026",
-   "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commi",
-   "pub_date": "2026-10-28T16:45:23.000Z",
-   "is_read": false
-  },
-  {
-   "title": "The October inflection point for vibe game development",
-   "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones ",
-   "pub_date": "2026-10-28T13:55:15.000Z",
-   "is_read": false
-  },
-  {
-   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-   "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "title": "A great old-timey game-programming hack (2013)",
+   "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 42 # Comments: 9",
-   "pub_date": "2026-11-10T03:20:06.000Z",
+   "summary": "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 11 # Comments: 0",
+   "pub_date": "2026-11-11T01:56:31.000Z",
    "is_read": false
   },
   {
-   "title": "Horible public key tricks",
-   "link": "https://maurycyz.com/projects/badcert/",
+   "title": "LLMs Play Zachtronics' TIS-100",
+   "link": "https://tis-100.wincon.dev/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://maurycyz.com/projects/badcert/ Comments URL: https://news.ycombinator.com/item?id=50434264 Points: 64 # Comments: 30",
-   "pub_date": "2026-11-10T00:07:17.000Z",
+   "summary": "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 7 # Comments: 0",
+   "pub_date": "2026-11-11T00:37:05.000Z",
    "is_read": false
   },
   {
-   "title": "Fable 5.2 one-shotted my nephew's dream game",
-   "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+   "title": "AI is an information gateway. Audiences still don't want it making their news",
+   "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game Comments URL: https://news.ycombinator.com/item?id=50433659 Points: 249 # Comments: 168",
-   "pub_date": "2026-11-09T23:08:13.000Z",
+   "summary": "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 11 # Comments: 1",
+   "pub_date": "2026-11-11T00:15:33.000Z",
    "is_read": false
   },
   {
-   "title": "Exact – a new cross platform UI framework",
-   "link": "https://github.com/expo/exact",
+   "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+   "link": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 80 # Comments: 36",
-   "pub_date": "2026-11-09T22:59:13.000Z",
+   "summary": "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 21 # Comments: 3",
+   "pub_date": "2026-11-10T23:41:41.000Z",
    "is_read": false
   },
   {
-   "title": "TPU 8tx and TPU 8i Max",
-   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+   "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+   "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 228 # Comments: 70",
-   "pub_date": "2026-11-09T21:56:57.000Z",
+   "summary": "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 260 # Comments: 109",
+   "pub_date": "2026-11-10T22:17:56.000Z",
    "is_read": false
   },
   {
-   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-   "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "title": "$30M Raised to Redo the CPU",
+   "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 313 # Comments: 230",
-   "pub_date": "2026-11-09T20:04:55.000Z",
+   "summary": "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 35 # Comments: 22",
+   "pub_date": "2026-11-10T22:14:03.000Z",
    "is_read": false
   },
   {
-   "title": "USPS now offers official ZIP Code boundary polygons",
-   "link": "https://postalpro.usps.com/zcb",
+   "title": "Six Math Essentials by Terence Tao",
+   "link": "https://teorth.github.io/tao-web/six-math-essentials.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 541 # Comments: 275",
-   "pub_date": "2026-11-09T19:58:59.000Z",
+   "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 140 # Comments: 26",
+   "pub_date": "2026-11-10T20:58:44.000Z",
    "is_read": false
   },
   {
-   "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-   "link": "https://parkgraph.com/parking-app-fees",
+   "title": "Sherman Anti-Trust Act (1890)",
+   "link": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 64 # Comments: 48",
-   "pub_date": "2026-11-09T19:55:53.000Z",
+   "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 75 # Comments: 45",
+   "pub_date": "2026-11-10T20:56:16.000Z",
    "is_read": false
   },
   {
-   "title": "CUI – Native UI components for C",
-   "link": "https://yappologistic.github.io/CUI/",
+   "title": "Scion is back and is going to sell a kei truck in America",
+   "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 165 # Comments: 88",
-   "pub_date": "2026-11-09T19:35:16.000Z",
+   "summary": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 340 # Comments: 253",
+   "pub_date": "2026-11-10T19:50:46.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
-   "link": "https://someonewashere.app/",
+   "title": "Research taste in history: the importance of learning Babylonian math",
+   "link": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here. It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours. I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac w",
-   "pub_date": "2026-11-09T18:50:56.000Z",
+   "summary": "Article URL: https://resobscura.substack.com/p/research-taste-in-history-the-importance Comments URL: https://news.ycombinator.com/item?id=50445279 Points: 12 # Comments: 0",
+   "pub_date": "2026-11-10T19:42:44.000Z",
    "is_read": false
   },
   {
-   "title": "E-means: Outperforming k-means in one-tenth the epochs",
-   "link": "https://e-means.github.io/",
+   "title": "What objective is reasoning solving?",
+   "link": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://e-means.github.io/ Comments URL: https://news.ycombinator.com/item?id=50429734 Points: 312 # Comments: 28",
-   "pub_date": "2026-11-09T18:45:43.000Z",
+   "summary": "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 110 # Comments: 49",
+   "pub_date": "2026-11-10T19:25:14.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-   "link": "https://meowdisplay.app/",
+   "title": "A comprehensive study of how fingerprintable users are",
+   "link": "https://fingerprinting.study/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Hey HN and Cats, thank you for checking this out! Github: https://github.com/raiseCatError/meowdisplay EDIT 2: I should've mentioned that MeowDisplay started as a fork of OpenDisplay: https://github.com/peetzweg/opendisplay which provided the foundational screen capture, virtual display, encoding and iPhone/iPad receivers. I've since taken it in a more phone-first direction, with work on the inter",
-   "pub_date": "2026-11-09T18:39:22.000Z",
+   "summary": "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 77 # Comments: 36",
+   "pub_date": "2026-11-10T19:03:54.000Z",
    "is_read": false
   },
   {
-   "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-   "link": "https://www.infineon.com/press-release/2026/infpr202611-028",
+   "title": "Starlink Mini 2",
+   "link": "https://starlink.com/mini-2",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.infineon.com/press-release/2026/infpr202611-028 Comments URL: https://news.ycombinator.com/item?id=50429430 Points: 118 # Comments: 66",
-   "pub_date": "2026-11-09T18:25:01.000Z",
+   "summary": "Article URL: https://starlink.com/mini-2 Comments URL: https://news.ycombinator.com/item?id=50444129 Points: 254 # Comments: 260",
+   "pub_date": "2026-11-10T18:22:32.000Z",
    "is_read": false
   },
   {
-   "title": "Google Gemini routes personal Drive files and emails to human annotators",
-   "link": "https://github.com/thisisme6598/gemini_files/",
+   "title": "Synaptics patent claims stop work on DisplayLink drivers",
+   "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 477 # Comments: 113",
-   "pub_date": "2026-11-09T18:24:38.000Z",
+   "summary": "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 302 # Comments: 166",
+   "pub_date": "2026-11-10T18:02:02.000Z",
    "is_read": false
   },
   {
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "link": "https://github.com/GoogleChrome/modern-web-guidance",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429068 Points: 316 # Comments: 668",
-   "pub_date": "2026-11-09T18:01:10.000Z",
+   "summary": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without s everywhere, ` ` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday's ftrain post touched on [0]) Models know about some of these by name, but consistently won't default",
+   "pub_date": "2026-11-10T18:01:15.000Z",
    "is_read": false
   },
   {
-   "title": "Muse Ember: Our smallest, most efficient model",
-   "link": "https://research.meta.ai/blog/muse-ember",
+   "title": "Val Town is winding down",
+   "link": "https://blog.val.town/winding-down",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 266 # Comments: 111",
-   "pub_date": "2026-11-09T17:58:46.000Z",
+   "summary": "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 313 # Comments: 82",
+   "pub_date": "2026-11-10T17:31:14.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-   "link": "https://www.watched.earth",
+   "title": "AMD's Zen 6 Family: Feeding the Beast",
+   "link": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "hey HN, i built this because i wanted to know what had actually photographed my street. type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes. some fun bits: - the pass search can't skip a pass. checked it against a b",
-   "pub_date": "2026-11-09T17:51:31.000Z",
+   "summary": "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 187 # Comments: 70",
+   "pub_date": "2026-11-10T17:02:32.000Z",
    "is_read": false
   },
   {
-   "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-   "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+   "title": ".name Grandfathered",
+   "link": "https://neil.fraser.name/news/2026/11/10/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer Comments URL: https://news.ycombinator.com/item?id=50428266 Points: 0 # Comments: 0",
-   "pub_date": "2026-11-09T17:00:06.000Z",
+   "summary": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 694 # Comments: 160",
+   "pub_date": "2026-11-10T16:37:44.000Z",
    "is_read": false
   },
   {
-   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-   "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+   "title": "Smart home devices should work without the internet",
+   "link": "https://docodethatmatters.com/home-automation-overnight-success/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 490 # Comments: 272",
-   "pub_date": "2026-11-09T16:00:45.000Z",
+   "summary": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 727 # Comments: 257",
+   "pub_date": "2026-11-10T15:25:20.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+   "link": "https://tinyvalencia.com/",
+   "source": "Hacker News",
+   "category": "ai",
+   "summary": "Article URL: https://tinyvalencia.com/ Comments URL: https://news.ycombinator.com/item?id=50441518 Points: 199 # Comments: 50",
+   "pub_date": "2026-11-10T15:12:16.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Social media algorithms on X promote content that conflicts with your values",
+   "link": "https://www.psypost.org/social-media-algorithms-promote-content-that-conflicts-with-your-values/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A new study reveals that X's recommendation algorithm actively promotes content that conflicts with users' personal values. This mismatch is driven by users arguing with posts they dislike, creating a frustrating feedback loop that disproportionately affects left-leaning users.",
+   "pub_date": "2026-11-10T23:00:27.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Empathy toward a partner is linked to a more satisfying sex life for both people in young couples",
+   "link": "https://www.psypost.org/empathy-toward-a-partner-is-linked-to-a-more-satisfying-sex-life-for-both-people-in-young-couples/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Young adults who say they understand and share their partner’s feelings tend to report more satisfying sex and stronger desire, and their partners report more satisfying sex too.",
+   "pub_date": "2026-11-10T21:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Leafy greens versus meat: Where your nitrates come from may matter for brain health",
+   "link": "https://www.psypost.org/leafy-greens-versus-meat-where-your-nitrates-come-from-may-matter-for-brain-health/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Leafy greens and bacon both contain nitrates, but a large Danish study suggests the source may matter. Plant-sourced nitrate was tied to lower dementia rates, while animal and tap water nitrate was tied to higher rates.",
+   "pub_date": "2026-11-10T19:00:12.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Oxytocin alters how the brain learns and remembers social hierarchies",
+   "link": "https://www.psypost.org/oxytocin-alters-how-the-brain-learns-and-remembers-social-hierarchies/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A new study reveals how the hormone oxytocin alters the brain's ability to learn and remember social hierarchies, boosting memory for networks that do not directly involve the observer.",
+   "pub_date": "2026-11-10T17:00:11.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Irritable kids are hard to parent, and that strain may show up years later, new study suggests",
+   "link": "https://www.psypost.org/irritable-kids-are-hard-to-parent-and-that-strain-may-show-up-years-later-new-study-suggests/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Do irritable kids shape their parents, or the other way around? A study following families from age 3 to 6 found links in both directions, though the stronger pattern ran from child to parent.",
+   "pub_date": "2026-11-10T15:00:07.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Women who use social media more are more open to “sugar relationships,” especially in looser cultures",
+   "link": "https://www.psypost.org/women-who-use-social-media-more-are-more-open-to-sugar-relationships-especially-in-looser-cultures/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Women who use social media more often tend to be more open to sugar relationships, according to a study of 22,292 women in 22 countries. The link was modestly stronger in countries with looser social norms.",
+   "pub_date": "2026-11-10T14:00:02.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Impostor feelings and vulnerable narcissism overlap but are not the same thing, study finds",
+   "link": "https://www.psypost.org/impostor-feelings-and-vulnerable-narcissism-overlap-but-are-not-the-same-thing-study-finds/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Feeling like a fraud and narcissism might seem like opposites. But a new study finds that impostor feelings overlap substantially with vulnerable narcissism, even though the two remain distinct.",
+   "pub_date": "2026-11-10T13:00:58.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Psychology’s tools for measuring masculinity lean heavily toward the negative, review finds",
+   "link": "https://www.psypost.org/psychologys-tools-for-measuring-masculinity-lean-heavily-toward-the-negative-review-finds/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Is psychology only looking for problems when it studies men? A review of 50 years of masculinity scales found that 78 percent focused mainly on harms, and many overlooked culture and social context.",
+   "pub_date": "2026-11-10T12:00:53.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Scientists uncover an intriguing link between your metabolism and your sense of time",
+   "link": "https://www.psypost.org/scientists-uncover-an-intriguing-link-between-your-metabolism-and-your-sense-of-time/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "How quickly time seems to pass may be linked to how much energy your body burns at rest, your stress chemistry, and your working memory, according to a new study.",
+   "pub_date": "2026-11-10T11:00:52.000Z",
    "is_read": false
   },
   {
@@ -1621,87 +1711,6 @@
    "category": "psychology",
    "summary": "What happens when a user keeps insisting that a square has five sides? A study of seven large language models found that sustained conversational pressure exposed weaknesses that single-question tests can miss.",
    "pub_date": "2026-11-08T23:00:01.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Toddler temperament is linked to common DNA variations, large genetic study finds",
-   "link": "https://www.psypost.org/toddler-temperament-is-linked-to-common-dna-variations-large-genetic-study-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Why do some toddlers charge into a room of strangers while others hang back? A study of tens of thousands of children links early temperament to common DNA variations that overlap with those tied to ADHD and autism.",
-   "pub_date": "2026-11-08T21:00:55.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Self-perception might matter more than observable social skills for autistic teens’ well-being",
-   "link": "https://www.psypost.org/autistic-teenagers-quality-of-life-linked-to-inner-confidence-rather-than-observ/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A new study reveals that helping autistic teenagers manage social anxiety and build inner confidence improves their quality of life far more than simply teaching them observable social skills.",
-   "pub_date": "2026-11-08T19:00:54.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Fitter kids face a lower risk of depression decades later, study suggests",
-   "link": "https://www.psypost.org/fitter-kids-face-a-lower-risk-of-depression-decades-later-study-suggests/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Kids who ran faster in a 1985 fitness test were somewhat less likely to develop depression by middle age, according to a study that followed more than 1,000 Australians for over three decades.",
-   "pub_date": "2026-11-08T17:00:53.000Z",
-   "is_read": false
-  },
-  {
-   "title": "The social fallout of working alongside an office workaholic",
-   "link": "https://www.psypost.org/the-social-fallout-of-working-alongside-an-office-workaholic/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "When employees work alongside a workaholic, they often feel pressured to match those long hours. A new study reveals that this performance pressure drives coworkers to work harder, but it also increases gossip and badmouthing in the office.",
-   "pub_date": "2026-11-08T15:00:52.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Teens with authoritarian parents tend to hold more antisocial beliefs, study finds",
-   "link": "https://www.psypost.org/teens-with-authoritarian-parents-tend-to-hold-more-antisocial-beliefs-study-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Teens whose parents lean on yelling, threats, and punishment without explanation tend to hold stronger beliefs that rule-breaking and aggression are acceptable, a four-wave study of U.S. families suggests.",
-   "pub_date": "2026-11-08T13:00:50.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Formerly religious individuals exhibit the highest levels of left-wing authoritarianism",
-   "link": "https://www.psypost.org/the-strict-mindset-of-religious-fundamentalism-often-survives-deconversion/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "People who leave their religion often abandon conservative beliefs but retain an authoritarian mindset. A new study reveals that formerly religious individuals exhibit the highest levels of left-wing authoritarianism, shifting their targets while maintaining rigid ideological styles.",
-   "pub_date": "2026-11-08T12:00:49.000Z",
-   "is_read": false
-  },
-  {
-   "title": "When a partner won’t apologize, anxiously attached people may hold bigger grudges",
-   "link": "https://www.psypost.org/when-a-partner-wont-apologize-anxiously-attached-people-may-hold-bigger-grudges/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Why do some people hold grudges after a fight? A new study suggests that for people who fear rejection, a partner’s refusal to apologize is linked to more grudge-holding, avoidance, and difficulty forgiving.",
-   "pub_date": "2026-11-08T11:00:48.000Z",
-   "is_read": false
-  },
-  {
-   "title": "People prefer slightly protruding jaws over perfectly straight facial profiles",
-   "link": "https://www.psypost.org/public-prefers-slightly-protruding-jaws-over-perfectly-straight-facial-profiles/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A recent survey reveals that everyday people prefer facial profiles with slightly protruding upper jaws over perfectly neutral alignments, highlighting a gap between clinical geometric ideals and actual public aesthetic tastes.",
-   "pub_date": "2026-11-07T23:00:48.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Subtle mood changes in late life may follow early Alzheimer’s brain changes, study suggests",
-   "link": "https://www.psypost.org/subtle-mood-changes-in-late-life-may-follow-early-alzheimers-brain-changes-study-suggests/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Does brain pathology spark low mood, or the other way around? In older adults without memory problems, buildup of the Alzheimer’s-related protein tau tended to come first, followed by small increases in depressive symptoms.",
-   "pub_date": "2026-11-07T21:00:31.000Z",
    "is_read": false
   },
   {
@@ -2317,6 +2326,15 @@
    "is_read": false
   },
   {
+   "title": "The wholehearted life",
+   "link": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+   "source": "Aeon",
+   "category": "psychology",
+   "summary": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon",
+   "pub_date": "2026-11-10T11:00:00.000Z",
+   "is_read": false
+  },
+  {
    "title": "A trip to upside-down world",
    "link": "https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world",
    "source": "Aeon",
@@ -2488,12 +2506,66 @@
    "is_read": false
   },
   {
-   "title": "When it started to burn",
-   "link": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
-   "source": "Aeon",
+   "title": "Lean Muscle Mass Isn’t a Cure-All for Metabolic Health",
+   "link": "https://nautil.us/lean-muscle-mass-isnt-a-cure-all-for-metabolic-health-1286540/",
+   "source": "Nautilus",
    "category": "psychology",
-   "summary": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians - by Aeon Video Watch on Aeon",
-   "pub_date": "2026-10-21T10:01:00.000Z",
+   "summary": "A new study is complicating the picture The post Lean Muscle Mass Isn’t a Cure-All for Metabolic Health appeared first on Nautilus .",
+   "pub_date": "2026-11-11T00:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Famous Fossil Could be Rosetta Stone for Hidden Hominin Diversity",
+   "link": "https://nautil.us/famous-fossil-could-be-rosetta-stone-for-hidden-hominin-diversity-1286535/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "What would the Taung child grow up to be? The post Famous Fossil Could be Rosetta Stone for Hidden Hominin Diversity appeared first on Nautilus .",
+   "pub_date": "2026-11-10T23:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Researchers Can Tell How Lonely You Are by Your Instagram Activity",
+   "link": "https://nautil.us/researchers-can-tell-how-lonely-you-are-by-your-instagram-activity-1286523/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "Are you lonely posting? The post Researchers Can Tell How Lonely You Are by Your Instagram Activity appeared first on Nautilus .",
+   "pub_date": "2026-11-10T21:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Descendants of Chornobyl’s Pets Run Wild",
+   "link": "https://nautil.us/descendants-of-chornobyls-pets-run-wild-1286508/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "And their genomes suggest they’ve adapted to the toxic conditions The post Descendants of Chornobyl’s Pets Run Wild appeared first on Nautilus .",
+   "pub_date": "2026-11-10T19:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "The Difference Between Nice and Kind",
+   "link": "https://nautil.us/the-difference-between-nice-and-kind-1286505/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "How we talk about good deeds and acts of altruism The post The Difference Between Nice and Kind appeared first on Nautilus .",
+   "pub_date": "2026-11-10T17:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "What the Measles Vaccine’s “97% Effective” Rating Means for Pittsburgh Parents",
+   "link": "https://nautil.us/what-the-measles-vaccines-97-effective-rating-means-for-pittsburgh-parents-1286498/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "Demand for the MMR vaccine has risen in Pennsylvania as the state’s measles outbreak has grown The post What the Measles Vaccine’s “97% Effective” Rating Means for Pittsburgh Parents appeared first on Nautilus .",
+   "pub_date": "2026-11-10T15:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "This Photo of the Night Sky Reveals 14,000 Satellite Trails",
+   "link": "https://nautil.us/this-photo-of-the-night-sky-reveals-14000-satellite-trails-1286493/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "An image so striking, many people thought it was AI The post This Photo of the Night Sky Reveals 14,000 Satellite Trails appeared first on Nautilus .",
+   "pub_date": "2026-11-10T13:00:00.000Z",
    "is_read": false
   },
   {
@@ -2521,69 +2593,6 @@
    "category": "psychology",
    "summary": "A conversation with cognitive scientist Evelina Fedorenko about where thought and language overlap The post Do We Think in Pictures, Words, or… Code? appeared first on Nautilus .",
    "pub_date": "2026-11-09T21:30:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Common Food Additive Linked to Lower Risk of Cognitive Impairment",
-   "link": "https://nautil.us/common-food-additive-linked-to-lower-risk-of-cognitive-impairment-1286473/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "It’s found in mayonnaise, chocolate, and lean meats The post Common Food Additive Linked to Lower Risk of Cognitive Impairment appeared first on Nautilus .",
-   "pub_date": "2026-11-09T19:30:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "A New Species Emerges From a 9.5 Million-Year-Old Whale Carcass",
-   "link": "https://nautil.us/a-new-species-emerges-from-a-9-5-million-year-old-whale-carcass-1286464/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "A beaked whale, surrounded by stars The post A New Species Emerges From a 9.5 Million-Year-Old Whale Carcass appeared first on Nautilus .",
-   "pub_date": "2026-11-09T17:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "“Medium Roast, Cream, No Plastic”: New Coffee Cup Coating Protects Against Microplastics",
-   "link": "https://nautil.us/medium-roast-cream-no-plastic-new-coffee-cup-coating-protects-against-microplastics-1286452/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "And makes recycling a breeze The post “Medium Roast, Cream, No Plastic”: New Coffee Cup Coating Protects Against Microplastics appeared first on Nautilus .",
-   "pub_date": "2026-11-09T15:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Essential Reading in an Era of AI Doomsaying",
-   "link": "https://nautil.us/essential-reading-in-an-era-of-ai-doomsaying-1286439/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "Want to make it out of the AI doom loop alive? Read these books The post Essential Reading in an Era of AI Doomsaying appeared first on Nautilus .",
-   "pub_date": "2026-11-09T13:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years",
-   "link": "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "Now we finally know where it went The post Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years appeared first on Nautilus .",
-   "pub_date": "2026-11-07T15:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "This Photo of the ISS Next to Jupiter Was Two Years in the Making",
-   "link": "https://nautil.us/this-photo-of-the-iss-next-to-jupiter-was-two-years-in-the-making-1286407/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "Part of the art and science of astrophotography is figuring out when certain flying objects in the sky are going to line up for a photo opportunity. And few photographs demonstrate it better than AJ Smadi ’s shot of the International Space Station (ISS) hurtling in front of Jupiter. There’s an incredible symmetry in the dimensions here: Jupiter is about 1.3 million times bigger than the ISS, but i",
-   "pub_date": "2026-11-07T13:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Could a Fiber Supplement Help Chronic Knee Pain?",
-   "link": "https://nautil.us/could-a-fiber-supplement-help-chronic-knee-pain-1286434/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "Another investigation into the mysterious microbiome The post Could a Fiber Supplement Help Chronic Knee Pain? appeared first on Nautilus .",
-   "pub_date": "2026-11-06T22:00:00.000Z",
    "is_read": false
   }
  ]
