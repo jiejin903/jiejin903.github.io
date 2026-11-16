@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T02:26:02.774Z",
+ "updated_at": "2026-11-16T02:36:06.063Z",
  "ok": 14,
  "fail": 1,
  "items": [
@@ -274,6 +274,51 @@
    "is_read": false
   },
   {
+   "title": "超 16 万人请愿，黄仁勋准备「回宫」",
+   "link": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "辞职三天，想回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-16T01:11:22.000Z",
+   "is_read": false
+  },
+  {
+   "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
+   "link": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "黄仁勋的故事还没有结束 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-16T00:56:45.000Z",
+   "is_read": false
+  },
+  {
+   "title": "早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
+   "link": "https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "· 余承东：华为大折叠已成千万人主力机 · 苹果 HomeView 发售，首批实测遇到语音和账户切换问题 · 微软服务故障持续超 30 小时，官方宣布恢复 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-15T23:55:30.000Z",
+   "is_read": false
+  },
+  {
+   "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
+   "link": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "小身材，大嗓门 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-15T10:00:17.000Z",
+   "is_read": false
+  },
+  {
+   "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+   "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "再创历史 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-15T02:47:36.000Z",
+   "is_read": false
+  },
+  {
    "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
    "link": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
    "source": "爱范儿",
@@ -409,48 +454,21 @@
    "is_read": false
   },
   {
-   "title": "折叠屏手机的转身｜明日后视镜",
-   "link": "https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-12T01:39:17.000Z",
+   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+   "pub_date": "2026-11-15T22:00:01.000Z",
    "is_read": false
   },
   {
-   "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
-   "link": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Our new blog for science",
+   "link": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "黄仁勋的至暗时刻 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-12T00:55:03.000Z",
-   "is_read": false
-  },
-  {
-   "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
-   "link": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀 · 张雪机车第 10 万台整车在重庆下线 · 曝 Anthropic 承销商考虑上调 IPO 发行价 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-12T00:24:22.000Z",
-   "is_read": false
-  },
-  {
-   "title": "曝字节要做「中国版 Muse」，给豆包造个「超级大脑」",
-   "link": "https://www.ifanr.com/1689016?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "豆包走出屏幕 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-11T11:52:16.000Z",
-   "is_read": false
-  },
-  {
-   "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
-   "link": "https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "category": "ai",
-   "summary": "微型小车正在集体变大。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-11T09:47:34.000Z",
+   "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+   "pub_date": "2026-11-15T22:00:00.000Z",
    "is_read": false
   },
   {
@@ -613,24 +631,6 @@
    "category": "ai",
    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
    "pub_date": "2026-11-09T08:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Kuken Industries searches 70 years of drawings in minutes",
-   "link": "https://openai.com/index/kuken",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-   "pub_date": "2026-11-09T08:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "link": "https://openai.com/index/partnering-with-hacktron",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-   "pub_date": "2026-11-06T08:00:00.000Z",
    "is_read": false
   },
   {
@@ -814,6 +814,42 @@
    "is_read": false
   },
   {
+   "title": "Apple launches new app to study how people use AI for health",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Apple's new app for a study will answer everyday medical questions",
+   "pub_date": "2026-11-16T01:30:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "pub_date": "2026-11-15T23:30:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+   "pub_date": "2026-11-15T21:56:35.000Z",
+   "is_read": false
+  },
+  {
+   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+   "pub_date": "2026-11-15T20:20:57.000Z",
+   "is_read": false
+  },
+  {
    "title": "Where was Nvidia’s security team?",
    "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
    "source": "TechCrunch AI",
@@ -958,42 +994,6 @@
    "is_read": false
   },
   {
-   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-   "pub_date": "2026-11-12T19:27:45.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-   "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-   "pub_date": "2026-11-12T19:11:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-   "pub_date": "2026-11-12T18:39:23.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-   "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-   "pub_date": "2026-11-12T17:36:40.000Z",
-   "is_read": false
-  },
-  {
    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
    "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
    "source": "MIT Technology Review",
@@ -1081,6 +1081,51 @@
    "category": "ai",
    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
    "pub_date": "2026-11-09T19:35:33.000Z",
+   "is_read": false
+  },
+  {
+   "title": "datasette-maplibre 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/",
+   "pub_date": "2026-11-15T23:58:36.000Z",
+   "is_read": false
+  },
+  {
+   "title": "datasette 1.0a43",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release is streaming support for output renderers - the built-in TSV and CSV export mechanisms now use this as well, and plugins can register themselves as capable of streaming every row in a table in one go via the new Response",
+   "pub_date": "2026-11-15T23:20:27.000Z",
+   "is_read": false
+  },
+  {
+   "title": "datasette 0.65.6",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security , datasette",
+   "pub_date": "2026-11-15T23:18:17.000Z",
+   "is_read": false
+  },
+  {
+   "title": "datasette-apps 0.4a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write",
+   "pub_date": "2026-11-15T04:02:45.000Z",
+   "is_read": false
+  },
+  {
+   "title": "datasette-agent 0.6a0",
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+   "source": "Simon Willison",
+   "category": "ai",
+   "summary": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai",
+   "pub_date": "2026-11-15T03:49:47.000Z",
    "is_read": false
   },
   {
@@ -1309,228 +1354,264 @@
    "is_read": false
   },
   {
-   "title": "datasette-agent 0.5a0",
-   "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Release: datasette-agent 0.5a0 This is a significant release of Datasette Agent . The most notable new feature is called the panel - it lets the agent chat open and then sit next to pages from Datasette, for example a table or query page. When combined with datasette-apps this means you can prompt a database-backed app into existence and then modify it from the chat that sits next to that app. You",
-   "pub_date": "2026-11-03T23:13:45.000Z",
-   "is_read": false
-  },
-  {
-   "title": "llm 0.37.1",
-   "link": "https://simonwillison.net/2026/Nov/3/llm/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm",
-   "pub_date": "2026-11-03T21:41:42.000Z",
-   "is_read": false
-  },
-  {
-   "title": "AI is destroying my CS degree",
-   "link": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "My comment on AI is destroying my CS degree &mdash; Hacker News. I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's still extremely unclear what effective teaching with these tools looks like. The worst part is that the evaluation loop is measured in multiple years! If you start trying some new educ",
-   "pub_date": "2026-11-03T16:42:02.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a ",
-   "pub_date": "2026-11-03T16:29:48.000Z",
-   "is_read": false
-  },
-  {
-   "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
-   "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube Genius piece of OSINT by Colsto, who demonstrates how you can take almost imperceptible background noise of planes from a video soundtrack, figure out their Doppler curves, then cross reference them against ADS-B data to find the exact location of the video based on their speed, distance, and gaps between different",
-   "pub_date": "2026-11-03T05:32:25.000Z",
-   "is_read": false
-  },
-  {
-   "title": "L3Harris statement on the Nov. 13 ground stop",
-   "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+   "title": "Universal XSS in uBlock Origin from website-driven element picker",
+   "link": "https://iter.ca/post/ubo-uxss/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop Comments URL: https://news.ycombinator.com/item?id=50501844 Points: 69 # Comments: 41",
-   "pub_date": "2026-11-14T22:51:44.000Z",
+   "summary": "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 9 # Comments: 0",
+   "pub_date": "2026-11-16T02:04:48.000Z",
    "is_read": false
   },
   {
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-   "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+   "link": "https://www.hntrends.com/2026/november.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 205 # Comments: 116",
-   "pub_date": "2026-11-14T22:26:30.000Z",
+   "summary": "Article URL: https://www.hntrends.com/2026/november.html Comments URL: https://news.ycombinator.com/item?id=50512950 Points: 44 # Comments: 11",
+   "pub_date": "2026-11-16T01:31:30.000Z",
    "is_read": false
   },
   {
-   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-   "link": "https://retrocomputing.stackexchange.com/questions/17957",
+   "title": "Coles hit by a cybersecurity incident",
+   "link": "https://www.colesgroup.com.au/updates/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 98 # Comments: 33",
-   "pub_date": "2026-11-14T22:22:49.000Z",
+   "summary": "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 36 # Comments: 14",
+   "pub_date": "2026-11-16T01:14:35.000Z",
    "is_read": false
   },
   {
-   "title": "SpaceX catches the Starship to end Flight 15",
-   "link": "https://www.spacex.com/launches/starship-flight-15",
+   "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+   "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 748 # Comments: 508",
-   "pub_date": "2026-11-14T21:22:24.000Z",
+   "summary": "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 28 # Comments: 6",
+   "pub_date": "2026-11-16T00:21:54.000Z",
    "is_read": false
   },
   {
-   "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-   "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+   "title": "What's Next for Nvidia?",
+   "link": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 198 # Comments: 112",
-   "pub_date": "2026-11-14T18:56:47.000Z",
+   "summary": "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 76 # Comments: 68",
+   "pub_date": "2026-11-15T23:55:55.000Z",
    "is_read": false
   },
   {
-   "title": "A family tree of software job titles",
-   "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+   "title": "Mini.nvim Is Now on Tangled",
+   "link": "https://tangled.org/nvim-mini.org/mini.nvim",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 216 # Comments: 106",
-   "pub_date": "2026-11-14T17:45:19.000Z",
+   "summary": "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 37 # Comments: 10",
+   "pub_date": "2026-11-15T23:55:41.000Z",
    "is_read": false
   },
   {
-   "title": "Lovable apps expose passport details and more than 200K private messages",
-   "link": "https://www.crissyfield.de/research/lovable-en/",
+   "title": "Preserving 30 years of Salon journalism",
+   "link": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 661 # Comments: 279",
-   "pub_date": "2026-11-14T17:43:10.000Z",
+   "summary": "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 77 # Comments: 21",
+   "pub_date": "2026-11-15T23:00:11.000Z",
    "is_read": false
   },
   {
-   "title": "Creating a self booting ZIP archive",
-   "link": "https://goliath32.com/blog/ziphead.html",
+   "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+   "link": "https://lastcomplication.com/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 54 # Comments: 7",
-   "pub_date": "2026-11-14T16:29:05.000Z",
+   "summary": "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 49 # Comments: 6",
+   "pub_date": "2026-11-15T22:48:52.000Z",
    "is_read": false
   },
   {
-   "title": "PyPI's redesigned project pages with clearer security signals are now live",
-   "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+   "title": "Old Bitly links are being hijacked",
+   "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 209 # Comments: 93",
-   "pub_date": "2026-11-14T15:40:52.000Z",
+   "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 179 # Comments: 96",
+   "pub_date": "2026-11-15T22:11:43.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-   "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+   "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 181 # Comments: 9",
-   "pub_date": "2026-11-14T15:04:15.000Z",
+   "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 120 # Comments: 67",
+   "pub_date": "2026-11-15T20:37:28.000Z",
    "is_read": false
   },
   {
-   "title": "Demystifying phone unlocking tools: A technical overview",
-   "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+   "title": "WebGL Flight Simulator with seed generated terrain",
+   "link": "https://baron.by.dai.studio/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50497416 Points: 84 # Comments: 7",
-   "pub_date": "2026-11-14T14:44:28.000Z",
+   "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 95 # Comments: 12",
+   "pub_date": "2026-11-15T20:20:05.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-   "link": "https://github.com/FURSOY/fursoy-cpu",
+   "title": "Handwriting, as a Font",
+   "link": "https://ductus.sorenblank.com",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/FURSOY/fursoy-cpu Comments URL: https://news.ycombinator.com/item?id=50497137 Points: 71 # Comments: 23",
-   "pub_date": "2026-11-14T14:06:34.000Z",
+   "summary": "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 137 # Comments: 34",
+   "pub_date": "2026-11-15T19:42:13.000Z",
    "is_read": false
   },
   {
-   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-   "link": "https://gitlab.com/snipedbywifi/terminactory",
+   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+   "link": "https://bruceroettgers.eu/blog/protomaps/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native fact",
-   "pub_date": "2026-11-14T14:05:54.000Z",
+   "summary": "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 179 # Comments: 43",
+   "pub_date": "2026-11-15T19:26:22.000Z",
    "is_read": false
   },
   {
-   "title": "Italy fines Meta $887M over Android users' data access",
-   "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+   "title": "Eclipse Mosquitto – An open source MQTT broker",
+   "link": "https://github.com/eclipse-mosquitto/mosquitto",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 337 # Comments: 226",
-   "pub_date": "2026-11-14T13:48:06.000Z",
+   "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 68 # Comments: 28",
+   "pub_date": "2026-11-15T18:36:40.000Z",
    "is_read": false
   },
   {
-   "title": "KDE: The documentary [video]",
-   "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+   "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 391 # Comments: 85",
-   "pub_date": "2026-11-14T13:43:28.000Z",
+   "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 408 # Comments: 187",
+   "pub_date": "2026-11-15T18:36:10.000Z",
    "is_read": false
   },
   {
-   "title": "A visual explanation of reinforcement learning",
-   "link": "https://aatishb.com/myriad/how-brains-learn/",
+   "title": "A short explainer on how El Niño works [video]",
+   "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://aatishb.com/myriad/how-brains-learn/ Comments URL: https://news.ycombinator.com/item?id=50496885 Points: 126 # Comments: 6",
-   "pub_date": "2026-11-14T13:31:06.000Z",
+   "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 179 # Comments: 81",
+   "pub_date": "2026-11-15T18:23:21.000Z",
    "is_read": false
   },
   {
-   "title": "Advancing science and engineering with Antigravity's /teamwork",
-   "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "title": "Crows make decisions faster than we can",
+   "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 168 # Comments: 37",
-   "pub_date": "2026-11-14T13:20:43.000Z",
+   "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 177 # Comments: 126",
+   "pub_date": "2026-11-15T17:53:31.000Z",
    "is_read": false
   },
   {
-   "title": "Tech companies are trying to shift the concept of privacy again",
-   "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "title": "Clice v1.0 Released: Welcome to Modern C++",
+   "link": "https://ykiko.me/en/articles/2105384023094834022/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 471 # Comments: 175",
-   "pub_date": "2026-11-14T12:45:45.000Z",
+   "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 107 # Comments: 69",
+   "pub_date": "2026-11-15T17:22:32.000Z",
    "is_read": false
   },
   {
-   "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-   "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+   "title": "Emacs Is My Browser",
+   "link": "https://joshblais.com/blog/emacs-as-my-browser/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 167 # Comments: 45",
-   "pub_date": "2026-11-14T11:13:17.000Z",
+   "summary": "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 183 # Comments: 100",
+   "pub_date": "2026-11-15T15:21:21.000Z",
    "is_read": false
   },
   {
-   "title": "500 Lines or Less A 3D Modeller",
-   "link": "https://aosabook.org/en/500L/a-3d-modeller.html",
+   "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+   "link": "https://prog21.dadgum.com/116.html",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://aosabook.org/en/500L/a-3d-modeller.html Comments URL: https://news.ycombinator.com/item?id=50483431 Points: 10 # Comments: 0",
-   "pub_date": "2026-11-13T13:47:42.000Z",
+   "summary": "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 206 # Comments: 110",
+   "pub_date": "2026-11-15T13:44:16.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Republicans experience worse mental health in Democratic neighborhoods, study finds",
+   "link": "https://www.psypost.org/republicans-experience-worse-mental-health-in-democratic-neighborhoods/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A large national study finds that Republicans living in heavily Democratic neighborhoods report higher rates of anxiety, depression, and loneliness. Democrats, however, show similar mental health regardless of their neighborhood's political makeup.",
+   "pub_date": "2026-11-15T23:00:30.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Family ties emerge as a key link between poverty and teen well-being in Taiwanese study",
+   "link": "https://www.psypost.org/family-ties-emerge-as-a-key-link-between-poverty-and-teen-well-being-in-taiwanese-study/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Among more than 1,300 Taiwanese adolescents living in poverty, those facing more material hardship reported poorer family relationships and more psychological distress. Family ties appeared to be the most consistent link between deprivation and adolescents’ well-being.",
+   "pub_date": "2026-11-15T21:00:17.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Psychologists map the connection between dark personality traits and romantic jealousy",
+   "link": "https://www.psypost.org/how-aggressive-personality-traits-fuel-romantic-jealousy-through-obsessive-love/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "New psychological research reveals how aggressive personality traits are channeled into romantic jealousy. The findings suggest that hostility often expresses itself through an obsessive, possessive approach to love, acting as a bridge to severe jealousy.",
+   "pub_date": "2026-11-15T19:00:15.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Brain differences in dyslexia appear before children learn to read",
+   "link": "https://www.psypost.org/brain-differences-in-dyslexia-appear-before-children-learn-to-read/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Children who go on to develop dyslexia already show weaker brain responses to repeated written words in kindergarten, before formal reading lessons start. Their responses to faces, houses, and objects look much like those of their peers.",
+   "pub_date": "2026-11-15T17:00:05.000Z",
+   "is_read": false
+  },
+  {
+   "title": "New study finds children and teens reason differently about participation trophies",
+   "link": "https://www.psypost.org/new-study-finds-children-and-teens-reason-differently-about-participation-trophies/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Adults argue endlessly about participation trophies. A new study asked the people who actually receive them, finding that children as young as 7 expect winner-only awards to boost effort, while teenagers also expect them to encourage cheating.",
+   "pub_date": "2026-11-15T15:00:04.000Z",
+   "is_read": false
+  },
+  {
+   "title": "The right message can shift support for universal basic income across party lines",
+   "link": "https://www.psypost.org/the-right-message-can-shift-support-for-universal-basic-income-across-party-lines/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Support for universal basic income looks like a straightforward partisan split. But a new study of more than 2,000 Americans suggests that personal values about equality and tradition do more to shape reactions than party labels.",
+   "pub_date": "2026-11-15T14:00:02.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Steroid users face triple the risk of long-term erectile dysfunction",
+   "link": "https://www.psypost.org/steroid-users-face-triple-the-risk-of-long-term-erectile-dysfunction/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Men who use anabolic steroids to build muscle face a substantially higher risk of long-term erectile dysfunction. A new study shows that even years after starting the drugs, steroid users are three times more likely to require impotence medication.",
+   "pub_date": "2026-11-15T13:00:56.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Common genetic variants matter more in Alzheimer’s than scientists thought",
+   "link": "https://www.psypost.org/common-genetic-variants-matter-more-in-alzheimers-than-scientists-thought/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Some researchers had argued that the hunt for common Alzheimer’s risk genes was nearly finished. A new study of 2.8 million people found 48 previously unknown risk regions and nearly tripled estimates of how much common variants contribute.",
+   "pub_date": "2026-11-15T12:00:31.000Z",
+   "is_read": false
+  },
+  {
+   "title": "New research finds a surprising downside to bodily synchrony between strangers",
+   "link": "https://www.psypost.org/new-research-finds-a-surprising-downside-to-bodily-synchrony-between-strangers/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Falling into bodily sync with someone is supposed to build connection. In a new study of strangers playing a trust game, pairs whose sweat responses aligned most closely were actually less generous with each other.",
+   "pub_date": "2026-11-15T11:00:28.000Z",
    "is_read": false
   },
   {
@@ -1633,84 +1714,12 @@
    "is_read": false
   },
   {
-   "title": "People with eco-friendly habits are rated as more appealing partners",
-   "link": "https://www.psypost.org/people-with-eco-friendly-habits-are-rated-as-more-appealing-partners/",
-   "source": "PsyPost",
+   "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+   "source": "Science Daily 心理学",
    "category": "psychology",
-   "summary": "People who recycle, avoid printing, and drive electric cars tend to be rated as more desirable romantic partners, especially by those who share their green values.",
-   "pub_date": "2026-11-13T17:00:14.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Regret is rare among transgender youth who began hormone therapy, according to largest study of its kind",
-   "link": "https://www.psypost.org/regret-is-rare-among-transgender-youth-who-began-hormone-therapy-according-to-largest-study-of-its-kind/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Most people who began hormone therapy as teenagers at a U.S. gender clinic and answered a follow-up survey said starting treatment had been the right decision, according to a cohort study published in JAMA Pediatrics.",
-   "pub_date": "2026-11-13T15:00:12.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Psychedelics show anti-inflammatory effects in sick animals but not healthy ones, meta-analysis finds",
-   "link": "https://www.psypost.org/psychedelics-show-anti-inflammatory-effects-in-sick-animals-but-not-healthy-ones-meta-analysis-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Psychedelics consistently reduced inflammatory markers in lab and animal studies where inflammation had been induced, but not in healthy animals. A review of 61 studies found human evidence too limited to draw conclusions.",
-   "pub_date": "2026-11-13T14:00:09.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Neuroscientists just found a hidden “fingerprint” in human memory",
-   "link": "https://www.psypost.org/neuroscientists-just-found-a-hidden-fingerprint-in-human-memory/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Electrical rhythms that sweep across the brain’s surface don’t just move in straight lines. Recordings from neurosurgical patients show they also form spirals and expanding or contracting rings that shift as people store and recall memories.",
-   "pub_date": "2026-11-13T12:00:07.000Z",
-   "is_read": false
-  },
-  {
-   "title": "New study finds vulnerable narcissism is linked to harsher judgments of police stops, even polite ones",
-   "link": "https://www.psypost.org/new-study-finds-vulnerable-narcissism-is-linked-to-harsher-judgments-of-police-stops-even-polite-ones/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Two drivers can experience the same traffic stop very differently. A new experiment suggests that people higher in vulnerable narcissism rate police stops less favorably, even when the officer is polite and fair.",
-   "pub_date": "2026-11-13T11:00:05.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Tracking the connection between bipolar disorder and sexual distress",
-   "link": "https://www.psypost.org/tracking-the-connection-between-bipolar-disorder-and-sexual-distress/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A new six-month study tracks how depressive symptoms and daily mood swings impact sexual desire and frustration in people newly diagnosed with bipolar disorder. The research highlights the need to address sexual health between major mood episodes.",
-   "pub_date": "2026-11-13T01:00:36.000Z",
-   "is_read": false
-  },
-  {
-   "title": "A $1 LSD booklet from 1967 anticipated much of today’s psychedelic safety advice, study suggests",
-   "link": "https://www.psypost.org/a-1-lsd-booklet-from-1967-anticipated-much-of-todays-psychedelic-safety-advice-study-suggests/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Be with people you trust, keep the next day free, and remember the trip will end. Advice from a little-known 1967 LSD manual still wins broad agreement from today’s psychedelic users, a new survey finds.",
-   "pub_date": "2026-11-12T23:00:39.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Paid sexual exchanges are far more common among young adults than once thought, new study suggests",
-   "link": "https://www.psypost.org/paid-sexual-exchanges-are-far-more-common-among-young-adults-than-once-thought-new-study-suggests/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "More than a third of U.S. adults aged 18 to 34 report having provided sexual acts or materials for pay, from sexting to in-person sex. A traditional single survey question captured less than a quarter of that rate.",
-   "pub_date": "2026-11-12T21:00:39.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Tau builds up faster in people who develop Alzheimer’s before 65, large PET study finds",
-   "link": "https://www.psypost.org/tau-builds-up-faster-in-people-who-develop-alzheimers-before-65-large-pet-study-finds/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "People who develop Alzheimer’s before age 65 tend to have more widespread tau in the brain, and it builds up faster over time. The gap held even after accounting for how impaired patients were when first scanned.",
-   "pub_date": "2026-11-12T19:00:29.000Z",
+   "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a power",
+   "pub_date": "2026-11-15T04:31:56.000Z",
    "is_read": false
   },
   {
@@ -2245,15 +2254,6 @@
    "is_read": false
   },
   {
-   "title": "Schizophrenia’s lost brain connections follow a surprising pattern",
-   "link": "https://www.sciencedaily.com/releases/2026/08/260820002443.htm",
-   "source": "Science Daily 心理学",
-   "category": "psychology",
-   "summary": "Specialized brain scans reveal that schizophrenia is linked to widespread loss of the synapses that connect brain cells, with the left side of the brain hit especially hard. The damage follows a surprisingly organized pattern tied to the brain’s chemistry and wiring. Researchers also identified a left frontal region that may serve as a starting point for the loss.",
-   "pub_date": "2026-08-20T11:27:34.000Z",
-   "is_read": false
-  },
-  {
    "title": "Long-term training continually fine tunes motor memories",
    "link": "https://www.nature.com/articles/s41562-026-02637-8",
    "source": "Nature Human Behaviour",
@@ -2506,6 +2506,24 @@
    "is_read": false
   },
   {
+   "title": "A Dead Star Is Flashing Radio Waves Every 8 Minutes",
+   "link": "https://nautil.us/a-dead-star-is-flashing-radio-waves-every-8-minutes-1286645/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "And its partner looks a lot like the Sun The post A Dead Star Is Flashing Radio Waves Every 8 Minutes appeared first on Nautilus .",
+   "pub_date": "2026-11-15T15:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "How Wealth Inequality Emerged in This Prehistoric Culture",
+   "link": "https://nautil.us/how-wealth-inequality-emerged-in-this-prehistoric-culture-1286642/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "The graves tell a story of growing inequality The post How Wealth Inequality Emerged in This Prehistoric Culture appeared first on Nautilus .",
+   "pub_date": "2026-11-15T13:00:00.000Z",
+   "is_read": false
+  },
+  {
    "title": "Giant, Fruit-Eating Bats Are Shrinking",
    "link": "https://nautil.us/giant-fruit-eating-bats-are-shrinking-1286637/",
    "source": "Nautilus",
@@ -2575,24 +2593,6 @@
    "category": "psychology",
    "summary": "I bet that feels good for the salmon The post Watch Norway’s Lice-Zapping Robots Protect Salmon Farms appeared first on Nautilus .",
    "pub_date": "2026-11-13T15:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Trail Cameras Show Coyotes Using the World’s Largest Wildlife Crossing",
-   "link": "https://nautil.us/trail-cameras-show-coyotes-using-the-worlds-largest-wildlife-crossing-1286599/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "It officially opens next month The post Trail Cameras Show Coyotes Using the World’s Largest Wildlife Crossing appeared first on Nautilus .",
-   "pub_date": "2026-11-13T13:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "You May be Able to Get 43 More Minutes of Work Done if You Change Your Desk",
-   "link": "https://nautil.us/you-may-be-able-to-get-43-more-minutes-of-work-done-if-you-change-your-desk-1286594/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "It’s time for workers to stand up The post You May be Able to Get 43 More Minutes of Work Done if You Change Your Desk appeared first on Nautilus .",
-   "pub_date": "2026-11-12T22:00:00.000Z",
    "is_read": false
   }
  ]
