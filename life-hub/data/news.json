@@ -1,8 +1,80 @@
 {
- "updated_at": "2026-11-18T04:02:43.629Z",
+ "updated_at": "2026-11-19T03:59:31.248Z",
  "ok": 14,
  "fail": 1,
  "items": [
+  {
+   "title": "范式下场做基模了！国产算力全链路训练，双模型同步亮相",
+   "link": "https://www.qbitai.com/2026/11/511071.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "语言模型单张3090卡即可运行",
+   "pub_date": "2026-11-19T03:01:45.000Z",
+   "is_read": false
+  },
+  {
+   "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+   "link": "https://www.qbitai.com/2026/11/510947.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "国产AI工具实现「一个人就是一个剧组」",
+   "pub_date": "2026-11-19T00:26:40.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+   "link": "https://www.qbitai.com/2026/11/510922.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "氖人寻味！",
+   "pub_date": "2026-11-18T09:41:55.000Z",
+   "is_read": false
+  },
+  {
+   "title": "GPT-6.2难产！OpenAI怕了",
+   "link": "https://www.qbitai.com/2026/11/510914.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "OpenAI也终于活成了2022年谷歌的样子",
+   "pub_date": "2026-11-18T07:53:29.000Z",
+   "is_read": false
+  },
+  {
+   "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+   "link": "https://www.qbitai.com/2026/11/510916.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+   "pub_date": "2026-11-18T07:24:50.000Z",
+   "is_read": false
+  },
+  {
+   "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+   "link": "https://www.qbitai.com/2026/11/510811.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
+   "pub_date": "2026-11-18T04:49:51.000Z",
+   "is_read": false
+  },
+  {
+   "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+   "link": "https://www.qbitai.com/2026/11/510821.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "具身全栈玩家",
+   "pub_date": "2026-11-18T04:28:57.000Z",
+   "is_read": false
+  },
+  {
+   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+   "link": "https://www.qbitai.com/2026/11/510737.html",
+   "source": "量子位",
+   "category": "ai",
+   "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+   "pub_date": "2026-11-18T02:49:23.000Z",
+   "is_read": false
+  },
   {
    "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
    "link": "https://www.qbitai.com/2026/11/510726.html",
@@ -22,75 +94,120 @@
    "is_read": false
   },
   {
-   "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
-   "link": "https://www.qbitai.com/2026/11/510695.html",
-   "source": "量子位",
+   "title": "英伟达临时CEO称将不再向中国出货H200芯片；一天之内173名管理人员被免，宗馥莉大规模「动刀」；英特尔被曝再度裁员，波及全球IT员工",
+   "link": "https://www.leiphone.com/category/zaobao/wMg9SCFKwT7JSsGq.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "82亿美元股票，46天闪电交割",
-   "pub_date": "2026-11-17T14:15:20.000Z",
+   "summary": "要闻提示 1.英特尔被曝再度裁员，波及全球IT员工 2.英伟达临时CEO称将不再向中国出货H200芯片，外交部回应 3.权志龙母公司将推机器人女团，与宇树合作的K-pop演唱会12月首演 4.宗馥莉再掀人事风暴：173名管理人员被免职 5.最高涨560元！大疆两款手持云台相机涨价 6.腾讯第三季度营收2073亿元，WorkBuddy日活超千万 7.张朝阳再度回应搜狐“躺平”：大模型投入太大，没资源来做这个事情 8.英伟达员工大会宣布告别“黄仁勋时代”：12 月员工加薪，启动新 CEO 遴选 今日头条 英特尔被曝再度裁员，波及全球IT员工 11月18日消息，据外媒报道，在过去两年多轮裁员之后，英特尔再度启动新一轮人员削减。此次裁员，是英特尔 CEO 陈立武推动芯片公司瘦身的举措延续，相关精简动作持续到今年最后几个月。本周，已有员工在社交平台发文，英特尔全球 IT 团队出现裁员。英特尔并未披露",
+   "pub_date": "2026-11-19T00:59:00.000Z",
    "is_read": false
   },
   {
-   "title": "李沐加盟的Aimotion，是一家什么AI公司？",
-   "link": "https://www.qbitai.com/2026/11/510688.html",
-   "source": "量子位",
+   "title": "豆包工作日活突破 800 万，企业客户 ARR 突破 20 亿元",
+   "link": "https://www.leiphone.com/category/industrynews/cC8dbvo5f5k5tgnE.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "瞄准「产业级世界模型」",
-   "pub_date": "2026-11-17T11:40:37.000Z",
+   "summary": "11月18日，豆包官方宣布，上线仅三个月的豆包工作日活跃用户数（DAU）突破 800 万，企业客户年度经常性收入（ARR）突破 20 亿元。 豆包工作是豆包面向生产力场景推出的 AI 产品及品牌，自8月25日正式发布以来，持续更新专业办公能力。11月16日，豆包工作上线 “工作台” 功能，首批覆盖金融、医疗、教育、创意设计等 21 个专业场景，预先配置相应技能和工具，用户也可创建、保存和分享自定义工作台。此外，豆包工作也在近期接入了Kimi、GLM、DeepSeek 等第三方模型，并标注不同模型的额度消耗倍率，方便用户结合任务需求和使用成本自主选择。 雷峰网 雷峰网",
+   "pub_date": "2026-11-18T13:18:00.000Z",
    "is_read": false
   },
   {
-   "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-   "link": "https://www.qbitai.com/2026/11/510652.html",
-   "source": "量子位",
+   "title": "“无人机外卖”加速出海，迪拜居民在家门口收到“空中外卖”",
+   "link": "https://www.leiphone.com/category/industrynews/SGCHiaZaK40MbNz8.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "筛材料、找配方、开发新模型…拿下多项科研任务",
-   "pub_date": "2026-11-17T06:09:40.000Z",
+   "summary": "中国超大规模创新试验场孕育出的前沿技术，正在为全球市场提供高质量发展活力。无人机外卖、工业机器人……越来越多中国成熟的技术正加速走向世界各地，为当地的技术创新和发展壮大提供强劲动能。 ▲美团无人机第四代索降机型 M-Drone 4L 在迪拜完成海外首次亮相（资料图） 迪拜时间11月18日，美团无人机第四代索降机型 M-Drone 4L 完成海外首次亮相：无人机悬停空中，通过缆索将订单精准送达指定投放点，全程无需降落。伴随新一代无人机的亮相，迪拜美团无人机索降航线将于近期正式投入使用。 今年以来，中国“无人机外卖”出海持续提速。8月，美团将低空物流技术和运营经验带到中亚，哈萨克斯坦首都阿斯塔纳的用户首次体验了无人配送服务。 索降直达、无需降落，配送效率进一步提升 迪拜大量住宅社区距离餐饮和零售商圈较远，路面配送距离长、送达时间受路况影响，而无人机配送有助于提升配送效率和时效稳定性。美团无人机",
+   "pub_date": "2026-11-18T11:22:00.000Z",
    "is_read": false
   },
   {
-   "title": "真勇啊！00后团队参加具身挑战赛，仅48小时竟敢从零手搓数据，还夺冠了！",
-   "link": "https://www.qbitai.com/2026/11/510610.html",
-   "source": "量子位",
+   "title": "纽娲机器人创始人杨睿刚：自动驾驶踩过的数据坑，机器人还会再踩一遍丨物理 AI 50 人",
+   "link": "https://www.leiphone.com/category/transportation/GLv3yGaPGK64teuS.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "斩获80000元奖金",
-   "pub_date": "2026-11-17T04:35:03.000Z",
+   "summary": "做了十多年自动驾驶之后，杨睿刚决定把下一次创业的方向，从高速公路转向居民社区。 在此之前，他曾在美国高校研究三维视觉，后来加入百度研究院，负责机器人与自动驾驶实验室，又担任嬴彻科技CTO，推动自动驾驶重卡前装量产。从研究算法到让几十吨重的卡车真正跑上高速公路，他经历了自动驾驶从技术探索走向商业化的过程。 2024年，杨睿刚开始筹备第二次创业。彼时，人形机器人已经成为具身智能行业最受关注的方向，他也接触过相关创业机会，但最终选择了一个看起来没那么性感的场景：社区末端配送。 他判断，家庭机器人虽然市场空间大，但每个家庭的环境都不一样，泛化难度很高；工厂机器人则必须满足严格的生产节拍和成本要求。相比之下，社区配送既能复用自动驾驶积累的定位、导航和避障技术，又能通过开门、乘电梯、交付包裹等任务，让机器人开始与真实物理环境交互。 这也是杨睿刚创办纽娲科技的起点。他希望先让机器人解决移动和通行问题，再",
+   "pub_date": "2026-11-18T10:28:00.000Z",
    "is_read": false
   },
   {
-   "title": "奥特曼共情黄仁勋，“英雄也有缺陷”，但支持他重返英伟达CEO嘛…",
-   "link": "https://www.qbitai.com/2026/11/510592.html",
-   "source": "量子位",
+   "title": "黄仁勋归期悬而未决，买GPU的人已经不敢下单",
+   "link": "https://www.leiphone.com/category/chips/WHSLCH74nrSJW6OE.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "奥特曼首谈黄仁勋离职",
-   "pub_date": "2026-11-17T02:33:13.000Z",
+   "summary": "“现在都不敢订期货。”在深圳负责GPU采购的程麟，用一句话概括了今年的处境。 从突然辞任，到传出回归，再到本人公开表达重返意愿、董事会却在财报电话会上明确表示无意让其复职——短短五天里，围绕黄仁勋去留的消息几度反转。 多方信源此前也向雷峰网表示，黄仁勋短期内很难重新执掌英伟达。 但对于依赖英伟达GPU开展生意的中国算力服务商而言，眼下更现实的问题是：即便黄仁勋回来了，高端GPU还能不能买到？买到后又该如何变现？ 国内买英伟达GPU的渠道在收窄，海外租算力也不轻松。程麟所在团队曾尝试通过自建、投资海外机房等方式获取算力资源，但机房建设周期长达两三年。随着美国对先进GPU流转的监管趋严，部分在建项目已开始重新评估。 而他考虑的另一条路——华为昇腾950，据其了解当前订单排期已经排满，交付周期同样存在不确定性。 01 黄仁勋想做中国生意 美国却在收紧每一条路 “做生意能够赚钱，（黄仁勋）为什么不",
+   "pub_date": "2026-11-18T09:45:00.000Z",
    "is_read": false
   },
   {
-   "title": "物理AI的强化学习仿真环境来了，光轮智能推出RoboFinals RL Envs",
-   "link": "https://www.qbitai.com/2026/11/510561.html",
-   "source": "量子位",
+   "title": "对话“中国主板教父”吴福禄",
+   "link": "https://www.leiphone.com/category/industrynews/YCL7IapyaOICHlBN.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "",
-   "pub_date": "2026-11-17T02:03:22.000Z",
+   "summary": "对话“中国主板教父”吴福禄（上）： 黄仁勋是“江湖高手”，而“带头大哥”也触礁了 “我的名字在华强北的上空盘旋了十年。” 1993年7月，日本住友化工厂发生爆炸。西安交大毕业的吴福禄，从报纸上一则豆腐块大小的报道里隐约嗅出了一个信号：内存可能要缺货涨价。他兴奋得整夜没合眼，反复盘算着怎么把大学时最拿手的博弈论操盘方法，应用到内存的市场里。 当时，他手头没钱，靠的是在赛格电子市场混了多年的人脉：以少量定金，按每条280元的价格，把柜台所有存货一并锁定，货照旧摆在柜台上。不到一周，上游缺货的消息传到赛格，内存价格从280元一路涨到650元。他又以每条580元的优惠价把原货回售给柜台，商家把差价给了他。 按他的说法：这样的赚钱方式，当时整个市场没见过；这样的暴利，更没人见过。赛格商家对他佩服得五体投地。他的第一桶金，由此而来。 这背后有一个关键判断：吴福禄凭此前积累的大量行业知识，知道住友化学在",
+   "pub_date": "2026-11-18T08:43:00.000Z",
    "is_read": false
   },
   {
-   "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-   "link": "https://www.qbitai.com/2026/11/510542.html",
-   "source": "量子位",
+   "title": "清华徐梦迪：预训练做再好都不够，机器人需要在部署中学习 | CoRL 2026",
+   "link": "https://www.leiphone.com/category/private/S1vnQSfDZDVC7TWb.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-   "pub_date": "2026-11-16T10:57:31.000Z",
+   "summary": "人机交互不只是目标，更是解决方案。 作者丨 邓哲敏 编辑丨 齐铖湧 2026 年 11 月 12 日，CoRL 2026 “Learn@Deploy”（机器人部署中学习）半日研讨会上，清华大学交叉信息研究院助理教授徐梦迪以 Keynote 讲者身份做开场报告 。 徐梦迪从清华车辆工程专业毕业后，前往卡内基梅隆大学机械工程系读博，师从 Safe AI Lab 负责人赵鼎，论文《构建可适应的通用机器人》拿下该系最佳博士论文奖。她在论文中指出，构建通用机器人不能只靠堆参数、堆数据、指望预训练自然泛化， 必须补上适应的能力，让机器人到现场后靠少量新信息快速调整策略。 博士毕业后，徐梦迪来到斯坦福视觉与学习实验室，跟随吴佳俊、李飞飞做博士后。期间，她做了 ROSETTA，用大模型把人类五花八门的口语偏好转成机器能学的奖励信号，让机器人学会训练时没见过的新指令。 2025年，徐梦迪加入清华叉院，组建自",
+   "pub_date": "2026-11-18T08:28:00.000Z",
    "is_read": false
   },
   {
-   "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-   "link": "https://www.qbitai.com/2026/11/510526.html",
-   "source": "量子位",
+   "title": "美团推出多项国际化服务举措，青山计划再生座椅亮相APEC新闻中心",
+   "link": "https://www.leiphone.com/category/industrynews/Znu1T5u6OVaPxmxP.html",
+   "source": "雷峰网",
    "category": "ai",
-   "summary": "12月1日，细数AI的未竟之问。",
-   "pub_date": "2026-11-16T08:45:17.000Z",
+   "summary": "11月18日，2026年亚太经合组织（APEC）第三十三次领导人非正式会议在深圳开幕。作为本届APEC会议官方赞助商，美团围绕餐饮消费、城市配送和交通安全推出一系列服务保障举措，为会议期间的深圳市民和境内外来宾提供便利。美团无人机、小黄蜂在深圳前海石公园桂湾段的“前海激浪”展出，美团青山计划“零废弃长椅”亮相APEC领导人会议周新闻中心，展示本地生活的科技应用与公益实践。 ▲ 美团作为2026年APEC会议官方赞助商的宣传海报 在餐饮消费服务方面，美团App已支持英文、韩文、日文、繁体中文、简体中文语言界面，外籍用户可使用境外手机号完成账号注册，并绑定境外银行卡完成支付。 面向APEC境内外来宾，美团还推出线上线下配套的国际化餐饮服务。美团外卖App在深圳上线特色专区，集中展示多国风味与本地特色美食；同时，在线下发放中英双语外卖美食地图，并在各大会场周边及重点商圈设置中英双语指引，将线上流",
+   "pub_date": "2026-11-18T08:08:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "做了20多年消费硬件，奥尼电子为什么去做Token工厂？",
+   "link": "https://www.leiphone.com/category/chips/DNqOGFbDk2Vd5eiX.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "“这个有什么用？怎么用起来？” 一家有超20年制造经验的企业，进入AI推理算力市场后，被客户的这个问题问住了。 这两年，AI算力市场热闹得很。有人建设算力集群，有人销售服务器，也有人提供算力服务。可到了实际使用环节，一些企业却发现，设备买回来了，应用没找到，业务也接不进去。 IDC与中国信通院2026年的联合调研显示，在制造、政务等行业，智算资源利用率达到70%及以上的企业占比不足35%。 供给端忙着把算力卖出去，需求端还在琢磨怎么用起来。 对进入AI推理算力市场不久的奥尼电子而言，超20年的制造与供应链积累，为其探索Token工厂提供了硬件生产、定制和交付的基础。 而客户提出的“怎么用”，恰恰是过去的制造经验难以回答的问题。 01 做了超20年硬件 闯AI却被软件难住了 今年6月，奥尼电子开始向Agent及AI应用开发企业免费开放硬件适配测试资源。 一家做了超20年消费电子制造的企业，为",
+   "pub_date": "2026-11-18T07:52:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作",
+   "link": "https://www.leiphone.com/category/industrynews/dDQc2ToCG7vy6d8x.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "阿里旗下跨境电商平台速卖通与全球头部联盟营销平台CJ在11月达成战略合作，双方将在西班牙、德国、英国、波兰、美国等欧美市场推动规模化流量拓展，围绕Brand+加速中国品牌出海的品牌化升级。这是继与YouTube达成全球战略合作之后，速卖通在海外渠道布局上的又一关键进展。 图：阿里速卖通AliExpress与CJ达成战略合作 CJ（原CJ Affiliate）成立于1998年，总部位于美国加利福尼亚州圣巴巴拉，是全球头部联盟营销平台，被众多品牌视为重要合作伙伴。 对速卖通而言，与CJ的合作意味着一次性打通全球最成熟的联盟营销网络，为Brand+品牌与出海商家提供高确定性的站外流量入口。 双方将以欧洲为起点，聚焦西班牙、德国、英国、波兰等重点国家推动规模化投放，依托CJ超100万个创作者生态，速卖通平台上的品牌与商家将获得包括内容媒体、优惠券平台、比价网站、创作者等多元渠道的即时触达能力。CJ",
+   "pub_date": "2026-11-18T05:34:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "继YouTube后，速卖通与全球头部联盟营销平台CJ达成战略合作",
+   "link": "https://www.leiphone.com/category/industrynews/vgLr7jdsQ61ngs7W.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "阿里旗下跨境电商平台速卖通与全球头部联盟营销平台CJ在11月达成战略合作，双方将在西班牙、德国、英国、波兰、美国等欧美市场推动规模化流量拓展，围绕Brand+加速中国品牌出海的品牌化升级。这是继与YouTube达成全球战略合作之后，速卖通在海外渠道布局上的又一关键进展。",
+   "pub_date": "2026-11-18T05:32:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂",
+   "link": "https://www.leiphone.com/category/industrynews/ukrIJ082d0MIuodR.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "11 月 16 日，美国商务部工业与安全局（BIS）最新出口管制政策正式落地，将限制范围从芯片实物进一步延伸至远程算力访问，旨在封堵中国企业通过海外数据中心获取先进 AI 算力的路径。 这一外部变量正在迅速传导至国内算力供给侧。对于正在兴起的“国芯 Token 工厂”而言，海外算力通道的收窄在需求侧倒逼本土算力加快承接真实业务；但在供给侧，国产推理芯片在制造与封装环节同样面临更严苛的审查。硬件供给依然紧俏，产业界不得不直面一个更迫切的工程命题：在现有的国产新卡与海量存量集群之上，如何把每一张卡榨出更高、更稳、算得平经济账的“有效 Token 产能”？ 11 月 17 日，在“国芯国模 自主生态”2026 清昴 AI 伙伴大会暨 Token 工厂年会上，北京智源人工智能研究院与清昴智能联合发布“国产 Token 工厂端到端推理优化方案”，基于众智FlagOS（开源多芯片统一AI系统软件栈）正",
+   "pub_date": "2026-11-18T05:31:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "千问办公电商版推出“品牌知识库”，让Agent先懂品牌，再干活",
+   "link": "https://www.leiphone.com/category/industrynews/DEwlGyHOnFTL6jRy.html",
+   "source": "雷峰网",
+   "category": "ai",
+   "summary": "11月18日，千问办公电商版推出全新“品牌知识库”功能。商家在千问办公网页端切换至“电商经营”模式，上传网店链接、过往图片和设计规范等品牌资料后，千问办公就能理解品牌风格，在生成图片、视频和文案时统一品牌调性，用得越多越懂品牌。此前，千问办公电商版面向部分商家邀测，目前已向所有电商商家开放。 目前，不少商家已经习惯用Agent生成商品图、短视频和各类文案。但通用Agent缺少对品牌的长期理解，生成内容时风格容易跑偏，商家往往需要反复调整提示词，效率低且效果不稳定。此次推出的“品牌知识库”包含品牌档案、品牌参考集和品牌记忆三大核心能力，让千问办公先懂品牌，再干活。 品牌档案记录品牌是谁、什么风格、卖给谁。品牌参考集用于固定视觉风格，商家可直接添加官方预设风格，也可上传过往优质图片、视频和设计规范，由千问办公提炼为专属创作规范。品牌记忆则会把档案和参考集中的信息自动整理为品牌背景，在之后的每次",
+   "pub_date": "2026-11-18T03:26:00.000Z",
    "is_read": false
   },
   {
@@ -157,120 +274,57 @@
    "is_read": false
   },
   {
-   "title": "谁来帮助企业走向「智能组织」？",
-   "link": "https://www.leiphone.com/category/CorporateServices/Hsnbxo0xUgb2FWkB.html",
-   "source": "雷峰网",
+   "title": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
+   "link": "https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "上个月，雷峰网拜访过一家创业公司老板，他对我们说，他决定把公司的 AI 开销砍掉近九成。 这个决定非常出乎我们的意料，因为一直以来他都属于“AI 激进派”，属于愿意为 AI 花钱的主。今年5月，他就给员工配备了每月200美元的 Codex，公司的各项 AI 开销加起来，每月大约10万美元。 当雷峰网问他原因，他直言，钱包烧不起，这几个月他有算过账，AI 开销很大，但收入和利润却没有同步增长。 而且并不止这家创业公司老板，过去两个月，一些企业都出现了这种现象：AI没有产生预期的经济效果，于是大家开始纷纷掉头回来控制预算。 “这是因为我们只是更换了电机，却还没有重新设计工厂。没有一家公司，会因为用了几个AI工具，一夜之间变得更有竞争力。”在百度世界2026的演讲上，百度创始人李彦宏说道，在他看来，只有当一家企业能够围绕AI能力重构它的组织，才能抓住这个时代赋予它的巨大成功机会。 接着往下追问，",
-   "pub_date": "2026-11-17T08:24:00.000Z",
+   "summary": "英伟达何去何从 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-19T02:59:25.000Z",
    "is_read": false
   },
   {
-   "title": "闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常",
-   "link": "https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html",
-   "source": "雷峰网",
+   "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
+   "link": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "一台上架长达923天的相机，在AI辅助调整商品信息和价格并重新发布后，仅用时约两小时便成功出售；一台屏幕损坏、看似失去使用价值的便携影音播放器，经AI梳理故障和剩余可用功能后，仅65分钟便找到了买家，实现物尽其用。 当地时间11月14日，在土耳其安塔利亚举行的第31届联合国气候变化大会（COP31）中国角边会上，闲鱼ESG负责人李翔分享了两个AI促进闲置流通的故事，向国际社会展示中国企业利用AI技术破解循环经济堵点、推动公众参与绿色低碳生活的最新实践。 “要让闲置商品更容易流通，得先读懂商品，也得读懂人的需要。”李翔在演讲中表示。 不同于传统电商平台，闲置交易具有“一物一况，一物一价”的非标属性。同款商品由于成色、配件和使用历史不同，其价格千差万别。于此同时，闲鱼平台上的卖家99%以上都是普通个体，普遍缺乏专业商家的经营能力与时间精力。因此，如何降低闲置交易门槛、实现供需精准匹配，成为激活",
-   "pub_date": "2026-11-17T06:40:00.000Z",
+   "summary": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-19T00:36:04.000Z",
    "is_read": false
   },
   {
-   "title": "网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿",
-   "link": "https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html",
-   "source": "雷峰网",
+   "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+   "link": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "要闻提示 1.黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任 CEO 2.已到生死存亡时刻！腾讯内部讲话：现在不是和平年代，大家不能自以为站在高处很安全 3.网传360集团副总裁卜思南涉贪腐问题被带走调查，本人回应：不是真的，在处理ing 4.网易《哈利波特：魔法觉醒》手游宣布明年 3 月停止运营，曾月流水破10亿 5.AI 演员方桃子代言美瞳广告被罚，声称“戴了一天都很舒服” 6.阿里合伙人樊路远辞任大麦娱乐 CEO，将从虎鲸文娱集团离职创业 7.AMD 宣布完成对 World Labs 的收购，李飞飞出任公司首席科学家 8.微软服务全球大宕机内幕曝出！资深工程师走光：根本没人懂底层系统 今日头条 黄仁勋借钱成新型诈骗！英伟达董事会：没考虑让黄仁勋复任CEO “我是黄仁勋，我被美国政府陷害了，快转我100万新台币揭穿这个阴谋！”“黄仁勋”找你借钱？一眼假！11月17日消息，近日，",
-   "pub_date": "2026-11-17T01:33:00.000Z",
+   "summary": "性能更强，还更便宜 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-18T23:56:47.000Z",
    "is_read": false
   },
   {
-   "title": "26.99万元起，腾势N8正式上市：首搭易三方Evo，纯电续航1003公里",
-   "link": "https://www.leiphone.com/category/transportation/9YeGaaNjyBi0zkQ4.html",
-   "source": "雷峰网",
+   "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
+   "link": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "11月12日，腾势汽车旗下全新大五座SUV腾势N8正式上市，共推出纯电、插混两种动力版本、六款车型，官方指导价为26.99万—32.99万元。 雷峰网了解到，作为腾势面向中高端家庭SUV市场推出的新产品，N8搭载了多项比亚迪最新技术，包括易三方Evo、第二代刀片电池及闪充技术、天神之眼5.0辅助驾驶系统，以及云辇-A闭式双腔空气悬架。 其中，纯电版本CLTC续航达到1003公里，插混版本CLTC纯电续航435公里、综合续航1567公里。 新车还首次搭载腾势巨幕智能座舱，采用30英寸巨幕屏与1.1米天际屏组合，并引入AI超级智能体迪迪虾及AI萌宠交互功能。 按照官方公布的购车政策，新车上市期间提供最高价值7.1万元的限时权益，涵盖选装、置换、金融贴息、闪充服务及智能驾驶相关保障等。 对于腾势而言，N8的上市进一步补充了品牌在30万元左右SUV市场的产品布局。相比单纯依靠尺寸和舒适配置建立竞争",
-   "pub_date": "2026-11-16T15:21:00.000Z",
+   "summary": "欢迎回到罪城 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-18T17:16:31.000Z",
    "is_read": false
   },
   {
-   "title": "平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分",
-   "link": "https://www.leiphone.com/category/industrynews/LTOeijdeWR08fZGP.html",
-   "source": "雷峰网",
+   "title": "这届高校学生，为何选择用鸿蒙创新？",
+   "link": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "11月16日，蚂蚁灵波首届具身大模型挑战赛总决赛结果出炉。 来自福田实验室、西北工业大学、普渡机器人、天津大学的五位选手组成的“TARS”战队获得一等奖；华中科技大学、清华大学深圳研究院、湖北元一智能的三位选手组成的“EVA”战队，以及天津大学、北京大学、中国科学院自动化研究所三位选手组成的“SST”战队获得二等奖；“Vida”、“FDU_SONIC”、“ai-robot”战队获得三等奖；另有9支队伍获得优秀奖，3支队伍获得观察团特别奖。 TARS战队获得首届蚂蚁灵波具身大模型挑战赛一等奖 图源：受访对象 48小时真机比拼，机器人要过三道关 11月14日，15支决赛队伍在上海张江科学会堂集结。选手们从北京、上海、杭州、深圳、成都、武汉等地赶来，还有选手专程从温哥华回来参赛。上午9点，赛题一公布，各队便扎进工作间，开始了为期48小时的真机黑客松。 比赛中，各队以同一款开源预训练模型 Ling",
-   "pub_date": "2026-11-16T14:56:00.000Z",
+   "summary": "有想法就是入场券。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-18T10:45:36.000Z",
    "is_read": false
   },
   {
-   "title": "当充电像加油一样快，租车自驾的边界被拓宽",
-   "link": "https://www.leiphone.com/category/industrynews/kfphRdgYwSdN13Nv.html",
-   "source": "雷峰网",
+   "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+   "link": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
    "category": "ai",
-   "summary": "服务自驾生态，成为租车平台下一个增长点。 作者 | 郑浩钧 编辑 | 王瑞昊 傍晚，济南机场的还车点，一家四口把两个大箱子从后备箱里搬下来，这趟山东租车自驾游算是收尾了。 车该还了，可电量已经不多，还车点旁边就是闪充站，插上充电枪，妈妈带着孩子去便利店买零食，买完回来，不到十分钟，电量已经接近充满。这趟自驾游，出发时开走的是一台满电车，收尾时又在这儿把电顺手补满。一头一尾，补能从没让这家人等待太久。 2026年11月10日，当济南机场站首批闪充车、闪充站投放落地后，这样的场景可能每天都会发生。取车时满电开走，还车时顺手补满，你不再需要把自驾游算成一张充电桩分布图 ， 补能这件事，在还车点就能完成。 而这样的场景，不过是租车行业新能源转型这场更大变局的一角。新能源车的补能焦虑，一直卡在租车公司新能源转型的路上。谁先跨过这道坎，谁就拿到了通往“全场景汽车生活服务平台”的那把钥匙。 PART 1",
-   "pub_date": "2026-11-16T14:17:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO",
-   "link": "https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "要闻提示 1.黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 2.女子称因拒绝给HR带咖啡被取消面试，BOSS直聘回应：已暂停该招聘账号权限 3.董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证 4.腾讯 AI 李牧青离职，出任 AI 公司联席 CEO 5.韩路也来凑热闹！Tim喊话网友说“难听话”抽iPhone Duo：结果收到一句“祝你年入百万” 6.重磅！闻泰科技发布关于荷兰企业法庭作出临时措施裁定的声明 7.比亚迪辟谣收购“某数字能源”：无任何事实依据 8.连马斯克自己都嫌贵！吐槽特斯拉Cybercab每月花2000买FSD：喊话要降价 今日头条 黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 11月16日消息， 据英媒报道，黄仁勋正考虑重返英伟达担任首席执行官，其硅谷盟友也在向公司董事会施压，推动恢复他的职务。 据多位知情人士透露，黄仁勋已与亲信讨",
-   "pub_date": "2026-11-16T11:21:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装",
-   "link": "https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "11月13日，启境汽车以“一车双能 为热爱上新”为主题，正式推出启境GT7 Ultra舒享版增程、纯电双车型，限时权益价分别为22.19万元与23.19万元。两款新车均标配面向L3级自动驾驶架构，启境GT7此次上新进一步拓宽了动力选择：增程版主打超长续航，纯电版兼顾豪华舒享。双车型均享最低首付6.66万元、5年分期前3年0息的金融政策，让面向L3级架构猎装真正走入20万级市场。 启境由广汽集团与华为乾崑联合打造，双方以“车企主导、共同定义”的方式，将广汽近30年的整车制造与品质体系，和华为乾崑全栈智能能力深度融合。继启境GX7上市全国交付突破4000台，启境GT7乘势加推双车型，为热爱户外生活、追求高阶智能的用户，提供“舒享配置，一步到位”的猎装新选择。 L3级架构+华为乾崑智驾ADS 5，为高阶智能出行打好整车基础 对于计划长期持车的用户，智能汽车的底层架构与安全冗余，直接关系到后续技术",
-   "pub_date": "2026-11-16T09:54:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景",
-   "link": "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "近日，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，让AI办公进一步走向职业化。据悉，这也是业内首个面向多个专业场景、不同职业人群定制的AI工作台功能。 工作台页面 据豆包工作官方介绍，“工作台”是为用户的专业工作场景提供的专属AI工作空间。金融、医疗、教育、创意设计等21个场景所需要的技能、工具，都预先配置在这个空间里，用户不必再逐项挑选。这大幅降低了专业工作场景的AI使用门槛，也提升了工作效率。用户打开豆包工作，进入“工作台”页面，选择相关专业工作台后即可直接使用。 以金融投研工作台为例，其首页提供了公告解读、业绩分析、市场简报、公司研究等常用任务入口，并连接了万得、同花顺、国泰海通等专业数据服务插件，用户授权相关金融数据终端的账号权限后，可调用相关专业金融数据辅助工作。 医生工作台致力于帮助医生解决办公与科研场景下重复性工作问题，并为专业判断提供",
-   "pub_date": "2026-11-16T08:59:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
-   "link": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "物理AI的热度，正从机器人本体向产业链上下游扩散。 过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。 答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏。这些都不是多买几台服务器能解决的。 英伟达提出“三台计算机”概念：一台训练模型，一台在数字孪生与仿真环境中训练、验证技能，第三台部署在机器人本体上执行。Omniverse、Isaac、Cosmos等平台，旨在打通训练、仿真与终端计算成为一条链。最新一季财报显示，其数据中心业务收入同比增长117%，物理AI正成为计算平台新的增长市场。 但仿真无法完全替代真实世界。Neura Robotics创始人兼CEO David Reger在接受麦肯锡采访时谈到，数字孪生与真实环境之间仍有差距，机器人需要在",
-   "pub_date": "2026-11-16T08:04:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026",
-   "link": "https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。 作者丨 张 璐 编辑丨马晓宁 你有没有过这样的经历：面对几十页密密麻麻的PDF，实在抽不出时间细读，于是把论文丢给ChatGPT或Claude，让它帮你提炼核心观点。 几秒钟后，一份条理清晰的摘要出现在屏幕上。你点点头，觉得自己已经掌握了论文的主要内容，甚至直接将其中的观点引用进了自己的研究。 但是，等等——你确定AI总结的，真的是原作者想表达的意思吗？如果它悄悄引入了原文没有的观点，甚至将毫不相干的概念联系在一起，作为研究者的我们，能否及时发现？ 在正在举行的 ACM Multimedia 2026 上，人机交互领域先驱、巴西里约热内卢天主教大学（PUC-Rio）荣休教授 Clarisse Sieckenius de Souza 带来了一场主题演讲。 她从自己提出的“语义工程”（Semiotic Engin",
-   "pub_date": "2026-11-16T07:59:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
-   "link": "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "时隔两年，World Labs 的工作已经完全不同了。 作者丨 齐铖湧 编辑丨岑 峰 2026年11月，CoRL（机器人学习顶会）在奥斯汀开幕。 这一届的演讲嘉宾，有一个无法回避的名字，李飞飞。斯坦福教授、ImageNet发起者、World Labs创始人。就在本届CoRL之前，World Labs被AMD收购的消息正在圈内发酵，她即将出任AMD首席科学家。这届CoRL现场，她不仅全面介绍了World Labs最近的工作和她的行业观点，还邀请AMD苏妈参与了对话圆桌，某种意义上，这是她的\"AMD首秀\"。 为她做开场介绍的，是她的学生、本届CoRL组织者之一Yuke（朱玉可）。他讲了一个细节：毕业典礼上，李飞飞对他说，“你在我的实验室时是我的学生，但从今往后，你是我的朋友。” 这场演讲的正式主角，是World Labs与斯坦福团队研发的新模型Atlas：一个统一的生成与重建世界模型。 以下是",
-   "pub_date": "2026-11-16T07:28:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」",
-   "link": "https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html",
-   "source": "雷峰网",
-   "category": "ai",
-   "summary": "一场横跨科研、经济、AI、社会话题、算力未来的女性对话。 作者丨 齐铖湧 编辑丨岑 峰 2026年11月，奥斯汀，CoRL 2026的台下坐满了机器人研究者。 台上三把椅子，两位嘉宾，左边是即将出任AMD首席科学家的李飞飞，右边是AMD CEO苏姿丰。这是AMD收购World Labs消息传出后，两人的首次公开同台，也是李飞飞以\"AMD首席科学家\"身份，第一次面对整个机器人学术社区。 对话没有客套太久。李飞飞直接把话题引向了敏感区域：公共部门的算力\"饥饿\"，是\" 这个历史最重要时刻最大的失误之一 \"。大学和非营利机构拿不到卡，下一代研究者怎么训练？蓝天式的好奇心驱动研究怎么做？她看向苏姿丰，AMD正在建设\"以吉瓦计\"的算力，academia 能不能真的分到一杯羹？ 在苏姿丰看来：\" 把一部分专门留给长期研究、留给大学，绝对是我们工作的一部分 。\"但她同时也划定边界：机器人不是单靠一个端到端",
-   "pub_date": "2026-11-16T07:24:00.000Z",
+   "summary": "希望国模也快快跟上啊 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-18T10:01:23.000Z",
    "is_read": false
   },
   {
@@ -289,6 +343,15 @@
    "category": "ai",
    "summary": "Rimac 已经拿到了大结果。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
    "pub_date": "2026-11-18T03:40:19.000Z",
+   "is_read": false
+  },
+  {
+   "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+   "link": "https://www.ifanr.com/1690103?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "category": "ai",
+   "summary": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "pub_date": "2026-11-18T02:39:15.000Z",
    "is_read": false
   },
   {
@@ -391,66 +454,66 @@
    "is_read": false
   },
   {
-   "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
-   "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "The Silent Consensus",
+   "link": "https://openai.com/index/the-silent-consensus",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "比 DeepSeek V4.1 Flash 性价比更高 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-16T09:53:01.000Z",
+   "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+   "pub_date": "2026-11-18T10:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
-   "link": "https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Research acceleration: The jagged frontier",
+   "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "硬糖边边线，今日上线。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-16T08:37:10.000Z",
+   "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+   "pub_date": "2026-11-18T08:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods",
-   "link": "https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+   "link": "https://openai.com/business/customer-stories/sumitomo-life",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "真正认真对待软件的人，应该自己去制造硬件。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-16T08:24:59.000Z",
+   "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+   "pub_date": "2026-11-18T08:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "超 16 万人请愿，黄仁勋准备「回宫」",
-   "link": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Inside the Codex sandbox",
+   "link": "https://openai.com/index/inside-the-codex-sandbox",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "辞职三天，想回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-16T01:11:22.000Z",
+   "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+   "pub_date": "2026-11-18T08:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
-   "link": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Managing frontier AI risk: From training to deployment",
+   "link": "https://openai.com/index/managing-frontier-ai-risk",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "黄仁勋的故事还没有结束 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-16T00:56:45.000Z",
+   "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+   "pub_date": "2026-11-18T06:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
-   "link": "https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "· 余承东：华为大折叠已成千万人主力机 · 苹果 HomeView 发售，首批实测遇到语音和账户切换问题 · 微软服务故障持续超 30 小时，官方宣布恢复 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-15T23:55:30.000Z",
+   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+   "pub_date": "2026-11-18T00:00:00.000Z",
    "is_read": false
   },
   {
-   "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
-   "link": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
+   "title": "Advancing chip design with OpenAI models",
+   "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "source": "OpenAI Blog",
    "category": "ai",
-   "summary": "小身材，大嗓门 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "pub_date": "2026-11-15T10:00:17.000Z",
+   "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+   "pub_date": "2026-11-18T00:00:00.000Z",
    "is_read": false
   },
   {
@@ -571,66 +634,12 @@
    "is_read": false
   },
   {
-   "title": "The King’s Trust and OpenAI launch £1m partnership",
-   "link": "https://openai.com/index/the-kings-trust-and-openai",
-   "source": "OpenAI Blog",
+   "title": "The Gemini app is now available on lower-memory Android devices.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "source": "Google AI Blog",
    "category": "ai",
-   "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-   "pub_date": "2026-11-16T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "At Holiday Extras, dots get to work before anyone asks",
-   "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-   "pub_date": "2026-11-16T00:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "A step toward defining the Standard Model on a lattice",
-   "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-   "pub_date": "2026-11-15T22:00:01.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Our new blog for science",
-   "link": "https://openai.com/index/our-new-blog-for-science",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-   "pub_date": "2026-11-15T22:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Introducing ChatGPT Wallet",
-   "link": "https://openai.com/index/introducing-chatgpt-wallet",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-   "pub_date": "2026-11-13T15:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "link": "https://openai.com/business/customer-stories/shield",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-   "pub_date": "2026-11-13T08:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "link": "https://openai.com/business/customer-stories/amplitude",
-   "source": "OpenAI Blog",
-   "category": "ai",
-   "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-   "pub_date": "2026-11-12T20:00:00.000Z",
+   "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+   "pub_date": "2026-11-18T17:00:00.000Z",
    "is_read": false
   },
   {
@@ -805,12 +814,165 @@
    "is_read": false
   },
   {
-   "title": "Co-creating the future of fashion with Google",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-   "source": "Google AI Blog",
+   "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+   "source": "TechCrunch AI",
    "category": "ai",
-   "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
-   "pub_date": "2026-09-18T13:00:00.000Z",
+   "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+   "pub_date": "2026-11-19T00:42:56.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+   "pub_date": "2026-11-18T23:45:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+   "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+   "pub_date": "2026-11-18T23:25:17.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+   "pub_date": "2026-11-18T23:17:28.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+   "pub_date": "2026-11-18T22:58:11.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Anthropic prices IPO at $83 a share, above projected range",
+   "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+   "pub_date": "2026-11-18T22:11:15.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+   "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+   "pub_date": "2026-11-18T21:57:40.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+   "pub_date": "2026-11-18T21:34:13.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+   "pub_date": "2026-11-18T21:31:21.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+   "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+   "pub_date": "2026-11-18T20:07:01.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+   "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+   "pub_date": "2026-11-18T19:56:39.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Google’s AI feature in Search gets its own incognito mode",
+   "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+   "pub_date": "2026-11-18T18:04:05.000Z",
+   "is_read": false
+  },
+  {
+   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+   "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+   "pub_date": "2026-11-18T17:32:10.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+   "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+   "pub_date": "2026-11-18T16:59:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+   "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+   "pub_date": "2026-11-18T16:14:09.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+   "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+   "pub_date": "2026-11-18T13:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+   "pub_date": "2026-11-18T12:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+   "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "source": "TechCrunch AI",
+   "category": "ai",
+   "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+   "pub_date": "2026-11-18T11:30:00.000Z",
    "is_read": false
   },
   {
@@ -832,165 +994,30 @@
    "is_read": false
   },
   {
-   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-   "source": "TechCrunch AI",
+   "title": "The AI Hype Index: AI is everywhere",
+   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+   "source": "MIT Technology Review",
    "category": "ai",
-   "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-   "pub_date": "2026-11-17T23:37:48.000Z",
+   "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
+   "pub_date": "2026-11-18T14:42:44.000Z",
    "is_read": false
   },
   {
-   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-   "source": "TechCrunch AI",
+   "title": "The Download: AI learns to smell and hydropower struggles",
+   "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+   "source": "MIT Technology Review",
    "category": "ai",
-   "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-   "pub_date": "2026-11-17T23:04:35.000Z",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”…",
+   "pub_date": "2026-11-18T13:10:00.000Z",
    "is_read": false
   },
   {
-   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-   "source": "TechCrunch AI",
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "source": "MIT Technology Review",
    "category": "ai",
-   "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-   "pub_date": "2026-11-17T22:42:27.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-   "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-   "pub_date": "2026-11-17T22:29:05.000Z",
-   "is_read": false
-  },
-  {
-   "title": "SEC reportedly investigating Nvidia amid Huang exit",
-   "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-   "pub_date": "2026-11-17T21:48:07.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Google joins the tech outage trend by announcing it’s not having one",
-   "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
-   "pub_date": "2026-11-17T21:34:50.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Model ML raises $250M to automate investment banking grunt work",
-   "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
-   "pub_date": "2026-11-17T19:32:11.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-   "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-   "pub_date": "2026-11-17T19:02:20.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-   "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-   "pub_date": "2026-11-17T18:48:23.000Z",
-   "is_read": false
-  },
-  {
-   "title": "As decision model use skyrockets, is customization the next frontier?",
-   "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-   "pub_date": "2026-11-17T18:10:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-   "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
-   "pub_date": "2026-11-17T18:04:16.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-   "pub_date": "2026-11-17T17:32:25.000Z",
-   "is_read": false
-  },
-  {
-   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-   "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-   "pub_date": "2026-11-17T17:20:41.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-   "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-   "pub_date": "2026-11-17T16:44:15.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-   "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-   "pub_date": "2026-11-17T16:32:55.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-   "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-   "pub_date": "2026-11-17T15:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-   "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-   "pub_date": "2026-11-17T14:50:58.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-   "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-   "source": "TechCrunch AI",
-   "category": "ai",
-   "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-   "pub_date": "2026-11-17T14:26:46.000Z",
+   "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
+   "pub_date": "2026-11-18T10:20:30.000Z",
    "is_read": false
   },
   {
@@ -1057,30 +1084,30 @@
    "is_read": false
   },
   {
-   "title": "Building AI that can work across the enterprise",
-   "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-   "source": "MIT Technology Review",
+   "title": "datasette-arrows 0.1a0",
+   "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "source": "Simon Willison",
    "category": "ai",
-   "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
-   "pub_date": "2026-11-16T13:00:00.000Z",
+   "summary": "Release: datasette-arrows 0.1a0 Datasette 1.0a43 added the ability for plugins to implement streaming export formats. Datasette core supports streaming CSV and TSV - you can export millions of lines of data from a table without needing to load it all into memory, because those two file formats support streaming data in chunks. The register_output_renderer() plugin hook can now be used to implement",
+   "pub_date": "2026-11-18T17:09:59.000Z",
    "is_read": false
   },
   {
-   "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-   "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-   "source": "MIT Technology Review",
+   "title": "Quoting Daniel Stenberg",
+   "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+   "source": "Simon Willison",
    "category": "ai",
-   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…",
-   "pub_date": "2026-11-13T13:10:00.000Z",
+   "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we have done another 20",
+   "pub_date": "2026-11-18T15:58:27.000Z",
    "is_read": false
   },
   {
-   "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-   "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-   "source": "MIT Technology Review",
+   "title": "The PSF end-of-year fundraiser",
+   "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+   "source": "Simon Willison",
    "category": "ai",
-   "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…",
-   "pub_date": "2026-11-13T10:00:00.000Z",
+   "summary": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work benefits from Python, please consider donating this year! The PSF looks after the IP behind Python, operates PyPI, sponsors core developer sprints, supports commu",
+   "pub_date": "2026-11-18T14:44:48.000Z",
    "is_read": false
   },
   {
@@ -1327,210 +1354,246 @@
    "is_read": false
   },
   {
-   "title": "Hide your slop PR descriptions behind",
-   "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem is ",
-   "pub_date": "2026-11-09T04:25:05.000Z",
-   "is_read": false
-  },
-  {
-   "title": "parse_number() as a SQLite extension: C vs Rust",
-   "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted : I'm thinking about a SQLite custom fu",
-   "pub_date": "2026-11-08T22:26:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-   "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-   "source": "Simon Willison",
-   "category": "ai",
-   "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: <https://latest.datasette.io/fixtures/compound_three_p",
-   "pub_date": "2026-11-07T23:57:46.000Z",
-   "is_read": false
-  },
-  {
-   "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
-   "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+   "title": "AI will not make you rich (2025)",
+   "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538 Points: 0 # Comments: 0",
-   "pub_date": "2026-11-18T03:35:47.000Z",
+   "summary": "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 66 # Comments: 41",
+   "pub_date": "2026-11-19T01:51:28.000Z",
    "is_read": false
   },
   {
-   "title": "Cerebras Disaggregated Inference",
-   "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+   "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+   "link": "https://github.com/Ri4dH/failtrace",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 41 # Comments: 13",
-   "pub_date": "2026-11-18T00:56:23.000Z",
+   "summary": "Article URL: https://github.com/Ri4dH/failtrace Comments URL: https://news.ycombinator.com/item?id=50554941 Points: 11 # Comments: 1",
+   "pub_date": "2026-11-19T01:30:43.000Z",
    "is_read": false
   },
   {
-   "title": "ID.me terms required for IRS sign-in",
-   "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+   "title": "Unreal Tournament 2004 in the Browser",
+   "link": "https://ut2004.dev/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 181 # Comments: 66",
-   "pub_date": "2026-11-18T00:51:45.000Z",
+   "summary": "Article URL: https://ut2004.dev/ Comments URL: https://news.ycombinator.com/item?id=50554935 Points: 51 # Comments: 16",
+   "pub_date": "2026-11-19T01:29:29.000Z",
    "is_read": false
   },
   {
-   "title": "Google's AI answers reducing search traffic by 40%",
-   "link": "https://revscope.co/blog/search-seo-geo-2026/",
+   "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+   "link": "https://arxiv.org/abs/2607.29378",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 168 # Comments: 114",
-   "pub_date": "2026-11-18T00:17:58.000Z",
+   "summary": "Article URL: https://arxiv.org/abs/2607.29378 Comments URL: https://news.ycombinator.com/item?id=50554908 Points: 20 # Comments: 5",
+   "pub_date": "2026-11-19T01:27:02.000Z",
    "is_read": false
   },
   {
-   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-   "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+   "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 113 # Comments: 44",
-   "pub_date": "2026-11-17T23:32:58.000Z",
+   "summary": "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 53 # Comments: 19",
+   "pub_date": "2026-11-19T00:57:20.000Z",
    "is_read": false
   },
   {
-   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-   "link": "https://github.com/microsoft/onnxruntime",
+   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 172 # Comments: 40",
-   "pub_date": "2026-11-17T23:18:49.000Z",
+   "summary": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 126 # Comments: 46",
+   "pub_date": "2026-11-19T00:29:45.000Z",
    "is_read": false
   },
   {
-   "title": "Latent Lattice Language Models",
-   "link": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+   "title": "We need smart people who give a shit",
+   "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 33 # Comments: 4",
-   "pub_date": "2026-11-17T22:17:18.000Z",
+   "summary": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 306 # Comments: 159",
+   "pub_date": "2026-11-18T23:53:49.000Z",
    "is_read": false
   },
   {
-   "title": "Quad9's withdrawal from France: A canary in the coal mine",
-   "link": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+   "title": "Multiple vulnerabilities in Regexp and String case conversion",
+   "link": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 355 # Comments: 114",
-   "pub_date": "2026-11-17T22:13:34.000Z",
+   "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 128 # Comments: 35",
+   "pub_date": "2026-11-18T23:52:50.000Z",
    "is_read": false
   },
   {
-   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-   "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+   "link": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 88 # Comments: 135",
-   "pub_date": "2026-11-17T21:16:12.000Z",
+   "summary": "Article URL: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open Comments URL: https://news.ycombinator.com/item?id=50554009 Points: 26 # Comments: 3",
+   "pub_date": "2026-11-18T23:49:13.000Z",
    "is_read": false
   },
   {
-   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-   "link": "https://calif.io/java4shell/",
+   "title": "LLM assisted reverse engineering",
+   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 624 # Comments: 164",
-   "pub_date": "2026-11-17T21:11:28.000Z",
+   "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 100 # Comments: 29",
+   "pub_date": "2026-11-18T22:29:13.000Z",
    "is_read": false
   },
   {
-   "title": "Tencent Hy4 Flash",
-   "link": "https://hy.tencent.ai/research/hy4-flash",
+   "title": "Gemini 4 Neon",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 77 # Comments: 11",
-   "pub_date": "2026-11-17T21:06:08.000Z",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?id=50552424 Points: 550 # Comments: 505",
+   "pub_date": "2026-11-18T21:34:07.000Z",
    "is_read": false
   },
   {
-   "title": "Web Browser Engineering (2021)",
-   "link": "https://browser.engineering/",
+   "title": "DaisyRose-27B",
+   "link": "https://www.radixark.com/blog/daisyrose-27b",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 135 # Comments: 20",
-   "pub_date": "2026-11-17T20:01:35.000Z",
+   "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 156 # Comments: 45",
+   "pub_date": "2026-11-18T19:39:16.000Z",
    "is_read": false
   },
   {
-   "title": "jQuery 4.1.0",
-   "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+   "title": "Genie 4 is now available",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 269 # Comments: 149",
-   "pub_date": "2026-11-17T19:50:40.000Z",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 205 # Comments: 146",
+   "pub_date": "2026-11-18T18:49:51.000Z",
    "is_read": false
   },
   {
-   "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
-   "link": "https://arxiv.org/abs/2611.09827",
+   "title": "Advancing chip design with OpenAI models",
+   "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://arxiv.org/abs/2611.09827 Comments URL: https://news.ycombinator.com/item?id=50537120 Points: 86 # Comments: 62",
-   "pub_date": "2026-11-17T19:46:57.000Z",
+   "summary": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 170 # Comments: 109",
+   "pub_date": "2026-11-18T17:45:47.000Z",
    "is_read": false
   },
   {
-   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-   "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+   "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+   "link": "https://news.ycombinator.com/item?id=50549188",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 270 # Comments: 81",
-   "pub_date": "2026-11-17T19:25:27.000Z",
+   "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents. Demo: https://www.youtube.com/watch?v=lCWMdBQ96rY There’s been an explosion of sandbox companies coming out of SF, but sandboxes solve maybe 10% of the infrastructure problem for AI agents. The appr",
+   "pub_date": "2026-11-18T17:26:28.000Z",
    "is_read": false
   },
   {
-   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-   "link": "https://starsling.dev",
+   "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+   "link": "https://rshekhar.com/voyager/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with ",
-   "pub_date": "2026-11-17T19:01:43.000Z",
+   "summary": "Voyager 1 reached one light-day from Earth today. On the site you can: - see where both Voyagers are right now - open a nuclear battery to its 24 plutonium spheres - go into the data computer, down to a single memory chip - see how the Golden Record's cover explains how to play it - watch how Voyager 1 was fixed by radio - see which dish on Earth is listening to them, live I also made a 4-minute f",
+   "pub_date": "2026-11-18T16:18:51.000Z",
    "is_read": false
   },
   {
-   "title": "Solid 2.0",
-   "link": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+   "title": "Seven new models at scalable price-performance",
+   "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 251 # Comments: 71",
-   "pub_date": "2026-11-17T18:56:17.000Z",
+   "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 472 # Comments: 328",
+   "pub_date": "2026-11-18T16:08:24.000Z",
    "is_read": false
   },
   {
-   "title": "Phrack 73 Released",
-   "link": "https://phrack.org/issues/73/introduction_md",
+   "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+   "link": "https://exitpath-ruddy.vercel.app/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 306 # Comments: 46",
-   "pub_date": "2026-11-17T18:31:25.000Z",
+   "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 179 # Comments: 53",
+   "pub_date": "2026-11-18T16:04:43.000Z",
    "is_read": false
   },
   {
-   "title": "MAI Code 2 and Code 2 Flash",
-   "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50535885 Points: 308 # Comments: 141",
-   "pub_date": "2026-11-17T18:25:13.000Z",
+   "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 393 # Comments: 170",
+   "pub_date": "2026-11-18T15:49:34.000Z",
    "is_read": false
   },
   {
-   "title": "Not Everything Needs an LLM",
-   "link": "https://newsletter.posthog.com/p/decision-models",
+   "title": "Inside Deutsche Bank",
+   "link": "https://www.inside-db.com/",
    "source": "Hacker News",
    "category": "ai",
-   "summary": "Article URL: https://newsletter.posthog.com/p/decision-models Comments URL: https://news.ycombinator.com/item?id=50535740 Points: 113 # Comments: 45",
-   "pub_date": "2026-11-17T18:16:18.000Z",
+   "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 580 # Comments: 198",
+   "pub_date": "2026-11-18T15:38:33.000Z",
+   "is_read": false
+  },
+  {
+   "title": "GLP-1 drugs linked to reduced alcohol use and healthier eating in real-world study",
+   "link": "https://www.psypost.org/glp-1-drugs-linked-to-reduced-alcohol-use-and-healthier-eating-in-real-world-study/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Tracking 135 patients across Spain for nearly a year, researchers found that routine treatment with drugs like semaglutide and dulaglutide coincided with lower self-reported alcohol intake and better dietary adherence.",
+   "pub_date": "2026-11-19T01:00:54.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Heavy cannabis use linked to mild psychotic symptoms and depressive thoughts",
+   "link": "https://www.psypost.org/heavy-cannabis-use-linked-to-mild-psychotic-symptoms-and-depressive-thoughts/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Frequent cannabis use is closely linked to higher rates of mild hallucinations, paranoia, and depressive symptoms, particularly among individuals who begin using the drug heavily at a young age.",
+   "pub_date": "2026-11-18T23:00:54.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Does personality predict family size? A 15,000-person study across three countries weighs in",
+   "link": "https://www.psypost.org/does-personality-predict-family-size-a-15000-person-study-across-three-countries-weighs-in/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "A survey of 15,120 adults in Canada, the United States, and Japan suggests that outgoing, cooperative, and emotionally stable people tend to have slightly more biological children, though marriage, age, and national culture play much larger roles.",
+   "pub_date": "2026-11-18T21:00:52.000Z",
+   "is_read": false
+  },
+  {
+   "title": "A 30-minute walk helps sustain brain activity during mental task switching, study finds",
+   "link": "https://www.psypost.org/a-30-minute-walk-helps-sustain-brain-activity-during-mental-task-switching-study-finds/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Can a short walk change how your brain handles a mental challenge? In a small study, walking altered brain activity during a task-switching test, with some effects differing by age, though performance did not improve.",
+   "pub_date": "2026-11-18T19:00:50.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Scientists finally pin down what a mysterious Alzheimer’s gene does",
+   "link": "https://www.psypost.org/scientists-finally-pin-down-what-a-mysterious-alzheimers-gene-does/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "CASS4 has been tied to Alzheimer’s risk since 2013, but nobody knew what it did in the brain. New mouse research suggests it lets immune cells physically grip and compact amyloid plaques.",
+   "pub_date": "2026-11-18T17:00:47.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Childhood trauma and ADHD independently fuel risky driving habits, study suggests",
+   "link": "https://www.psypost.org/childhood-trauma-and-adhd-independently-fuel-risky-driving-habits/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Driving can be dangerous for young adults with ADHD or a history of childhood trauma. New research explores how these two risk factors operate independently to increase the likelihood of speeding, texting, and aggressive behavior behind the wheel.",
+   "pub_date": "2026-11-18T15:00:46.000Z",
+   "is_read": false
+  },
+  {
+   "title": "New psychology study suggests your sexual turn-ons are far more fluid than assumed",
+   "link": "https://www.psypost.org/new-psychology-study-suggests-your-sexual-turn-ons-are-far-more-fluid-than-assumed/",
+   "source": "PsyPost",
+   "category": "psychology",
+   "summary": "Do sexual preferences stay fixed across adulthood? New research indicates that many adults experience moderate shifts in their sexual turn-ons over time, with no link to anxiety, depression, or sexual difficulties.",
+   "pub_date": "2026-11-18T11:00:45.000Z",
    "is_read": false
   },
   {
@@ -1651,69 +1714,6 @@
    "is_read": false
   },
   {
-   "title": "Muscle dysmorphia symptoms linked to a range of sexual difficulties in young men",
-   "link": "https://www.psypost.org/muscle-dysmorphia-symptoms-linked-to-a-range-of-sexual-difficulties-in-young-men/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Young men with stronger muscle dysmorphia symptoms report more sexual difficulties, from anxiety during sex to erectile trouble. Anxiety about physical appearance showed the broadest links, while the drive to get bigger mattered less.",
-   "pub_date": "2026-11-16T13:00:12.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Musically trained children score higher on tests of intelligence, working memory, and reading",
-   "link": "https://www.psypost.org/musically-trained-children-score-higher-on-tests-of-intelligence-working-memory-and-reading/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Among 7- to 9-year-olds, children who regularly practiced an instrument scored higher than peers of similar age, sex, and socioeconomic status on tests of general intelligence, working memory, reading, and math.",
-   "pub_date": "2026-11-16T12:00:10.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Supernatural delusions are common in psychedelic-linked killings, studies find",
-   "link": "https://www.psypost.org/supernatural-delusions-are-common-in-psychedelic-linked-killings-studies-find/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Researchers have documented 626 homicides committed under the influence of psychedelics since 1962. Delusions appeared in about 28 percent of cases, and offenders who had them were far more likely to kill a partner, friend, or parent.",
-   "pub_date": "2026-11-16T11:00:10.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Republicans experience worse mental health in Democratic neighborhoods, study finds",
-   "link": "https://www.psypost.org/republicans-experience-worse-mental-health-in-democratic-neighborhoods/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "A large national study finds that Republicans living in heavily Democratic neighborhoods report higher rates of anxiety, depression, and loneliness. Democrats, however, show similar mental health regardless of their neighborhood's political makeup.",
-   "pub_date": "2026-11-15T23:00:30.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Family ties emerge as a key link between poverty and teen well-being in Taiwanese study",
-   "link": "https://www.psypost.org/family-ties-emerge-as-a-key-link-between-poverty-and-teen-well-being-in-taiwanese-study/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Among more than 1,300 Taiwanese adolescents living in poverty, those facing more material hardship reported poorer family relationships and more psychological distress. Family ties appeared to be the most consistent link between deprivation and adolescents’ well-being.",
-   "pub_date": "2026-11-15T21:00:17.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Psychologists map the connection between dark personality traits and romantic jealousy",
-   "link": "https://www.psypost.org/how-aggressive-personality-traits-fuel-romantic-jealousy-through-obsessive-love/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "New psychological research reveals how aggressive personality traits are channeled into romantic jealousy. The findings suggest that hostility often expresses itself through an obsessive, possessive approach to love, acting as a bridge to severe jealousy.",
-   "pub_date": "2026-11-15T19:00:15.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Brain differences in dyslexia appear before children learn to read",
-   "link": "https://www.psypost.org/brain-differences-in-dyslexia-appear-before-children-learn-to-read/",
-   "source": "PsyPost",
-   "category": "psychology",
-   "summary": "Children who go on to develop dyslexia already show weaker brain responses to repeated written words in kindergarten, before formal reading lessons start. Their responses to faces, houses, and objects look much like those of their peers.",
-   "pub_date": "2026-11-15T17:00:05.000Z",
-   "is_read": false
-  },
-  {
    "title": "The hidden language of psychopathy is not what scientists expected",
    "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
    "source": "Science Daily 心理学",
@@ -1738,6 +1738,15 @@
    "category": "psychology",
    "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of proteins linked to Alzheimer’s disease.",
    "pub_date": "2026-11-16T01:40:04.000Z",
+   "is_read": false
+  },
+  {
+   "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+   "source": "Science Daily 心理学",
+   "category": "psychology",
+   "summary": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues about why aging increases the risk of Alzheimer's disease and dementia. Surprisingly, some older adults retain the same powerful cleansing waves",
+   "pub_date": "2026-11-18T12:06:44.000Z",
    "is_read": false
   },
   {
@@ -2245,15 +2254,6 @@
    "is_read": false
   },
   {
-   "title": "Childhood trauma may leave a lasting “scar” inside brain cells",
-   "link": "https://www.sciencedaily.com/releases/2026/08/260823094151.htm",
-   "source": "Science Daily 心理学",
-   "category": "psychology",
-   "summary": "Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.",
-   "pub_date": "2026-08-26T07:28:27.000Z",
-   "is_read": false
-  },
-  {
    "title": "Equitable funding for inclusive big team science",
    "link": "https://www.nature.com/articles/s41562-026-02638-7",
    "source": "Nature Human Behaviour",
@@ -2323,6 +2323,15 @@
    "category": "psychology",
    "summary": "Nature Human Behaviour, Published online: 04 November 2026; doi:10.1038/s41562-026-02608-z Across nearly 6.7 million women in 117 low- and middle-income countries, eligibility under national preprimary education laws was associated with higher educational enrolment and completion, more gender-egalitarian attitudes, more favourable empowerment-related behaviours and greater reproductive autonomy.",
    "pub_date": "2026-11-04T00:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Dreams of birds",
+   "link": "https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs",
+   "source": "Aeon",
+   "category": "psychology",
+   "summary": "When bird populations decline, certain songs may be lost forever. One physicist’s mission is to revive lost melodies - by Aeon Video Watch on Aeon",
+   "pub_date": "2026-11-18T11:01:00.000Z",
    "is_read": false
   },
   {
@@ -2497,12 +2506,66 @@
    "is_read": false
   },
   {
-   "title": "The physics of getting fired",
-   "link": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
-   "source": "Aeon",
+   "title": "Can “GTA V” Help Scientists Model Climate Change in L.A.?",
+   "link": "https://nautil.us/can-gta-v-help-scientists-model-climate-change-in-l-a-1286788/",
+   "source": "Nautilus",
    "category": "psychology",
-   "summary": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on Aeon",
-   "pub_date": "2026-10-29T10:00:00.000Z",
+   "summary": "More importantly, can it get people to care? The post Can “GTA V” Help Scientists Model Climate Change in L.A.? appeared first on Nautilus .",
+   "pub_date": "2026-11-18T21:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Homo Erectus Adopted a Jungle Lifestyle 200,000 Years Ago",
+   "link": "https://nautil.us/homo-erectus-adopted-a-jungle-lifestyle-200000-years-ago-1286783/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "It’s a surprising new chapter in our ancient ancestor’s lives The post Homo Erectus Adopted a Jungle Lifestyle 200,000 Years Ago appeared first on Nautilus .",
+   "pub_date": "2026-11-18T20:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "The Speech Patterns of Psychoses",
+   "link": "https://nautil.us/the-speech-patterns-of-psychoses-1286780/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "Exploring how people talk in the throes of mental health crises with McGill psychiatrist Lena Palaniyappan The post The Speech Patterns of Psychoses appeared first on Nautilus .",
+   "pub_date": "2026-11-18T19:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Can Science Save the Ice Skaters?",
+   "link": "https://nautil.us/can-science-save-the-ice-skaters-1286773/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "Geoengineers have an ingenious plan to rescue the world’s most famous ice-skating race from global warming The post Can Science Save the Ice Skaters? appeared first on Nautilus .",
+   "pub_date": "2026-11-18T17:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Why Can Some People Lower Their Cholesterol Through Dieting While Others Can’t?",
+   "link": "https://nautil.us/why-can-some-people-lower-their-cholesterol-through-dieting-while-others-cant-1286766/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "It’s not you—or is it? The post Why Can Some People Lower Their Cholesterol Through Dieting While Others Can’t? appeared first on Nautilus .",
+   "pub_date": "2026-11-18T16:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "Save the Parasites!",
+   "link": "https://nautil.us/save-the-parasites-1286758/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "The world is full of tiny things that live off more charismatic hosts. Parasite ecologists say that these critters, too, are finally starting to get the conservation attention they deserve The post Save the Parasites! appeared first on Nautilus .",
+   "pub_date": "2026-11-18T15:00:00.000Z",
+   "is_read": false
+  },
+  {
+   "title": "This “One-in-a-Million” Fish Has a Rare Genetic Condition That Turns It Yellow",
+   "link": "https://nautil.us/this-one-in-a-million-fish-has-a-rare-genetic-condition-that-turns-it-yellow-1286754/",
+   "source": "Nautilus",
+   "category": "psychology",
+   "summary": "US biologists just won the fish lottery The post This “One-in-a-Million” Fish Has a Rare Genetic Condition That Turns It Yellow appeared first on Nautilus .",
+   "pub_date": "2026-11-18T13:00:00.000Z",
    "is_read": false
   },
   {
@@ -2530,69 +2593,6 @@
    "category": "psychology",
    "summary": "They likely got odder after they “dropped off” onto islands The post Woodcocks and Snipes: The Quintessential Odd Birds appeared first on Nautilus .",
    "pub_date": "2026-11-17T19:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "The Man Who Saw Cats in Human Faces",
-   "link": "https://nautil.us/the-man-who-saw-cats-in-human-faces-1286726/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "An extraordinary case of misrecognition The post The Man Who Saw Cats in Human Faces appeared first on Nautilus .",
-   "pub_date": "2026-11-17T17:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Sniffing Out the Link Between Odor and Disease",
-   "link": "https://nautil.us/sniffing-out-the-link-between-odor-and-disease-1286689/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "Molecules that waft from breath, skin and urine can hold clues to Parkinson’s, cancer and other ills. Scientists hope to harness these signatures for non-invasive medical tests The post Sniffing Out the Link Between Odor and Disease appeared first on Nautilus .",
-   "pub_date": "2026-11-17T15:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Scientists Just Found Something Strange Under the Skin of Sea Pigs",
-   "link": "https://nautil.us/scientists-just-found-something-strange-under-the-skin-of-sea-pigs-1286685/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "A rare, detailed look at an unusual deep-sea creature The post Scientists Just Found Something Strange Under the Skin of Sea Pigs appeared first on Nautilus .",
-   "pub_date": "2026-11-17T13:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "New “Central Dogma of Aging” Highlights the Complexity of Getting Older",
-   "link": "https://nautil.us/new-central-dogma-of-aging-highlights-the-complexity-of-getting-older-1286682/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "Imbalances pile up as we age The post New “Central Dogma of Aging” Highlights the Complexity of Getting Older appeared first on Nautilus .",
-   "pub_date": "2026-11-17T00:30:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Derelict Soviet Spacecraft? Dark Comet? What the Heck is 1998 KY26?",
-   "link": "https://nautil.us/derelict-soviet-spacecraft-dark-comet-what-the-heck-is-1998-ky26-1286677/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "It’s behavior defies explanation The post Derelict Soviet Spacecraft? Dark Comet? What the Heck is 1998 KY26? appeared first on Nautilus .",
-   "pub_date": "2026-11-16T22:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "There’s New Hope for Detecting Alzheimer’s Before Cognitive Deficits Manifest",
-   "link": "https://nautil.us/theres-new-hope-for-detecting-alzheimers-before-cognitive-deficits-manifest-1286674/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "With no cure for Alzheimer’s on the horizon, and our best treatments only slowing the progression of the disease, there’s been an intense effort to find earlier means of detection. Now, a new study published in Neuroimage Reports is offering hope of diagnosis even before cognitive symptoms become noticeable. A team of biomedical imaging specialists, pathologists, and neuroscientists from Johns Hop",
-   "pub_date": "2026-11-16T21:00:00.000Z",
-   "is_read": false
-  },
-  {
-   "title": "Is Science a Mirror, a Game, or a Conversation?",
-   "link": "https://nautil.us/is-science-a-mirror-a-game-or-a-conversation-1286671/",
-   "source": "Nautilus",
-   "category": "psychology",
-   "summary": "What separates science from non-science The post Is Science a Mirror, a Game, or a Conversation? appeared first on Nautilus .",
-   "pub_date": "2026-11-16T19:00:00.000Z",
    "is_read": false
   }
  ]
