@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>服饰冬焕新节点 · 行业营销玩法 · 鹅选集福卡 v4</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #5A0A10; font-family: "PingFang SC", "Microsoft YaHei", sans-serif; color: #FFF6E8; }
+  .page { width: 960px; margin: 0 auto; padding: 52px 58px 58px; position: relative; overflow: hidden;
+          background: radial-gradient(circle at 85% 8%, rgba(247,215,116,.22) 0, rgba(247,215,116,0) 36%),
+                      linear-gradient(170deg, #8E0F1A 0%, #B2121F 55%, #7A0C16 100%); }
+  .page::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 6px;
+                  background: linear-gradient(90deg, #F7D774, #FFEFB0, #F7D774); }
+  .page::after { content: "福"; position: absolute; right: 34px; top: 28px; width: 92px; height: 92px; border-radius: 50%;
+                 background: #F7D774; color: #B2121F; font-size: 52px; font-weight: 800; text-align: center; line-height: 92px;
+                 box-shadow: 0 0 0 6px rgba(247,215,116,.25); }
+  .eyebrow { font-size: 14px; letter-spacing: 4px; color: #F7D774; font-weight: 600; }
+  h1 { font-size: 36px; font-weight: 800; margin-top: 10px; color: #FFFFFF; letter-spacing: 1px; }
+  .title2 { font-size: 46px; font-weight: 900; color: #F7D774; margin-top: 4px; letter-spacing: 3px; }
+  .slogan { margin-top: 14px; font-size: 19px; color: #FFEFB0; font-weight: 700; }
+  .hook { margin-top: 22px; padding: 18px 22px; border-radius: 14px; background: rgba(255,255,255,.1); border: 1px dashed rgba(247,215,116,.7); font-size: 16px; line-height: 1.8; }
+  .hook b { color: #F7D774; }
+  h2 { font-size: 21px; color: #F7D774; margin: 30px 0 14px; font-weight: 800; }
+  h2 span { font-size: 13px; color: #FFD9B0; font-weight: 400; margin-left: 8px; }
+
+  .cards { display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
+  .card { background: #FFF6E8; color: #7A0C16; border-radius: 12px; padding: 14px 10px 12px; text-align: center; }
+  .card .ico { width: 52px; height: 52px; margin: 0 auto; border-radius: 50%; background: #B2121F; color: #F7D774;
+               font-size: 24px; font-weight: 900; line-height: 52px; }
+  .card .name { font-size: 16px; font-weight: 800; margin-top: 8px; }
+  .card .rule { font-size: 12.5px; line-height: 1.6; margin-top: 6px; color: #5A0A10; }
+  .card .how { font-size: 11.5px; line-height: 1.5; margin-top: 6px; color: #8A4B50; }
+  .note { font-size: 13px; color: #FFD9B0; margin-top: 12px; line-height: 1.7; }
+
+  .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .steps .s { background: rgba(255,255,255,.08); border-radius: 12px; padding: 14px 16px; position: relative; }
+  .steps .s .n { font-size: 26px; font-weight: 900; color: #F7D774; }
+  .steps .s b { display: block; font-size: 15px; color: #FFFFFF; margin-top: 2px; }
+  .steps .s p { font-size: 13px; line-height: 1.7; margin-top: 6px; color: #FFE7C2; }
+
+  .pools { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .pool { background: rgba(255,255,255,.08); border-radius: 14px; padding: 18px 20px; border: 1px solid rgba(247,215,116,.5); }
+  .pool.main { background: #F7D774; color: #7A0C16; border: none; }
+  .pool .title { font-size: 17px; font-weight: 800; }
+  .pool .amt { font-size: 34px; font-weight: 900; color: #F7D774; margin: 6px 0; }
+  .pool.main .amt { color: #B2121F; }
+  .pool .desc { font-size: 13.5px; line-height: 1.7; color: #FFE7C2; }
+  .pool.main .desc { color: #5A0A10; }
+  .rank { width: 100%; border-collapse: collapse; margin-top: 10px; font-size: 14px; }
+  .rank td { padding: 6px 8px; border-bottom: 1px solid rgba(255,255,255,.15); }
+  .rank td:last-child { text-align: right; color: #F7D774; font-weight: 800; }
+
+  .honor { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .honor .h { background: rgba(255,255,255,.08); border-radius: 12px; padding: 14px 14px; border-top: 3px solid #F7D774; }
+  .honor .h b { font-size: 15px; color: #FFFFFF; }
+  .honor .h p { font-size: 13px; line-height: 1.7; margin-top: 6px; color: #FFE7C2; }
+
+  .buzz { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+  .buzz .g { background: rgba(255,255,255,.08); border-radius: 12px; padding: 14px 16px; border-top: 3px solid #F7D774; }
+  .buzz .g b { font-size: 15px; color: #FFFFFF; }
+  .buzz .g p { font-size: 13px; line-height: 1.7; margin-top: 6px; color: #FFE7C2; }
+
+  .slogans { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .slogans .q { background: #FFF6E8; color: #7A0C16; border-radius: 10px; padding: 12px 16px; font-size: 14.5px; font-weight: 700; line-height: 1.6; }
+  .slogans .q span { display: block; font-size: 11.5px; color: #8A4B50; font-weight: 400; margin-top: 2px; }
+
+  .timeline { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .step { background: rgba(255,255,255,.08); border-top: 3px solid #F7D774; border-radius: 10px; padding: 12px; font-size: 13px; line-height: 1.6; }
+  .step b { display: block; color: #F7D774; font-size: 14px; margin-bottom: 4px; }
+
+  .kpi { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+  .kpi .k { background: #FFF6E8; color: #7A0C16; border-radius: 12px; padding: 14px 12px; text-align: center; }
+  .kpi .k .n { font-size: 24px; font-weight: 900; color: #B2121F; }
+  .kpi .k .l { font-size: 12.5px; margin-top: 4px; line-height: 1.5; }
+  .kpi .k .s { font-size: 11px; color: #8A4B50; margin-top: 4px; }
+
+  .faq { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .faq .f { background: rgba(255,255,255,.06); border-radius: 10px; padding: 12px 14px; }
+  .faq .f b { font-size: 13.5px; color: #F7D774; }
+  .faq .f p { font-size: 13px; line-height: 1.7; margin-top: 4px; color: #FFE7C2; }
+
+  .foot { margin-top: 26px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,.2); font-size: 12px; color: #FFD9B0; line-height: 1.8; }
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="eyebrow">服饰冬焕新节点 · 行业营销玩法</div>
+  <h1>双12 到春节，一起集福</h1>
+  <div class="title2">鹅选集福卡</div>
+  <div class="slogan">五张福卡，人人都能集，集齐即可瓜分 20 万</div>
+
+  <div class="hook">
+    从双12 保暖到春节红包，行业客户每天在直播间、广告和小店里集一张福。集齐五张，就有资格参与瓜分，还能上福星榜被行业看到。活动不分大小客户，中小客户和头部客户站在同一条起跑线上。
+  </div>
+
+  <h2>一、活动怎么玩<span>三步就能上手</span></h2>
+  <div class="steps">
+    <div class="s">
+      <div class="n">01</div>
+      <b>报名小店活动</b>
+      <p>报名小店跨店满减，拿到集福资格。报名后在后台可以看到自己的福卡进度。</p>
+    </div>
+    <div class="s">
+      <div class="n">02</div>
+      <b>每天做一件事，集一张福</b>
+      <p>直播间挂贴片、广告上新素材、累计投广达标，每完成一项，就得到对应的福卡。</p>
+    </div>
+    <div class="s">
+      <div class="n">03</div>
+      <b>集齐五张，参与瓜分</b>
+      <p>集齐五张即进入奖池名单，福气普照奖人人有份，福星榜按综合表现排位。</p>
+    </div>
+  </div>
+
+  <h2>二、五张福卡<span>同等级，按自己的节奏集</span></h2>
+  <div class="cards">
+    <div class="card">
+      <div class="ico">1</div>
+      <div class="name">报名福</div>
+      <div class="rule">报名小店跨店满减活动</div>
+      <div class="how">报名即得</div>
+    </div>
+    <div class="card">
+      <div class="ico">2</div>
+      <div class="name">贴片福</div>
+      <div class="rule">直播间挂载冬焕新贴片</div>
+      <div class="how">开播挂贴片即得</div>
+    </div>
+    <div class="card">
+      <div class="ico">3</div>
+      <div class="name">创意福</div>
+      <div class="rule">广告投放上新创意素材</div>
+      <div class="how">节内上新一条即得</div>
+    </div>
+    <div class="card">
+      <div class="ico">4</div>
+      <div class="name">勤奋福</div>
+      <div class="rule">累计投广天数超过 35 天</div>
+      <div class="how">坚持投放，累计达标</div>
+    </div>
+    <div class="card">
+      <div class="ico">5</div>
+      <div class="name">增长福</div>
+      <div class="rule">广告 GMV 增长超过 10%</div>
+      <div class="how">对比活动前 14 天日均</div>
+    </div>
+  </div>
+  <div class="note">五张卡难度因客户而异，客户可以先集自己擅长的，再补其他的。不分高低档，集齐才有资格瓜分。</div>
+
+  <h2>三、奖池 20 万<span>集齐五张的客户参与瓜分</span></h2>
+  <div class="pools">
+    <div class="pool main">
+      <div class="title">福气普照奖 · 8 万</div>
+      <div class="amt">8 万元</div>
+      <div class="desc">集齐五张的客户平均瓜分，人人有份，覆盖面最大。</div>
+    </div>
+    <div class="pool">
+      <div class="title">福星榜 · 12 万</div>
+      <div class="amt">12 万元</div>
+      <div class="desc">集齐五张的客户按综合表现排位，前三名额外奖励，其余参与客户按比例瓜分。</div>
+      <table class="rank">
+        <tr><td>第 1 名</td><td>2 万</td></tr>
+        <tr><td>第 2 名</td><td>1.5 万</td></tr>
+        <tr><td>第 3 名</td><td>1 万</td></tr>
+        <tr><td>其余参与客户</td><td>7.5 万，按比例瓜分</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <h2>四、荣誉与曝光<span>奖金之外，客户还能得到什么</span></h2>
+  <div class="honor">
+    <div class="h">
+      <b>福星榜前三</b>
+      <p>名次公示在行业群和活动页，颁发"冬焕新福星"荣誉称号，适合客户做品牌宣传。</p>
+    </div>
+    <div class="h">
+      <b>集福达人</b>
+      <p>集齐五张的客户，授予"集福达人"标识，可以在店铺和直播间展示。</p>
+    </div>
+    <div class="h">
+      <b>行业案例位</b>
+      <p>福星榜客户的玩法与成绩，择优在行业案例中分享，帮客户被更多同行看到。</p>
+    </div>
+  </div>
+
+  <h2>五、传播与热度<span>让每个客户都想晒</span></h2>
+  <div class="buzz">
+    <div class="g">
+      <b>节点造势</b>
+      <p>双12 开门红、冬至、腊八、小年、除夕，每个节点发一波集福海报和话题，把"集福"变成日历上的期待。</p>
+    </div>
+    <div class="g">
+      <b>晒卡上榜</b>
+      <p>客户集到的福卡可以生成专属海报，分享到朋友圈、行业群和视频号。每周公示福星榜，给客户荣誉感。</p>
+    </div>
+    <div class="g">
+      <b>直播间集福</b>
+      <p>直播间挂贴片、主播口播"集福"，观众看到就能参与，直播间本身就是传播入口。</p>
+    </div>
+  </div>
+
+  <h2>六、传播口号<span>可直接用于海报和群通知</span></h2>
+  <div class="slogans">
+    <div class="q">双12 集一张，春节集一张<span>节点感强，适合活动页主标题</span></div>
+    <div class="q">五张福，人人都能集<span>降低门槛，适合客户群通知</span></div>
+    <div class="q">你的福，今天集了没有<span>适合朋友圈和视频号短句</span></div>
+    <div class="q">集齐五福，一起过大年<span>适合春节阶段的收尾传播</span></div>
+  </div>
+
+  <h2>七、节奏<span>11.24 – 2.6</span></h2>
+  <div class="timeline">
+    <div class="step"><b>报名期</b>11.24 – 11.30<br>报名小店跨店满减，预热海报上线</div>
+    <div class="step"><b>集福期</b>12.10 – 1.25<br>双12 保暖 + 春节纳福，每周一次公示</div>
+    <div class="step"><b>公示期</b>每周公示<br>福星榜与集福进度墙持续更新</div>
+    <div class="step"><b>颁奖期</b>1.26<br>结榜，奖金发放，案例征集</div>
+  </div>
+
+  <h2>八、预期效果<span>市场部视角，待测算后填入</span></h2>
+  <div class="kpi">
+    <div class="k"><div class="n">20 万</div><div class="l">奖池投入</div><div class="s">市场部出资</div></div>
+    <div class="k"><div class="n">待定</div><div class="l">参与集福客户数</div><div class="s">待测算</div></div>
+    <div class="k"><div class="n">待定</div><div class="l">活动话题曝光量</div><div class="s">待测算</div></div>
+    <div class="k"><div class="n">待定</div><div class="l">广告投放增量</div><div class="s">待测算</div></div>
+  </div>
+
+  <h2>九、常见问题<span>客户最关心的几件事</span></h2>
+  <div class="faq">
+    <div class="f">
+      <b>没报名小店活动能参加吗？</b>
+      <p>不能。报名小店跨店满减是集福资格，报名后才能开始集卡。</p>
+    </div>
+    <div class="f">
+      <b>福卡每天能领几张？</b>
+      <p>每张卡只集一次，五张卡各领一次即可，不重复领取。</p>
+    </div>
+    <div class="f">
+      <b>中小客户能拿到奖吗？</b>
+      <p>能。福气普照奖按集齐人数平分，中小客户只要集齐五张，就有份。</p>
+    </div>
+    <div class="f">
+      <b>奖金怎么发？</b>
+      <p>活动结束后统一结算，1.26 结榜，奖金按规则发放到激励金账户。</p>
+    </div>
+  </div>
+
+  <div class="foot">
+    注：奖池金额、名次奖、荣誉称号、预期效果均为拟定值，需经营组和市场部确认。综合表现的内部计算口径（广告消耗与广告 GMV 增幅归一化各占 50%）仅用于排位，对外只公示名次和荣誉称号，不公示金额和计算过程。增长基线为活动前 14 天日均，投广天数为累计口径。
+  </div>
+</div>
+</body>
+</html>
